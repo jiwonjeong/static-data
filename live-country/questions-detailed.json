@@ -1,0 +1,2542 @@
+[
+    {
+        "id": 1,
+        "text": {
+            "ko": "당신이 가장 중요하게 생각하는 가치는 무엇인가요?",
+            "en": "What value do you consider most important?",
+            "de": "Welchen Wert halten Sie für am wichtigsten?",
+            "fr": "Quelle valeur considérez-vous comme la plus importante?",
+            "es": "¿Qué valor consideras más importante?",
+            "ja": "最も重要だと思う価値は何ですか？",
+            "th": "คุณคิดว่าคุณค่าใดสำคัญที่สุด?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "💰 경제적 안정과 기회", 
+                    "en": "💰 Economic stability and opportunities", 
+                    "de": "💰 Wirtschaftliche Stabilität und Chancen", 
+                    "fr": "💰 Stabilité économique et opportunités", 
+                    "es": "💰 Estabilidad económica y oportunidades",
+                    "ja": "💰 経済的安定と機会", 
+                    "th": "💰 ความมั่นคงทางเศรษฐกิจและโอกาส" 
+                }, 
+                "value": "economy" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌿 자연과 환경의 질", 
+                    "en": "🌿 Nature and environmental quality", 
+                    "de": "🌿 Natur und Umweltqualität", 
+                    "fr": "🌿 Nature et qualité environnementale", 
+                    "es": "🌿 Naturaleza y calidad ambiental", 
+                    "ja": "🌿 自然と環境の質", 
+                    "th": "🌿 ธรรมชาติและคุณภาพสิ่งแวดล้อม" 
+                }, 
+                "value": "nature" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎨 문화와 예술의 다양성", 
+                    "en": "🎨 Cultural and artistic diversity", 
+                    "de": "🎨 Kulturelle und künstlerische Vielfalt", 
+                    "fr": "🎨 Diversité culturelle et artistique", 
+                    "es": "🎨 Diversidad cultural y artística", 
+                    "ja": "🎨 文化と芸術の多様性", 
+                    "th": "🎨 ความหลากหลายทางวัฒนธรรมและศิลปะ" 
+                }, 
+                "value": "culture" 
+            },
+            { 
+                "text": { 
+                    "ko": "🤝 사회적 안전과 복지", 
+                    "en": "🤝 Social safety and welfare", 
+                    "de": "🤝 Soziale Sicherheit und Wohlfahrt", 
+                    "fr": "🤝 Sécurité sociale et bien-être", 
+                    "es": "🤝 Seguridad social y bienestar", 
+                    "ja": "🤝 社会的安全と福祉", 
+                    "th": "🤝 ความปลอดภัยและสวัสดิการทางสังคม" 
+                }, 
+                "value": "safety" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚀 혁신과 기술 발전", 
+                    "en": "🚀 Innovation and technological advancement", 
+                    "de": "🚀 Innovation und technologischer Fortschritt", 
+                    "fr": "🚀 Innovation et progrès technologique", 
+                    "es": "🚀 Innovación y avance tecnológico", 
+                    "ja": "🚀 革新と技術発展", 
+                    "th": "🚀 นวัตกรรมและความก้าวหน้าทางเทคโนโลยี" 
+                }, 
+                "value": "tech" 
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": {
+            "ko": "선호하는 기후는 어떤 것인가요?",
+            "en": "What type of climate do you prefer?",
+            "de": "Welches Klima bevorzugen Sie?",
+            "fr": "Quel type de climat préférez-vous?",
+            "es": "¿Qué tipo de clima prefieres?",
+            "ja": "どのような気候を好みますか？",
+            "th": "คุณชอบสภาพอากาศแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🌞 따뜻하고 햇살이 많은 날씨", 
+                    "en": "🌞 Warm and sunny weather", 
+                    "de": "🌞 Warmes und sonniges Wetter", 
+                    "fr": "🌞 Temps chaud et ensoleillé", 
+                    "es": "🌞 Clima cálido y soleado", 
+                    "ja": "🌞 暖かく日差しの多い天気", 
+                    "th": "🌞 อากาศอบอุ่นและแดดจัด" 
+                }, 
+                "value": "warm" 
+            },
+            { 
+                "text": { 
+                    "ko": "❄️ 시원하고 선선한 날씨", 
+                    "en": "❄️ Cool and fresh weather", 
+                    "de": "❄️ Kühles und frisches Wetter", 
+                    "fr": "❄️ Temps frais et agréable", 
+                    "es": "❄️ Clima fresco y agradable", 
+                    "ja": "❄️ 涼しくて爽やかな天気", 
+                    "th": "❄️ อากาศเย็นและสดชื่น" 
+                }, 
+                "value": "cool" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌸 뚜렷한 사계절", 
+                    "en": "🌸 Distinct four seasons", 
+                    "de": "🌸 Ausgeprägte vier Jahreszeiten", 
+                    "fr": "🌸 Quatre saisons distinctes", 
+                    "es": "🌸 Cuatro estaciones distintas", 
+                    "ja": "🌸 はっきりとした四季", 
+                    "th": "🌸 สี่ฤดูที่ชัดเจน" 
+                }, 
+                "value": "seasons" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌴 열대 기후", 
+                    "en": "🌴 Tropical climate", 
+                    "de": "🌴 Tropisches Klima", 
+                    "fr": "🌴 Climat tropical", 
+                    "es": "🌴 Clima tropical", 
+                    "ja": "🌴 熱帯気候", 
+                    "th": "🌴 สภาพอากาศเขตร้อน" 
+                }, 
+                "value": "tropical" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌤️ 온화한 날씨", 
+                    "en": "🌤️ Mild weather", 
+                    "de": "🌤️ Mildes Wetter", 
+                    "fr": "🌤️ Temps doux", 
+                    "es": "🌤️ Clima templado", 
+                    "ja": "🌤️ 穏やかな天気", 
+                    "th": "🌤️ อากาศอบอุ่นพอเหมาะ" 
+                }, 
+                "value": "mild" 
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": {
+            "ko": "일과 삶의 균형에서 무엇을 더 중시하나요?",
+            "en": "What do you prioritize in work-life balance?",
+            "de": "Was ist Ihnen bei der Work-Life-Balance wichtiger?",
+            "fr": "Que privilégiez-vous dans l'équilibre travail-vie?",
+            "es": "¿Qué priorizas en el equilibrio trabajo-vida?",
+            "ja": "ワークライフバランスで何を重視しますか？",
+            "th": "คุณให้ความสำคัญกับอะไรในสมดุลชีวิตและการทำงาน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "💼 커리어 성장과 기회", 
+                    "en": "💼 Career growth and opportunities", 
+                    "de": "💼 Karrierewachstum und Chancen", 
+                    "fr": "💼 Croissance de carrière et opportunités", 
+                    "es": "💼 Crecimiento profesional y oportunidades", 
+                    "ja": "💼 キャリア成長と機会", 
+                    "th": "💼 การเติบโตในอาชีพและโอกาส" 
+                }, 
+                "value": "career" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏖️ 여가와 휴식", 
+                    "en": "🏖️ Leisure and rest", 
+                    "de": "🏖️ Freizeit und Erholung", 
+                    "fr": "🏖️ Loisirs et repos", 
+                    "es": "🏖️ Ocio y descanso", 
+                    "ja": "🏖️ 余暇と休息", 
+                    "th": "🏖️ การพักผ่อนและการผ่อนคลาย" 
+                }, 
+                "value": "leisure" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 완벽한 균형", 
+                    "en": "⚖️ Perfect balance", 
+                    "de": "⚖️ Perfekte Balance", 
+                    "fr": "⚖️ Équilibre parfait", 
+                    "es": "⚖️ Equilibrio perfecto", 
+                    "ja": "⚖️ 完璧なバランス", 
+                    "th": "⚖️ ความสมดุลที่สมบูรณ์แบบ" 
+                }, 
+                "value": "balance" 
+            },
+            { 
+                "text": { 
+                    "ko": "👨‍👩‍👧‍👦 가족과의 시간", 
+                    "en": "👨‍👩‍👧‍👦 Time with family", 
+                    "de": "👨‍👩‍👧‍👦 Zeit mit der Familie", 
+                    "fr": "👨‍👩‍👧‍👦 Temps en famille", 
+                    "es": "👨‍👩‍👧‍👦 Tiempo con la familia", 
+                    "ja": "👨‍👩‍👧‍👦 家族との時間", 
+                    "th": "👨‍👩‍👧‍👦 เวลากับครอบครัว" 
+                }, 
+                "value": "family" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎯 개인적 성취", 
+                    "en": "🎯 Personal achievement", 
+                    "de": "🎯 Persönliche Erfolge", 
+                    "fr": "🎯 Accomplissement personnel", 
+                    "es": "🎯 Logros personales", 
+                    "ja": "🎯 個人的な成就", 
+                    "th": "🎯 ความสำเร็จส่วนตัว" 
+                }, 
+                "value": "achievement" 
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": {
+            "ko": "선호하는 주거 환경은?",
+            "en": "What is your preferred living environment?",
+            "de": "Welche Wohnumgebung bevorzugen Sie?",
+            "fr": "Quel est votre environnement de vie préféré?",
+            "es": "¿Cuál es tu entorno de vida preferido?",
+            "ja": "好みの居住環境は？",
+            "th": "คุณชอบสภาพแวดล้อมการอยู่อาศัยแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏙️ 활기찬 대도시", 
+                    "en": "🏙️ Vibrant big city", 
+                    "de": "🏙️ Lebendige Großstadt", 
+                    "fr": "🏙️ Grande ville animée", 
+                    "es": "🏙️ Gran ciudad vibrante", 
+                    "ja": "🏙️ 活気ある大都市", 
+                    "th": "🏙️ เมืองใหญ่ที่มีชีวิตชีวา" 
+                }, 
+                "value": "city" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏘️ 조용한 교외", 
+                    "en": "🏘️ Quiet suburbs", 
+                    "de": "🏘️ Ruhige Vororte", 
+                    "fr": "🏘️ Banlieue tranquille", 
+                    "es": "🏘️ Suburbios tranquilos", 
+                    "ja": "🏘️ 静かな郊外", 
+                    "th": "🏘️ ชานเมืองที่เงียบสงบ" 
+                }, 
+                "value": "suburb" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏞️ 자연 속 시골", 
+                    "en": "🏞️ Countryside in nature", 
+                    "de": "🏞️ Ländliche Natur", 
+                    "fr": "🏞️ Campagne dans la nature", 
+                    "es": "🏞️ Campo en la naturaleza", 
+                    "ja": "🏞️ 自然の中の田舎", 
+                    "th": "🏞️ ชนบทในธรรมชาติ" 
+                }, 
+                "value": "rural" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏖️ 해변가 도시", 
+                    "en": "🏖️ Beach town", 
+                    "de": "🏖️ Strandstadt", 
+                    "fr": "🏖️ Ville côtière", 
+                    "es": "🏖️ Ciudad costera", 
+                    "ja": "🏖️ ビーチタウン", 
+                    "th": "🏖️ เมืองชายหาด" 
+                }, 
+                "value": "beach" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏔️ 산악 지역", 
+                    "en": "🏔️ Mountain area", 
+                    "de": "🏔️ Bergregion", 
+                    "fr": "🏔️ Région montagneuse", 
+                    "es": "🏔️ Área montañosa", 
+                    "ja": "🏔️ 山岳地域", 
+                    "th": "🏔️ พื้นที่ภูเขา" 
+                }, 
+                "value": "mountain" 
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": {
+            "ko": "사회적 환경에서 중요하게 생각하는 것은?",
+            "en": "What do you value in a social environment?",
+            "de": "Was ist Ihnen in einem sozialen Umfeld wichtig?",
+            "fr": "Qu'est-ce qui est important pour vous dans un environnement social?",
+            "es": "¿Qué valoras en un entorno social?",
+            "ja": "社会環境で重要視することは？",
+            "th": "คุณให้ความสำคัญกับอะไรในสภาพแวดล้อมทางสังคม?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🗣️ 다양성과 포용성", 
+                    "en": "🗣️ Diversity and inclusivity", 
+                    "de": "🗣️ Vielfalt und Inklusion", 
+                    "fr": "🗣️ Diversité et inclusion", 
+                    "es": "🗣️ Diversidad e inclusión", 
+                    "ja": "🗣️ 多様性と包容性", 
+                    "th": "🗣️ ความหลากหลายและการยอมรับ" 
+                }, 
+                "value": "diversity" 
+            },
+            { 
+                "text": { 
+                    "ko": "🤝 공동체 의식", 
+                    "en": "🤝 Sense of community", 
+                    "de": "🤝 Gemeinschaftssinn", 
+                    "fr": "🤝 Sens de la communauté", 
+                    "es": "🤝 Sentido de comunidad", 
+                    "ja": "🤝 共同体意識", 
+                    "th": "🤝 จิตสำนึกชุมชน" 
+                }, 
+                "value": "community" 
+            },
+            { 
+                "text": { 
+                    "ko": "📚 교육 수준", 
+                    "en": "📚 Education level", 
+                    "de": "📚 Bildungsniveau", 
+                    "fr": "📚 Niveau d'éducation", 
+                    "es": "📚 Nivel educativo", 
+                    "ja": "📚 教育レベル", 
+                    "th": "📚 ระดับการศึกษา" 
+                }, 
+                "value": "education" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎭 문화 활동", 
+                    "en": "🎭 Cultural activities", 
+                    "de": "🎭 Kulturelle Aktivitäten", 
+                    "fr": "🎭 Activités culturelles", 
+                    "es": "🎭 Actividades culturales", 
+                    "ja": "🎭 文化活動", 
+                    "th": "🎭 กิจกรรมทางวัฒนธรรม" 
+                }, 
+                "value": "cultural" 
+            },
+            { 
+                "text": { 
+                    "ko": "💼 비즈니스 기회", 
+                    "en": "💼 Business opportunities", 
+                    "de": "💼 Geschäftsmöglichkeiten", 
+                    "fr": "💼 Opportunités d'affaires", 
+                    "es": "💼 Oportunidades de negocios", 
+                    "ja": "💼 ビジネスチャンス", 
+                    "th": "💼 โอกาสทางธุรกิจ" 
+                }, 
+                "value": "business" 
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": {
+            "ko": "언어 학습에 대한 당신의 태도는?",
+            "en": "What is your attitude towards language learning?",
+            "de": "Wie ist Ihre Einstellung zum Sprachenlernen?",
+            "fr": "Quelle est votre attitude envers l'apprentissage des langues?",
+            "es": "¿Cuál es tu actitud hacia el aprendizaje de idiomas?",
+            "ja": "言語学習に対するあなたの態度は？",
+            "th": "ทัศนคติของคุณต่อการเรียนภาษาเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🌐 새로운 언어 배우기를 즐긴다", 
+                    "en": "🌐 Enjoy learning new languages", 
+                    "de": "🌐 Genieße es, neue Sprachen zu lernen", 
+                    "fr": "🌐 J'aime apprendre de nouvelles langues", 
+                    "es": "🌐 Disfruto aprendiendo nuevos idiomas", 
+                    "ja": "🌐 新しい言語を学ぶのを楽しむ", 
+                    "th": "🌐 สนุกกับการเรียนภาษาใหม่" 
+                }, 
+                "value": "language_enthusiast" 
+            },
+            { 
+                "text": { 
+                    "ko": "📚 필요하면 배울 수 있다", 
+                    "en": "📚 Can learn if necessary", 
+                    "de": "📚 Kann bei Bedarf lernen", 
+                    "fr": "📚 Peut apprendre si nécessaire", 
+                    "es": "📚 Puedo aprender si es necesario", 
+                    "ja": "📚 必要なら学べる", 
+                    "th": "📚 เรียนได้หากจำเป็น" 
+                }, 
+                "value": "language_practical" 
+            },
+            { 
+                "text": { 
+                    "ko": "🗣️ 영어로 충분하다", 
+                    "en": "🗣️ English is enough", 
+                    "de": "🗣️ Englisch reicht aus", 
+                    "fr": "🗣️ L'anglais suffit", 
+                    "es": "🗣️ El inglés es suficiente", 
+                    "ja": "🗣️ 英語で十分", 
+                    "th": "🗣️ ภาษาอังกฤษก็เพียงพอ" 
+                }, 
+                "value": "english_only" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏠 모국어 환경을 선호한다", 
+                    "en": "🏠 Prefer native language environment", 
+                    "de": "🏠 Bevorzuge Muttersprachen-Umgebung", 
+                    "fr": "🏠 Préfère un environnement en langue maternelle", 
+                    "es": "🏠 Prefiero entorno de lengua materna", 
+                    "ja": "🏠 母国語環境を好む", 
+                    "th": "🏠 ชอบสภาพแวดล้อมภาษาแม่" 
+                }, 
+                "value": "native_speaker" 
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": {
+            "ko": "의료 시스템에서 가장 중요한 것은?",
+            "en": "What is most important in a healthcare system?",
+            "de": "Was ist im Gesundheitssystem am wichtigsten?",
+            "fr": "Qu'est-ce qui est le plus important dans un système de santé?",
+            "es": "¿Qué es lo más importante en un sistema de salud?",
+            "ja": "医療システムで最も重要なことは？",
+            "th": "อะไรสำคัญที่สุดในระบบการแพทย์?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏥 최첨단 의료 기술", 
+                    "en": "🏥 Cutting-edge medical technology", 
+                    "de": "🏥 Modernste Medizintechnik", 
+                    "fr": "🏥 Technologie médicale de pointe", 
+                    "es": "🏥 Tecnología médica de vanguardia", 
+                    "ja": "🏥 最先端医療技術", 
+                    "th": "🏥 เทคโนโลยีการแพทย์ล้ำสมัย" 
+                }, 
+                "value": "advanced_medical" 
+            },
+            { 
+                "text": { 
+                    "ko": "💊 보편적 의료 보험", 
+                    "en": "💊 Universal health insurance", 
+                    "de": "💊 Universelle Krankenversicherung", 
+                    "fr": "💊 Assurance maladie universelle", 
+                    "es": "💊 Seguro médico universal", 
+                    "ja": "💊 普遍的医療保険", 
+                    "th": "💊 ประกันสุขภาพถ้วนหน้า" 
+                }, 
+                "value": "universal_healthcare" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏃 예방 의학과 웰빙", 
+                    "en": "🏃 Preventive medicine and wellness", 
+                    "de": "🏃 Präventivmedizin und Wellness", 
+                    "fr": "🏃 Médecine préventive et bien-être", 
+                    "es": "🏃 Medicina preventiva y bienestar", 
+                    "ja": "🏃 予防医学とウェルビーイング", 
+                    "th": "🏃 การแพทย์เชิงป้องกันและสุขภาพดี" 
+                }, 
+                "value": "preventive_care" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌿 자연 치유와 대체 의학", 
+                    "en": "🌿 Natural healing and alternative medicine", 
+                    "de": "🌿 Naturheilkunde und Alternativmedizin", 
+                    "fr": "🌿 Guérison naturelle et médecine alternative", 
+                    "es": "🌿 Sanación natural y medicina alternativa", 
+                    "ja": "🌿 自然治癒と代替医療", 
+                    "th": "🌿 การรักษาด้วยธรรมชาติและการแพทย์ทางเลือก" 
+                }, 
+                "value": "alternative_medicine" 
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": {
+            "ko": "교통 수단 선호도는?",
+            "en": "What is your transportation preference?",
+            "de": "Was ist Ihre Verkehrsmittelpräferenz?",
+            "fr": "Quelle est votre préférence de transport?",
+            "es": "¿Cuál es tu preferencia de transporte?",
+            "ja": "交通手段の好みは？",
+            "th": "คุณชอบการเดินทางแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🚇 대중교통이 잘 발달된 곳", 
+                    "en": "🚇 Well-developed public transport", 
+                    "de": "🚇 Gut ausgebauter öffentlicher Verkehr", 
+                    "fr": "🚇 Transport public bien développé", 
+                    "es": "🚇 Transporte público bien desarrollado", 
+                    "ja": "🚇 公共交通機関が発達した場所", 
+                    "th": "🚇 ระบบขนส่งสาธารณะที่พัฒนาดี" 
+                }, 
+                "value": "public_transport" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚗 자동차 운전이 편리한 곳", 
+                    "en": "🚗 Car-friendly places", 
+                    "de": "🚗 Autofreundliche Orte", 
+                    "fr": "🚗 Endroits adaptés aux voitures", 
+                    "es": "🚗 Lugares amigables con los autos", 
+                    "ja": "🚗 車の運転が便利な場所", 
+                    "th": "🚗 สถานที่ที่สะดวกสำหรับการขับรถ" 
+                }, 
+                "value": "car_friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚴 자전거 친화적인 곳", 
+                    "en": "🚴 Bicycle-friendly places", 
+                    "de": "🚴 Fahrradfreundliche Orte", 
+                    "fr": "🚴 Endroits adaptés aux vélos", 
+                    "es": "🚴 Lugares amigables con las bicicletas", 
+                    "ja": "🚴 自転車に優しい場所", 
+                    "th": "🚴 สถานที่ที่เอื้อต่อการปั่นจักรยาน" 
+                }, 
+                "value": "bike_friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚶 도보로 이동 가능한 곳", 
+                    "en": "🚶 Walkable places", 
+                    "de": "🚶 Fußgängerfreundliche Orte", 
+                    "fr": "🚶 Endroits accessibles à pied", 
+                    "es": "🚶 Lugares caminables", 
+                    "ja": "🚶 徒歩で移動可能な場所", 
+                    "th": "🚶 สถานที่ที่เดินได้" 
+                }, 
+                "value": "walkable" 
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": {
+            "ko": "음식 문화에 대한 선호는?",
+            "en": "What is your food culture preference?",
+            "de": "Was ist Ihre Esskultur-Präferenz?",
+            "fr": "Quelle est votre préférence en matière de culture alimentaire?",
+            "es": "¿Cuál es tu preferencia de cultura gastronómica?",
+            "ja": "食文化の好みは？",
+            "th": "คุณชอบวัฒนธรรมอาหารแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🍕 다양한 국제 음식", 
+                    "en": "🍕 Diverse international cuisine", 
+                    "de": "🍕 Vielfältige internationale Küche", 
+                    "fr": "🍕 Cuisine internationale variée", 
+                    "es": "🍕 Cocina internacional diversa", 
+                    "ja": "🍕 多様な国際料理", 
+                    "th": "🍕 อาหารนานาชาติที่หลากหลาย" 
+                }, 
+                "value": "international_cuisine" 
+            },
+            { 
+                "text": { 
+                    "ko": "🥗 건강한 로컬 음식", 
+                    "en": "🥗 Healthy local food", 
+                    "de": "🥗 Gesunde lokale Küche", 
+                    "fr": "🥗 Nourriture locale saine", 
+                    "es": "🥗 Comida local saludable", 
+                    "ja": "🥗 健康的なローカルフード", 
+                    "th": "🥗 อาหารท้องถิ่นเพื่อสุขภาพ" 
+                }, 
+                "value": "healthy_local" 
+            },
+            { 
+                "text": { 
+                    "ko": "🍜 전통 요리가 풍부한 곳", 
+                    "en": "🍜 Rich traditional cuisine", 
+                    "de": "🍜 Reichhaltige traditionelle Küche", 
+                    "fr": "🍜 Cuisine traditionnelle riche", 
+                    "es": "🍜 Rica cocina tradicional", 
+                    "ja": "🍜 伝統料理が豊富な場所", 
+                    "th": "🍜 อาหารพื้นเมืองที่หลากหลาย" 
+                }, 
+                "value": "traditional_cuisine" 
+            },
+            { 
+                "text": { 
+                    "ko": "🥑 채식/비건 옵션이 많은 곳", 
+                    "en": "🥑 Many vegetarian/vegan options", 
+                    "de": "🥑 Viele vegetarische/vegane Optionen", 
+                    "fr": "🥑 Nombreuses options végétariennes/véganes", 
+                    "es": "🥑 Muchas opciones vegetarianas/veganas", 
+                    "ja": "🥑 ベジタリアン/ビーガンオプションが多い場所", 
+                    "th": "🥑 ตัวเลือกมังสวิรัติ/วีแกนมากมาย" 
+                }, 
+                "value": "vegetarian_friendly" 
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": {
+            "ko": "은퇴 후 계획은?",
+            "en": "What are your retirement plans?",
+            "de": "Was sind Ihre Ruhestandspläne?",
+            "fr": "Quels sont vos projets de retraite?",
+            "es": "¿Cuáles son tus planes de jubilación?",
+            "ja": "退職後の計画は？",
+            "th": "แผนการหลังเกษียณของคุณคืออะไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏖️ 따뜻한 곳에서 여유롭게", 
+                    "en": "🏖️ Relaxing in a warm place", 
+                    "de": "🏖️ Entspannen an einem warmen Ort", 
+                    "fr": "🏖️ Se détendre dans un endroit chaud", 
+                    "es": "🏖️ Relajarse en un lugar cálido", 
+                    "ja": "🏖️ 暖かい場所でゆったり", 
+                    "th": "🏖️ พักผ่อนในที่อบอุ่น" 
+                }, 
+                "value": "warm_retirement" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎓 계속 배우고 활동하며", 
+                    "en": "🎓 Keep learning and staying active", 
+                    "de": "🎓 Weiter lernen und aktiv bleiben", 
+                    "fr": "🎓 Continuer à apprendre et rester actif", 
+                    "es": "🎓 Seguir aprendiendo y manteniéndose activo", 
+                    "ja": "🎓 学び続けて活動的に", 
+                    "th": "🎓 เรียนรู้และทำกิจกรรมต่อไป" 
+                }, 
+                "value": "active_retirement" 
+            },
+            { 
+                "text": { 
+                    "ko": "👨‍👩‍👧‍👦 가족 근처에서", 
+                    "en": "👨‍👩‍👧‍👦 Near family", 
+                    "de": "👨‍👩‍👧‍👦 In der Nähe der Familie", 
+                    "fr": "👨‍👩‍👧‍👦 Près de la famille", 
+                    "es": "👨‍👩‍👧‍👦 Cerca de la familia", 
+                    "ja": "👨‍👩‍👧‍👦 家族の近くで", 
+                    "th": "👨‍👩‍👧‍👦 ใกล้ครอบครัว" 
+                }, 
+                "value": "family_retirement" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 여행하며 살기", 
+                    "en": "🌍 Living while traveling", 
+                    "de": "🌍 Reisend leben", 
+                    "fr": "🌍 Vivre en voyageant", 
+                    "es": "🌍 Vivir viajando", 
+                    "ja": "🌍 旅をしながら生活", 
+                    "th": "🌍 ใช้ชีวิตท่องเที่ยว" 
+                }, 
+                "value": "nomad_retirement" 
+            }
+        ]
+    },    
+    {
+        "id": 11,
+        "text": {
+            "ko": "종교적 환경에 대한 선호는?",
+            "en": "What is your preference for religious environment?",
+            "de": "Was ist Ihre Präferenz für religiöse Umgebung?",
+            "fr": "Quelle est votre préférence pour l'environnement religieux?",
+            "es": "¿Cuál es tu preferencia para el entorno religioso?",
+            "ja": "宗教的環境に対する好みは？",
+            "th": "คุณชอบสภาพแวดล้อมทางศาสนาแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "⛪ 기독교 문화권", 
+                    "en": "⛪ Christian culture", 
+                    "de": "⛪ Christliche Kultur", 
+                    "fr": "⛪ Culture chrétienne", 
+                    "es": "⛪ Cultura cristiana", 
+                    "ja": "⛪ キリスト教文化圏", 
+                    "th": "⛪ วัฒนธรรมคริสเตียน" 
+                }, 
+                "value": "christian" 
+            },
+            { 
+                "text": { 
+                    "ko": "☪️ 이슬람 문화권도 괜찮다", 
+                    "en": "☪️ Islamic culture is fine too", 
+                    "de": "☪️ Islamische Kultur ist auch in Ordnung", 
+                    "fr": "☪️ La culture islamique convient aussi", 
+                    "es": "☪️ La cultura islámica también está bien", 
+                    "ja": "☪️ イスラム文化圏も大丈夫", 
+                    "th": "☪️ วัฒนธรรมอิสลามก็ได้" 
+                }, 
+                "value": "islamic_ok" 
+            },
+            { 
+                "text": { 
+                    "ko": "🕉️ 동양 종교/철학 문화", 
+                    "en": "🕉️ Eastern religion/philosophy culture", 
+                    "de": "🕉️ Östliche Religion/Philosophie-Kultur", 
+                    "fr": "🕉️ Culture religion/philosophie orientale", 
+                    "es": "🕉️ Cultura de religión/filosofía oriental", 
+                    "ja": "🕉️ 東洋宗教/哲学文化", 
+                    "th": "🕉️ วัฒนธรรมศาสนา/ปรัชญาตะวันออก" 
+                }, 
+                "value": "eastern" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌐 종교적으로 중립적인 곳", 
+                    "en": "🌐 Religiously neutral place", 
+                    "de": "🌐 Religiös neutraler Ort", 
+                    "fr": "🌐 Lieu religieusement neutre", 
+                    "es": "🌐 Lugar religiosamente neutral", 
+                    "ja": "🌐 宗教的に中立な場所", 
+                    "th": "🌐 สถานที่ที่เป็นกลางทางศาสนา" 
+                }, 
+                "value": "secular" 
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "text": {
+            "ko": "자녀 교육 환경으로 중요한 것은?",
+            "en": "What is important for children's education environment?",
+            "de": "Was ist wichtig für die Bildungsumgebung der Kinder?",
+            "fr": "Qu'est-ce qui est important pour l'environnement éducatif des enfants?",
+            "es": "¿Qué es importante para el entorno educativo de los niños?",
+            "ja": "子供の教育環境で重要なことは？",
+            "th": "อะไรสำคัญสำหรับสภาพแวดล้อมการศึกษาของบุตรหลาน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🎓 세계적 수준의 대학", 
+                    "en": "🎓 World-class universities", 
+                    "de": "🎓 Weltklasse-Universitäten", 
+                    "fr": "🎓 Universités de classe mondiale", 
+                    "es": "🎓 Universidades de clase mundial", 
+                    "ja": "🎓 世界レベルの大学", 
+                    "th": "🎓 มหาวิทยาลัยระดับโลก" 
+                }, 
+                "value": "top_universities" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏫 공교육이 우수한 곳", 
+                    "en": "🏫 Excellent public education", 
+                    "de": "🏫 Ausgezeichnete öffentliche Bildung", 
+                    "fr": "🏫 Excellente éducation publique", 
+                    "es": "🏫 Excelente educación pública", 
+                    "ja": "🏫 公教育が優秀な場所", 
+                    "th": "🏫 การศึกษาภาครัฐที่ยอดเยี่ยม" 
+                }, 
+                "value": "public_education" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 국제학교가 많은 곳", 
+                    "en": "🌍 Many international schools", 
+                    "de": "🌍 Viele internationale Schulen", 
+                    "fr": "🌍 Nombreuses écoles internationales", 
+                    "es": "🌍 Muchas escuelas internacionales", 
+                    "ja": "🌍 インターナショナルスクールが多い場所", 
+                    "th": "🌍 โรงเรียนนานาชาติมากมาย" 
+                }, 
+                "value": "international_schools" 
+            },
+            { 
+                "text": { 
+                    "ko": "👶 자녀가 없어 상관없음", 
+                    "en": "👶 No children, doesn't matter", 
+                    "de": "👶 Keine Kinder, spielt keine Rolle", 
+                    "fr": "👶 Pas d'enfants, peu importe", 
+                    "es": "👶 Sin hijos, no importa", 
+                    "ja": "👶 子供がいないので関係ない", 
+                    "th": "👶 ไม่มีบุตร ไม่สำคัญ" 
+                }, 
+                "value": "no_children" 
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "text": {
+            "ko": "선호하는 인구 밀도는?",
+            "en": "What is your preferred population density?",
+            "de": "Was ist Ihre bevorzugte Bevölkerungsdichte?",
+            "fr": "Quelle est votre densité de population préférée?",
+            "es": "¿Cuál es tu densidad de población preferida?",
+            "ja": "好みの人口密度は？",
+            "th": "คุณชอบความหนาแน่นของประชากรแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏙️ 북적이는 대도시", 
+                    "en": "🏙️ Bustling megacity", 
+                    "de": "🏙️ Geschäftige Großstadt", 
+                    "fr": "🏙️ Mégapole animée", 
+                    "es": "🏙️ Megaciudad bulliciosa", 
+                    "ja": "🏙️ 賑やかな大都市", 
+                    "th": "🏙️ มหานครที่คึกคัก" 
+                }, 
+                "value": "megacity" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏘️ 적당한 중소도시", 
+                    "en": "🏘️ Moderate medium-sized city", 
+                    "de": "🏘️ Mittelgroße Stadt", 
+                    "fr": "🏘️ Ville de taille moyenne", 
+                    "es": "🏘️ Ciudad mediana moderada", 
+                    "ja": "🏘️ 適度な中小都市", 
+                    "th": "🏘️ เมืองขนาดกลางพอเหมาะ" 
+                }, 
+                "value": "medium_city" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏡 한적한 소도시", 
+                    "en": "🏡 Quiet small town", 
+                    "de": "🏡 Ruhige Kleinstadt", 
+                    "fr": "🏡 Petite ville tranquille", 
+                    "es": "🏡 Pequeña ciudad tranquila", 
+                    "ja": "🏡 静かな小都市", 
+                    "th": "🏡 เมืองเล็กที่เงียบสงบ" 
+                }, 
+                "value": "small_town" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌲 인구가 적은 자연 속", 
+                    "en": "🌲 Low population in nature", 
+                    "de": "🌲 Geringe Bevölkerung in der Natur", 
+                    "fr": "🌲 Faible population dans la nature", 
+                    "es": "🌲 Baja población en la naturaleza", 
+                    "ja": "🌲 人口の少ない自然の中", 
+                    "th": "🌲 ประชากรน้อยในธรรมชาติ" 
+                }, 
+                "value": "rural_low" 
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "text": {
+            "ko": "창업/비즈니스 환경 선호도는?",
+            "en": "What is your startup/business environment preference?",
+            "de": "Was ist Ihre Präferenz für Startup/Geschäftsumgebung?",
+            "fr": "Quelle est votre préférence pour l'environnement startup/affaires?",
+            "es": "¿Cuál es tu preferencia de entorno startup/negocios?",
+            "ja": "起業/ビジネス環境の好みは？",
+            "th": "คุณชอบสภาพแวดล้อมการทำธุรกิจ/สตาร์ทอัพแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "💼 스타트업 생태계가 활발한 곳", 
+                    "en": "💼 Active startup ecosystem", 
+                    "de": "💼 Aktives Startup-Ökosystem", 
+                    "fr": "💼 Écosystème de startups actif", 
+                    "es": "💼 Ecosistema de startups activo", 
+                    "ja": "💼 スタートアップエコシステムが活発な場所", 
+                    "th": "💼 ระบบนิเวศสตาร์ทอัพที่คึกคัก" 
+                }, 
+                "value": "startup_hub" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏢 대기업 취업 기회가 많은 곳", 
+                    "en": "🏢 Many corporate job opportunities", 
+                    "de": "🏢 Viele Konzern-Jobmöglichkeiten", 
+                    "fr": "🏢 Nombreuses opportunités d'emploi en entreprise", 
+                    "es": "🏢 Muchas oportunidades de empleo corporativo", 
+                    "ja": "🏢 大企業就職機会が多い場所", 
+                    "th": "🏢 โอกาสทำงานในบริษัทใหญ่มากมาย" 
+                }, 
+                "value": "corporate" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎨 프리랜서/창작 활동하기 좋은 곳", 
+                    "en": "🎨 Good for freelance/creative work", 
+                    "de": "🎨 Gut für Freelance/kreative Arbeit", 
+                    "fr": "🎨 Bon pour le travail indépendant/créatif", 
+                    "es": "🎨 Bueno para trabajo freelance/creativo", 
+                    "ja": "🎨 フリーランス/創作活動に良い場所", 
+                    "th": "🎨 ดีสำหรับฟรีแลนซ์/งานสร้างสรรค์" 
+                }, 
+                "value": "freelance" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏖️ 일보다는 여유를 중시", 
+                    "en": "🏖️ Prioritize leisure over work", 
+                    "de": "🏖️ Freizeit vor Arbeit", 
+                    "fr": "🏖️ Privilégier les loisirs au travail", 
+                    "es": "🏖️ Priorizar el ocio sobre el trabajo", 
+                    "ja": "🏖️ 仕事より余暇を重視", 
+                    "th": "🏖️ ให้ความสำคัญกับการพักผ่อนมากกว่างาน" 
+                }, 
+                "value": "leisure_focus" 
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "text": {
+            "ko": "선호하는 주택 형태는?",
+            "en": "What is your preferred housing type?",
+            "de": "Was ist Ihr bevorzugter Wohnungstyp?",
+            "fr": "Quel est votre type de logement préféré?",
+            "es": "¿Cuál es tu tipo de vivienda preferido?",
+            "ja": "好みの住宅形態は？",
+            "th": "คุณชอบที่พักอาศัยแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏢 도심 아파트/콘도", 
+                    "en": "🏢 Urban apartment/condo", 
+                    "de": "🏢 Stadtwohnung/Eigentumswohnung", 
+                    "fr": "🏢 Appartement/condo urbain", 
+                    "es": "🏢 Apartamento/condominio urbano", 
+                    "ja": "🏢 都心のアパート/コンドミニアム", 
+                    "th": "🏢 อพาร์ทเมนท์/คอนโดในเมือง" 
+                }, 
+                "value": "urban_apartment" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏡 정원이 있는 단독주택", 
+                    "en": "🏡 House with garden", 
+                    "de": "🏡 Haus mit Garten", 
+                    "fr": "🏡 Maison avec jardin", 
+                    "es": "🏡 Casa con jardín", 
+                    "ja": "🏡 庭付き一戸建て", 
+                    "th": "🏡 บ้านเดี่ยวพร้อมสวน" 
+                }, 
+                "value": "house_garden" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏘️ 타운하우스", 
+                    "en": "🏘️ Townhouse", 
+                    "de": "🏘️ Reihenhaus", 
+                    "fr": "🏘️ Maison de ville", 
+                    "es": "🏘️ Casa adosada", 
+                    "ja": "🏘️ タウンハウス", 
+                    "th": "🏘️ ทาวน์เฮาส์" 
+                }, 
+                "value": "townhouse" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚐 이동식 주택도 고려", 
+                    "en": "🚐 Consider mobile home too", 
+                    "de": "🚐 Auch Mobilheim in Betracht ziehen", 
+                    "fr": "🚐 Considérer aussi la maison mobile", 
+                    "es": "🚐 También considero casa móvil", 
+                    "ja": "🚐 移動式住宅も検討", 
+                    "th": "🚐 พิจารณาบ้านเคลื่อนที่ด้วย" 
+                }, 
+                "value": "mobile_home" 
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "text": {
+            "ko": "자연재해에 대한 우려 수준은?",
+            "en": "What is your level of concern about natural disasters?",
+            "de": "Wie besorgt sind Sie über Naturkatastrophen?",
+            "fr": "Quel est votre niveau de préoccupation concernant les catastrophes naturelles?",
+            "es": "¿Cuál es tu nivel de preocupación por los desastres naturales?",
+            "ja": "自然災害に対する懸念レベルは？",
+            "th": "คุณกังวลเกี่ยวกับภัยธรรมชาติแค่ไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🛡️ 자연재해가 거의 없는 곳", 
+                    "en": "🛡️ Places with almost no natural disasters", 
+                    "de": "🛡️ Orte mit fast keinen Naturkatastrophen", 
+                    "fr": "🛡️ Endroits avec presque pas de catastrophes naturelles", 
+                    "es": "🛡️ Lugares con casi ningún desastre natural", 
+                    "ja": "🛡️ 自然災害がほとんどない場所", 
+                    "th": "🛡️ สถานที่ที่แทบไม่มีภัยธรรมชาติ" 
+                }, 
+                "value": "no_disasters" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌊 가끔 있어도 대비가 잘 된 곳", 
+                    "en": "🌊 Well-prepared even with occasional disasters", 
+                    "de": "🌊 Gut vorbereitet auch bei gelegentlichen Katastrophen", 
+                    "fr": "🌊 Bien préparé même avec des catastrophes occasionnelles", 
+                    "es": "🌊 Bien preparado incluso con desastres ocasionales", 
+                    "ja": "🌊 時々あっても備えが整った場所", 
+                    "th": "🌊 เตรียมพร้อมดีแม้มีภัยบ้างเป็นครั้งคราว" 
+                }, 
+                "value": "prepared" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏔️ 자연과 함께하는 삶을 감수", 
+                    "en": "🏔️ Accept life with nature", 
+                    "de": "🏔️ Leben mit der Natur akzeptieren", 
+                    "fr": "🏔️ Accepter la vie avec la nature", 
+                    "es": "🏔️ Aceptar la vida con la naturaleza", 
+                    "ja": "🏔️ 自然と共に生きることを受け入れる", 
+                    "th": "🏔️ ยอมรับชีวิตที่อยู่กับธรรมชาติ" 
+                }, 
+                "value": "accept_nature" 
+            },
+            { 
+                "text": { 
+                    "ko": "💪 어디든 적응할 자신 있음", 
+                    "en": "💪 Confident to adapt anywhere", 
+                    "de": "💪 Zuversichtlich, sich überall anzupassen", 
+                    "fr": "💪 Confiant pour s'adapter partout", 
+                    "es": "💪 Confiado para adaptarse a cualquier lugar", 
+                    "ja": "💪 どこでも適応する自信がある", 
+                    "th": "💪 มั่นใจว่าปรับตัวได้ทุกที่" 
+                }, 
+                "value": "adaptable" 
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "text": {
+            "ko": "선호하는 여가 활동은?",
+            "en": "What is your preferred leisure activity?",
+            "de": "Was ist Ihre bevorzugte Freizeitaktivität?",
+            "fr": "Quelle est votre activité de loisir préférée?",
+            "es": "¿Cuál es tu actividad de ocio preferida?",
+            "ja": "好みの余暇活動は？",
+            "th": "คุณชอบกิจกรรมยามว่างแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏖️ 해양 스포츠/비치 라이프", 
+                    "en": "🏖️ Ocean sports/beach life", 
+                    "de": "🏖️ Wassersport/Strandleben", 
+                    "fr": "🏖️ Sports nautiques/vie de plage", 
+                    "es": "🏖️ Deportes acuáticos/vida de playa", 
+                    "ja": "🏖️ 海洋スポーツ/ビーチライフ", 
+                    "th": "🏖️ กีฬาทางน้ำ/ชีวิตชายหาด" 
+                }, 
+                "value": "beach_sports" 
+            },
+            { 
+                "text": { 
+                    "ko": "⛷️ 겨울 스포츠/산악 활동", 
+                    "en": "⛷️ Winter sports/mountain activities", 
+                    "de": "⛷️ Wintersport/Bergaktivitäten", 
+                    "fr": "⛷️ Sports d'hiver/activités de montagne", 
+                    "es": "⛷️ Deportes de invierno/actividades de montaña", 
+                    "ja": "⛷️ ウィンタースポーツ/山岳活動", 
+                    "th": "⛷️ กีฬาฤดูหนาว/กิจกรรมบนภูเขา" 
+                }, 
+                "value": "winter_sports" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎭 문화생활/도시 엔터테인먼트", 
+                    "en": "🎭 Cultural life/urban entertainment", 
+                    "de": "🎭 Kulturleben/städtische Unterhaltung", 
+                    "fr": "🎭 Vie culturelle/divertissement urbain", 
+                    "es": "🎭 Vida cultural/entretenimiento urbano", 
+                    "ja": "🎭 文化生活/都市エンターテイメント", 
+                    "th": "🎭 ชีวิตวัฒนธรรม/ความบันเทิงในเมือง" 
+                }, 
+                "value": "urban_culture" 
+            },
+            { 
+                "text": { 
+                    "ko": "🧘 명상/웰빙/힐링", 
+                    "en": "🧘 Meditation/wellness/healing", 
+                    "de": "🧘 Meditation/Wellness/Heilung", 
+                    "fr": "🧘 Méditation/bien-être/guérison", 
+                    "es": "🧘 Meditación/bienestar/sanación", 
+                    "ja": "🧘 瞑想/ウェルビーイング/ヒーリング", 
+                    "th": "🧘 การทำสมาธิ/สุขภาพดี/การบำบัด" 
+                }, 
+                "value": "wellness" 
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "text": {
+            "ko": "인터넷/디지털 인프라 중요도는?",
+            "en": "How important is internet/digital infrastructure?",
+            "de": "Wie wichtig ist Internet/digitale Infrastruktur?",
+            "fr": "Quelle importance accordez-vous à l'infrastructure internet/numérique?",
+            "es": "¿Qué tan importante es la infraestructura de internet/digital?",
+            "ja": "インターネット/デジタルインフラの重要度は？",
+            "th": "อินเทอร์เน็ต/โครงสร้างพื้นฐานดิจิทัลสำคัญแค่ไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "💻 초고속 인터넷 필수", 
+                    "en": "💻 High-speed internet is essential", 
+                    "de": "💻 Hochgeschwindigkeitsinternet ist unerlässlich", 
+                    "fr": "💻 Internet haut débit est essentiel", 
+                    "es": "💻 Internet de alta velocidad es esencial", 
+                    "ja": "💻 超高速インターネット必須", 
+                    "th": "💻 อินเทอร์เน็ตความเร็วสูงเป็นสิ่งจำเป็น" 
+                }, 
+                "value": "high_speed_must" 
+            },
+            { 
+                "text": { 
+                    "ko": "📱 기본적인 인터넷만 있으면 OK", 
+                    "en": "📱 Basic internet is OK", 
+                    "de": "📱 Basis-Internet ist OK", 
+                    "fr": "📱 Internet de base suffit", 
+                    "es": "📱 Internet básico está bien", 
+                    "ja": "📱 基本的なインターネットがあればOK", 
+                    "th": "📱 อินเทอร์เน็ตพื้นฐานก็พอ" 
+                }, 
+                "value": "basic_internet" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌐 디지털 노마드 친화적인 곳", 
+                    "en": "🌐 Digital nomad friendly place", 
+                    "de": "🌐 Digital-Nomaden-freundlicher Ort", 
+                    "fr": "🌐 Lieu adapté aux nomades numériques", 
+                    "es": "🌐 Lugar amigable para nómadas digitales", 
+                    "ja": "🌐 デジタルノマドに優しい場所", 
+                    "th": "🌐 สถานที่ที่เอื้อต่อดิจิทัลโนแมด" 
+                }, 
+                "value": "nomad_friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌿 디지털 디톡스도 괜찮음", 
+                    "en": "🌿 Digital detox is fine", 
+                    "de": "🌿 Digitale Entgiftung ist in Ordnung", 
+                    "fr": "🌿 La désintoxication numérique convient", 
+                    "es": "🌿 La desintoxicación digital está bien", 
+                    "ja": "🌿 デジタルデトックスも大丈夫", 
+                    "th": "🌿 ดิจิทัลดีท็อกซ์ก็ไม่เป็นไร" 
+                }, 
+                "value": "digital_detox" 
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "text": {
+            "ko": "선호하는 사회 분위기는?",
+            "en": "What is your preferred social atmosphere?",
+            "de": "Was ist Ihre bevorzugte soziale Atmosphäre?",
+            "fr": "Quelle est votre atmosphère sociale préférée?",
+            "es": "¿Cuál es tu atmósfera social preferida?",
+            "ja": "好みの社会的雰囲気は？",
+            "th": "คุณชอบบรรยากาศทางสังคมแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🤝 개인주의적이고 독립적인", 
+                    "en": "🤝 Individualistic and independent", 
+                    "de": "🤝 Individualistisch und unabhängig", 
+                    "fr": "🤝 Individualiste et indépendant", 
+                    "es": "🤝 Individualista e independiente", 
+                    "ja": "🤝 個人主義的で独立的", 
+                    "th": "🤝 ปัจเจกนิยมและเป็นอิสระ" 
+                }, 
+                "value": "individualistic" 
+            },
+            { 
+                "text": { 
+                    "ko": "👨‍👩‍👧‍👦 공동체 중심적인", 
+                    "en": "👨‍👩‍👧‍👦 Community-centered", 
+                    "de": "👨‍👩‍👧‍👦 Gemeinschaftszentriert", 
+                    "fr": "👨‍👩‍👧‍👦 Centré sur la communauté", 
+                    "es": "👨‍👩‍👧‍👦 Centrado en la comunidad", 
+                    "ja": "👨‍👩‍👧‍👦 共同体中心的", 
+                    "th": "👨‍👩‍👧‍👦 ยึดชุมชนเป็นศูนย์กลาง" 
+                }, 
+                "value": "communal" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 균형잡힌", 
+                    "en": "⚖️ Balanced", 
+                    "de": "⚖️ Ausgewogen", 
+                    "fr": "⚖️ Équilibré", 
+                    "es": "⚖️ Equilibrado", 
+                    "ja": "⚖️ バランスの取れた", 
+                    "th": "⚖️ สมดุล" 
+                }, 
+                "value": "balanced_social" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌈 다양성이 존중되는", 
+                    "en": "🌈 Diversity is respected", 
+                    "de": "🌈 Vielfalt wird respektiert", 
+                    "fr": "🌈 La diversité est respectée", 
+                    "es": "🌈 Se respeta la diversidad", 
+                    "ja": "🌈 多様性が尊重される", 
+                    "th": "🌈 เคารพความหลากหลาย" 
+                }, 
+                "value": "diverse_inclusive" 
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "text": {
+            "ko": "시간대(타임존) 선호도는?",
+            "en": "What is your timezone preference?",
+            "de": "Was ist Ihre Zeitzonenpräferenz?",
+            "fr": "Quelle est votre préférence de fuseau horaire?",
+            "es": "¿Cuál es tu preferencia de zona horaria?",
+            "ja": "タイムゾーンの好みは？",
+            "th": "คุณชอบเขตเวลาแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🌏 한국/아시아와 비슷한 시간대", 
+                    "en": "🌏 Similar to Korea/Asia timezone", 
+                    "de": "🌏 Ähnlich wie Korea/Asien Zeitzone", 
+                    "fr": "🌏 Similaire au fuseau horaire Corée/Asie", 
+                    "es": "🌏 Similar a la zona horaria de Corea/Asia", 
+                    "ja": "🌏 韓国/アジアと似たタイムゾーン", 
+                    "th": "🌏 เขตเวลาใกล้เคียงกับเกาหลี/เอเชีย" 
+                }, 
+                "value": "asia_timezone" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 유럽 시간대", 
+                    "en": "🌍 European timezone", 
+                    "de": "🌍 Europäische Zeitzone", 
+                    "fr": "🌍 Fuseau horaire européen", 
+                    "es": "🌍 Zona horaria europea", 
+                    "ja": "🌍 ヨーロッパタイムゾーン", 
+                    "th": "🌍 เขตเวลายุโรป" 
+                }, 
+                "value": "europe_timezone" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌎 미주 시간대", 
+                    "en": "🌎 Americas timezone", 
+                    "de": "🌎 Amerikanische Zeitzone", 
+                    "fr": "🌎 Fuseau horaire des Amériques", 
+                    "es": "🌎 Zona horaria de las Américas", 
+                    "ja": "🌎 アメリカ大陸タイムゾーン", 
+                    "th": "🌎 เขตเวลาอเมริกา" 
+                }, 
+                "value": "americas_timezone" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌐 상관없음", 
+                    "en": "🌐 Doesn't matter", 
+                    "de": "🌐 Egal", 
+                    "fr": "🌐 Peu importe", 
+                    "es": "🌐 No importa", 
+                    "ja": "🌐 関係ない", 
+                    "th": "🌐 ไม่สำคัญ" 
+                }, 
+                "value": "timezone_flexible" 
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "text": {
+            "ko": "선호하는 정치 체제는?",
+            "en": "What is your preferred political system?",
+            "de": "Was ist Ihr bevorzugtes politisches System?",
+            "fr": "Quel est votre système politique préféré?",
+            "es": "¿Cuál es tu sistema político preferido?",
+            "ja": "好みの政治体制は？",
+            "th": "คุณชอบระบบการเมืองแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🗳️ 완전한 민주주의", 
+                    "en": "🗳️ Full democracy", 
+                    "de": "🗳️ Vollständige Demokratie", 
+                    "fr": "🗳️ Démocratie complète", 
+                    "es": "🗳️ Democracia plena", 
+                    "ja": "🗳️ 完全な民主主義", 
+                    "th": "🗳️ ประชาธิปไตยเต็มรูปแบบ" 
+                }, 
+                "value": "full_democracy" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 안정적인 입헌군주제", 
+                    "en": "⚖️ Stable constitutional monarchy", 
+                    "de": "⚖️ Stabile konstitutionelle Monarchie", 
+                    "fr": "⚖️ Monarchie constitutionnelle stable", 
+                    "es": "⚖️ Monarquía constitucional estable", 
+                    "ja": "⚖️ 安定した立憲君主制", 
+                    "th": "⚖️ ระบอบราชาธิปไตยภายใต้รัฐธรรมนูญที่มั่นคง" 
+                }, 
+                "value": "constitutional_monarchy" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 강력한 정부 주도", 
+                    "en": "🏛️ Strong government leadership", 
+                    "de": "🏛️ Starke Regierungsführung", 
+                    "fr": "🏛️ Leadership gouvernemental fort", 
+                    "es": "🏛️ Liderazgo gubernamental fuerte", 
+                    "ja": "🏛️ 強力な政府主導", 
+                    "th": "🏛️ รัฐบาลที่มีความเข้มแข็ง" 
+                }, 
+                "value": "strong_government" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌐 정치보다는 경제 우선", 
+                    "en": "🌐 Economy over politics", 
+                    "de": "🌐 Wirtschaft vor Politik", 
+                    "fr": "🌐 Économie avant politique", 
+                    "es": "🌐 Economía sobre política", 
+                    "ja": "🌐 政治より経済優先", 
+                    "th": "🌐 เศรษฐกิจสำคัญกว่าการเมือง" 
+                }, 
+                "value": "economy_first" 
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "text": {
+            "ko": "알코올/나이트라이프 문화에 대한 선호는?",
+            "en": "What is your preference for alcohol/nightlife culture?",
+            "de": "Was ist Ihre Präferenz für Alkohol/Nachtleben-Kultur?",
+            "fr": "Quelle est votre préférence pour la culture alcool/vie nocturne?",
+            "es": "¿Cuál es tu preferencia para la cultura de alcohol/vida nocturna?",
+            "ja": "アルコール/ナイトライフ文化の好みは？",
+            "th": "คุณชอบวัฒนธรรมแอลกอฮอล์/ไนท์ไลฟ์แบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🍷 와인 문화가 발달한 곳", 
+                    "en": "🍷 Developed wine culture", 
+                    "de": "🍷 Entwickelte Weinkultur", 
+                    "fr": "🍷 Culture du vin développée", 
+                    "es": "🍷 Cultura del vino desarrollada", 
+                    "ja": "🍷 ワイン文化が発達した場所", 
+                    "th": "🍷 วัฒนธรรมไวน์ที่พัฒนาแล้ว" 
+                }, 
+                "value": "wine" 
+            },
+            { 
+                "text": { 
+                    "ko": "🍺 맥주 문화가 활발한 곳", 
+                    "en": "🍺 Active beer culture", 
+                    "de": "🍺 Aktive Bierkultur", 
+                    "fr": "🍺 Culture de la bière active", 
+                    "es": "🍺 Cultura cervecera activa", 
+                    "ja": "🍺 ビール文化が活発な場所", 
+                    "th": "🍺 วัฒนธรรมเบียร์ที่คึกคัก" 
+                }, 
+                "value": "beer" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎉 활기찬 나이트라이프", 
+                    "en": "🎉 Vibrant nightlife", 
+                    "de": "🎉 Lebendiges Nachtleben", 
+                    "fr": "🎉 Vie nocturne animée", 
+                    "es": "🎉 Vida nocturna vibrante", 
+                    "ja": "🎉 活気あるナイトライフ", 
+                    "th": "🎉 ไนท์ไลฟ์ที่มีชีวิตชีวา" 
+                }, 
+                "value": "nightlife" 
+            },
+            { 
+                "text": { 
+                    "ko": "☕ 차분한 카페 문화", 
+                    "en": "☕ Calm cafe culture", 
+                    "de": "☕ Ruhige Café-Kultur", 
+                    "fr": "☕ Culture de café calme", 
+                    "es": "☕ Cultura de café tranquila", 
+                    "ja": "☕ 落ち着いたカフェ文化", 
+                    "th": "☕ วัฒนธรรมคาเฟ่ที่สงบ" 
+                }, 
+                "value": "cafe_culture" 
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "text": {
+            "ko": "세금 정책에 대한 선호는?",
+            "en": "What is your tax policy preference?",
+            "de": "Was ist Ihre Steuerpolitik-Präferenz?",
+            "fr": "Quelle est votre préférence en matière de politique fiscale?",
+            "es": "¿Cuál es tu preferencia de política fiscal?",
+            "ja": "税制政策の好みは？",
+            "th": "คุณชอบนโยบายภาษีแบบไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "💰 세금이 낮은 곳", 
+                    "en": "💰 Low tax places", 
+                    "de": "💰 Niedrigsteuerländer", 
+                    "fr": "💰 Endroits à faible imposition", 
+                    "es": "💰 Lugares con bajos impuestos", 
+                    "ja": "💰 税金が低い場所", 
+                    "th": "💰 สถานที่ที่ภาษีต่ำ" 
+                }, 
+                "value": "tax_free" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏥 높은 세금, 좋은 복지", 
+                    "en": "🏥 High tax, good welfare", 
+                    "de": "🏥 Hohe Steuern, gute Wohlfahrt", 
+                    "fr": "🏥 Impôts élevés, bon bien-être social", 
+                    "es": "🏥 Impuestos altos, buen bienestar", 
+                    "ja": "🏥 高い税金、良い福祉", 
+                    "th": "🏥 ภาษีสูง สวัสดิการดี" 
+                }, 
+                "value": "high_tax_welfare" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 균형잡힌 세금 정책", 
+                    "en": "⚖️ Balanced tax policy", 
+                    "de": "⚖️ Ausgewogene Steuerpolitik", 
+                    "fr": "⚖️ Politique fiscale équilibrée", 
+                    "es": "⚖️ Política fiscal equilibrada", 
+                    "ja": "⚖️ バランスの取れた税制", 
+                    "th": "⚖️ นโยบายภาษีที่สมดุล" 
+                }, 
+                "value": "balanced_tax" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎯 투명한 세금 사용", 
+                    "en": "🎯 Transparent tax usage", 
+                    "de": "🎯 Transparente Steuerverwendung", 
+                    "fr": "🎯 Utilisation transparente des impôts", 
+                    "es": "🎯 Uso transparente de impuestos", 
+                    "ja": "🎯 透明な税金使用", 
+                    "th": "🎯 การใช้ภาษีอย่างโปร่งใส" 
+                }, 
+                "value": "transparent_tax" 
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "text": {
+            "ko": "이민자에 대한 사회 분위기 중요도는?",
+            "en": "How important is society's attitude toward immigrants?",
+            "de": "Wie wichtig ist die gesellschaftliche Einstellung gegenüber Einwanderern?",
+            "fr": "Quelle importance accordez-vous à l'attitude de la société envers les immigrants?",
+            "es": "¿Qué tan importante es la actitud de la sociedad hacia los inmigrantes?",
+            "ja": "移民に対する社会的雰囲気の重要度は？",
+            "th": "ทัศนคติของสังคมต่อผู้อพยพสำคัญแค่ไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🤗 매우 개방적이고 환영하는", 
+                    "en": "🤗 Very open and welcoming", 
+                    "de": "🤗 Sehr offen und einladend", 
+                    "fr": "🤗 Très ouvert et accueillant", 
+                    "es": "🤗 Muy abierto y acogedor", 
+                    "ja": "🤗 非常に開放的で歓迎的", 
+                    "th": "🤗 เปิดกว้างและต้อนรับอย่างมาก" 
+                }, 
+                "value": "very_welcoming" 
+            },
+            { 
+                "text": { 
+                    "ko": "🤝 일반적으로 친절한", 
+                    "en": "🤝 Generally friendly", 
+                    "de": "🤝 Allgemein freundlich", 
+                    "fr": "🤝 Généralement amical", 
+                    "es": "🤝 Generalmente amigable", 
+                    "ja": "🤝 一般的に親切", 
+                    "th": "🤝 เป็นมิตรโดยทั่วไป" 
+                }, 
+                "value": "friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "💼 능력 위주로 평가하는", 
+                    "en": "💼 Merit-based evaluation", 
+                    "de": "💼 Leistungsbasierte Bewertung", 
+                    "fr": "💼 Évaluation basée sur le mérite", 
+                    "es": "💼 Evaluación basada en méritos", 
+                    "ja": "💼 能力重視の評価", 
+                    "th": "💼 ประเมินตามความสามารถ" 
+                }, 
+                "value": "merit_based" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 다문화가 일상인", 
+                    "en": "🌍 Multiculturalism is everyday", 
+                    "de": "🌍 Multikulturalismus ist alltäglich", 
+                    "fr": "🌍 Le multiculturalisme est quotidien", 
+                    "es": "🌍 El multiculturalismo es cotidiano", 
+                    "ja": "🌍 多文化が日常的", 
+                    "th": "🌍 พหุวัฒนธรรมเป็นเรื่องปกติ" 
+                }, 
+                "value": "multicultural" 
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "text": {
+            "ko": "주변국 여행의 용이성은?",
+            "en": "How easy is it to travel to neighboring countries?",
+            "de": "Wie einfach ist es, in Nachbarländer zu reisen?",
+            "fr": "Quelle est la facilité de voyager vers les pays voisins?",
+            "es": "¿Qué tan fácil es viajar a países vecinos?",
+            "ja": "周辺国への旅行の容易さは？",
+            "th": "การเดินทางไปประเทศเพื่อนบ้านสะดวกแค่ไหน?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "✈️ 여러 나라 쉽게 방문", 
+                    "en": "✈️ Easy access to many countries", 
+                    "de": "✈️ Einfacher Zugang zu vielen Ländern", 
+                    "fr": "✈️ Accès facile à de nombreux pays", 
+                    "es": "✈️ Fácil acceso a muchos países", 
+                    "ja": "✈️ 複数の国へ簡単にアクセス", 
+                    "th": "✈️ เข้าถึงหลายประเทศได้ง่าย" 
+                }, 
+                "value": "travel_hub" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏝️ 섬나라의 독특함", 
+                    "en": "🏝️ Unique island nation", 
+                    "de": "🏝️ Einzigartiger Inselstaat", 
+                    "fr": "🏝️ Nation insulaire unique", 
+                    "es": "🏝️ Nación insular única", 
+                    "ja": "🏝️ 島国の独特さ", 
+                    "th": "🏝️ ความเป็นเอกลักษณ์ของประเทศเกาะ" 
+                }, 
+                "value": "island_unique" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 대륙 연결성", 
+                    "en": "🌍 Continental connectivity", 
+                    "de": "🌍 Kontinentale Verbindung", 
+                    "fr": "🌍 Connectivité continentale", 
+                    "es": "🌍 Conectividad continental", 
+                    "ja": "🌍 大陸の接続性", 
+                    "th": "🌍 การเชื่อมต่อระหว่างทวีป" 
+                }, 
+                "value": "continental" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏔️ 자연 경관 우선", 
+                    "en": "🏔️ Natural scenery priority", 
+                    "de": "🏔️ Naturlandschaft Priorität", 
+                    "fr": "🏔️ Priorité aux paysages naturels", 
+                    "es": "🏔️ Prioridad de paisajes naturales", 
+                    "ja": "🏔️ 自然景観優先", 
+                    "th": "🏔️ ให้ความสำคัญกับทิวทัศน์ธรรมชาติ" 
+                }, 
+                "value": "nature_priority" 
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "text": {
+            "ko": "반려동물과 함께 살기 좋은 환경은?",
+            "en": "What makes a good environment for living with pets?",
+            "de": "Was macht eine gute Umgebung für das Leben mit Haustieren aus?",
+            "fr": "Qu'est-ce qui fait un bon environnement pour vivre avec des animaux?",
+            "es": "¿Qué hace un buen ambiente para vivir con mascotas?",
+            "ja": "ペットと一緒に暮らしやすい環境は？",
+            "th": "สภาพแวดล้อมที่ดีสำหรับการอยู่กับสัตว์เลี้ยงคืออะไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🐕 반려동물 친화적", 
+                    "en": "🐕 Pet-friendly", 
+                    "de": "🐕 Haustierfreundlich", 
+                    "fr": "🐕 Accueillant pour les animaux", 
+                    "es": "🐕 Amigable con mascotas", 
+                    "ja": "🐕 ペットフレンドリー", 
+                    "th": "🐕 เป็นมิตรกับสัตว์เลี้ยง" 
+                }, 
+                "value": "pet_friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏞️ 넓은 공원과 산책로", 
+                    "en": "🏞️ Large parks and walking trails", 
+                    "de": "🏞️ Große Parks und Wanderwege", 
+                    "fr": "🏞️ Grands parcs et sentiers de promenade", 
+                    "es": "🏞️ Grandes parques y senderos", 
+                    "ja": "🏞️ 広い公園と散歩道", 
+                    "th": "🏞️ สวนสาธารณะขนาดใหญ่และเส้นทางเดิน" 
+                }, 
+                "value": "parks" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏥 좋은 동물병원", 
+                    "en": "🏥 Good veterinary care", 
+                    "de": "🏥 Gute tierärztliche Versorgung", 
+                    "fr": "🏥 Bons soins vétérinaires", 
+                    "es": "🏥 Buena atención veterinaria", 
+                    "ja": "🏥 良い動物病院", 
+                    "th": "🏥 การดูแลสัตว์ที่ดี" 
+                }, 
+                "value": "vet_care" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚫 반려동물 없음", 
+                    "en": "🚫 No pets", 
+                    "de": "🚫 Keine Haustiere", 
+                    "fr": "🚫 Pas d'animaux", 
+                    "es": "🚫 Sin mascotas", 
+                    "ja": "🚫 ペットなし", 
+                    "th": "🚫 ไม่มีสัตว์เลี้ยง" 
+                }, 
+                "value": "no_pets" 
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "text": {
+            "ko": "환경 보호와 지속가능성은?",
+            "en": "What about environmental protection and sustainability?",
+            "de": "Was ist mit Umweltschutz und Nachhaltigkeit?",
+            "fr": "Qu'en est-il de la protection de l'environnement et de la durabilité?",
+            "es": "¿Qué hay de la protección ambiental y la sostenibilidad?",
+            "ja": "環境保護と持続可能性は？",
+            "th": "การปกป้องสิ่งแวดล้อมและความยั่งยืนเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "♻️ 친환경 선진국", 
+                    "en": "♻️ Eco-friendly advanced country", 
+                    "de": "♻️ Umweltfreundliches fortschrittliches Land", 
+                    "fr": "♻️ Pays avancé écologique", 
+                    "es": "♻️ País avanzado ecológico", 
+                    "ja": "♻️ エコ先進国", 
+                    "th": "♻️ ประเทศที่ก้าวหน้าด้านสิ่งแวดล้อม" 
+                }, 
+                "value": "eco_leader" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌱 재생에너지 사용", 
+                    "en": "🌱 Renewable energy use", 
+                    "de": "🌱 Nutzung erneuerbarer Energien", 
+                    "fr": "🌱 Utilisation d'énergies renouvelables", 
+                    "es": "🌱 Uso de energía renovable", 
+                    "ja": "🌱 再生可能エネルギー使用", 
+                    "th": "🌱 การใช้พลังงานหมุนเวียน" 
+                }, 
+                "value": "renewable" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚴 대중교통/자전거 중심", 
+                    "en": "🚴 Public transport/bicycle focused", 
+                    "de": "🚴 ÖPNV/Fahrrad-fokussiert", 
+                    "fr": "🚴 Axé sur les transports publics/vélo", 
+                    "es": "🚴 Enfocado en transporte público/bicicleta", 
+                    "ja": "🚴 公共交通/自転車中心", 
+                    "th": "🚴 เน้นขนส่งสาธารณะ/จักรยาน" 
+                }, 
+                "value": "sustainable_transport" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏭 경제 발전 우선", 
+                    "en": "🏭 Economic development priority", 
+                    "de": "🏭 Wirtschaftsentwicklung Priorität", 
+                    "fr": "🏭 Priorité au développement économique", 
+                    "es": "🏭 Prioridad de desarrollo económico", 
+                    "ja": "🏭 経済発展優先", 
+                    "th": "🏭 ให้ความสำคัญกับการพัฒนาเศรษฐกิจ" 
+                }, 
+                "value": "growth_priority" 
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "text": {
+            "ko": "문화적 다양성 수준은?",
+            "en": "What level of cultural diversity?",
+            "de": "Welches Niveau an kultureller Vielfalt?",
+            "fr": "Quel niveau de diversité culturelle?",
+            "es": "¿Qué nivel de diversidad cultural?",
+            "ja": "文化的多様性のレベルは？",
+            "th": "ระดับความหลากหลายทางวัฒนธรรมเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🌈 매우 다양하고 국제적", 
+                    "en": "🌈 Very diverse and international", 
+                    "de": "🌈 Sehr vielfältig und international", 
+                    "fr": "🌈 Très diversifié et international", 
+                    "es": "🌈 Muy diverso e internacional", 
+                    "ja": "🌈 非常に多様で国際的", 
+                    "th": "🌈 หลากหลายมากและเป็นสากล" 
+                }, 
+                "value": "very_diverse" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎭 전통 문화 보존", 
+                    "en": "🎭 Traditional culture preservation", 
+                    "de": "🎭 Traditionelle Kulturerhaltung", 
+                    "fr": "🎭 Préservation de la culture traditionnelle", 
+                    "es": "🎭 Preservación de la cultura tradicional", 
+                    "ja": "🎭 伝統文化の保存", 
+                    "th": "🎭 การอนุรักษ์วัฒนธรรมดั้งเดิม" 
+                }, 
+                "value": "traditional_preserved" 
+            },
+            { 
+                "text": { 
+                    "ko": "🤝 조화로운 다문화", 
+                    "en": "🤝 Harmonious multiculture", 
+                    "de": "🤝 Harmonische Multikultur", 
+                    "fr": "🤝 Multiculture harmonieuse", 
+                    "es": "🤝 Multicultura armoniosa", 
+                    "ja": "🤝 調和のとれた多文化", 
+                    "th": "🤝 พหุวัฒนธรรมที่กลมกลืน" 
+                }, 
+                "value": "harmonious_multi" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 단일 문화 중심", 
+                    "en": "🏛️ Single culture centered", 
+                    "de": "🏛️ Einzelkultur-zentriert", 
+                    "fr": "🏛️ Centré sur une seule culture", 
+                    "es": "🏛️ Centrado en una sola cultura", 
+                    "ja": "🏛️ 単一文化中心", 
+                    "th": "🏛️ ยึดวัฒนธรรมเดียวเป็นศูนย์กลาง" 
+                }, 
+                "value": "homogeneous" 
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "text": {
+            "ko": "스포츠/운동 문화는?",
+            "en": "What about sports/exercise culture?",
+            "de": "Was ist mit Sport/Bewegungskultur?",
+            "fr": "Qu'en est-il de la culture sportive/exercice?",
+            "es": "¿Qué hay de la cultura deportiva/ejercicio?",
+            "ja": "スポーツ/運動文化は？",
+            "th": "วัฒนธรรมกีฬา/การออกกำลังกายเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "⚽ 축구 열기가 뜨거운", 
+                    "en": "⚽ Passionate football culture", 
+                    "de": "⚽ Leidenschaftliche Fußballkultur", 
+                    "fr": "⚽ Culture de football passionnée", 
+                    "es": "⚽ Cultura futbolística apasionada", 
+                    "ja": "⚽ サッカー熱が熱い", 
+                    "th": "⚽ วัฒนธรรมฟุตบอลที่หลงใหล" 
+                }, 
+                "value": "football" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏃 건강한 라이프스타일", 
+                    "en": "🏃 Healthy lifestyle", 
+                    "de": "🏃 Gesunder Lebensstil", 
+                    "fr": "🏃 Mode de vie sain", 
+                    "es": "🏃 Estilo de vida saludable", 
+                    "ja": "🏃 健康的なライフスタイル", 
+                    "th": "🏃 วิถีชีวิตที่มีสุขภาพดี" 
+                }, 
+                "value": "fitness" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏂 익스트림 스포츠", 
+                    "en": "🏂 Extreme sports", 
+                    "de": "🏂 Extremsportarten", 
+                    "fr": "🏂 Sports extrêmes", 
+                    "es": "🏂 Deportes extremos", 
+                    "ja": "🏂 エクストリームスポーツ", 
+                    "th": "🏂 กีฬาเอ็กซ์ตรีม" 
+                }, 
+                "value": "extreme_sports" 
+            },
+            { 
+                "text": { 
+                    "ko": "🧘 요가/명상 문화", 
+                    "en": "🧘 Yoga/meditation culture", 
+                    "de": "🧘 Yoga/Meditations-Kultur", 
+                    "fr": "🧘 Culture yoga/méditation", 
+                    "es": "🧘 Cultura de yoga/meditación", 
+                    "ja": "🧘 ヨガ/瞑想文化", 
+                    "th": "🧘 วัฒนธรรมโยคะ/สมาธิ" 
+                }, 
+                "value": "mindfulness" 
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "text": {
+            "ko": "미래 10년 후 전망은?",
+            "en": "What is the outlook for the next 10 years?",
+            "de": "Wie ist der Ausblick für die nächsten 10 Jahre?",
+            "fr": "Quelles sont les perspectives pour les 10 prochaines années?",
+            "es": "¿Cuál es la perspectiva para los próximos 10 años?",
+            "ja": "今後10年の展望は？",
+            "th": "แนวโน้มในอีก 10 ปีข้างหน้าเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "📈 빠른 성장 잠재력", 
+                    "en": "📈 Fast growth potential", 
+                    "de": "📈 Schnelles Wachstumspotenzial", 
+                    "fr": "📈 Potentiel de croissance rapide", 
+                    "es": "📈 Potencial de crecimiento rápido", 
+                    "ja": "📈 急速な成長潜在力", 
+                    "th": "📈 ศักยภาพการเติบโตอย่างรวดเร็ว" 
+                }, 
+                "value": "high_growth" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 안정적 현상 유지", 
+                    "en": "🏛️ Stable status quo", 
+                    "de": "🏛️ Stabiler Status quo", 
+                    "fr": "🏛️ Statu quo stable", 
+                    "es": "🏛️ Status quo estable", 
+                    "ja": "🏛️ 安定した現状維持", 
+                    "th": "🏛️ รักษาสถานภาพที่มั่นคง" 
+                }, 
+                "value": "stable" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚀 기술 혁신 선도", 
+                    "en": "🚀 Leading technological innovation", 
+                    "de": "🚀 Führend in technologischer Innovation", 
+                    "fr": "🚀 Leader en innovation technologique", 
+                    "es": "🚀 Liderando la innovación tecnológica", 
+                    "ja": "🚀 技術革新の先導", 
+                    "th": "🚀 ผู้นำด้านนวัตกรรมเทคโนโลยี" 
+                }, 
+                "value": "tech_leader" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌿 지속가능한 발전", 
+                    "en": "🌿 Sustainable development", 
+                    "de": "🌿 Nachhaltige Entwicklung", 
+                    "fr": "🌿 Développement durable", 
+                    "es": "🌿 Desarrollo sostenible", 
+                    "ja": "🌿 持続可能な発展", 
+                    "th": "🌿 การพัฒนาที่ยั่งยืน" 
+                }, 
+                "value": "sustainable_growth" 
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "text": {
+            "ko": "금융 서비스와 은행 시스템은?",
+            "en": "What about financial services and banking system?",
+            "de": "Was ist mit Finanzdienstleistungen und Bankensystem?",
+            "fr": "Qu'en est-il des services financiers et du système bancaire?",
+            "es": "¿Qué hay de los servicios financieros y el sistema bancario?",
+            "ja": "金融サービスと銀行システムは？",
+            "th": "บริการทางการเงินและระบบธนาคารเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏦 선진 디지털 뱅킹", 
+                    "en": "🏦 Advanced digital banking", 
+                    "de": "🏦 Fortschrittliches digitales Banking", 
+                    "fr": "🏦 Services bancaires numériques avancés", 
+                    "es": "🏦 Banca digital avanzada", 
+                    "ja": "🏦 先進的なデジタルバンキング", 
+                    "th": "🏦 ธนาคารดิจิทัลขั้นสูง" 
+                }, 
+                "value": "digital_banking" 
+            },
+            { 
+                "text": { 
+                    "ko": "💳 암호화폐 친화적", 
+                    "en": "💳 Cryptocurrency friendly", 
+                    "de": "💳 Kryptowährungsfreundlich", 
+                    "fr": "💳 Favorable aux cryptomonnaies", 
+                    "es": "💳 Amigable con criptomonedas", 
+                    "ja": "💳 暗号通貨フレンドリー", 
+                    "th": "💳 เป็นมิตรกับสกุลเงินดิจิทัล" 
+                }, 
+                "value": "crypto_friendly" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 전통적이고 안정적", 
+                    "en": "🏛️ Traditional and stable", 
+                    "de": "🏛️ Traditionell und stabil", 
+                    "fr": "🏛️ Traditionnel et stable", 
+                    "es": "🏛️ Tradicional y estable", 
+                    "ja": "🏛️ 伝統的で安定的", 
+                    "th": "🏛️ ดั้งเดิมและมั่นคง" 
+                }, 
+                "value": "traditional_banking" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 국제 금융 허브", 
+                    "en": "🌍 International financial hub", 
+                    "de": "🌍 Internationales Finanzzentrum", 
+                    "fr": "🌍 Centre financier international", 
+                    "es": "🌍 Centro financiero internacional", 
+                    "ja": "🌍 国際金融ハブ", 
+                    "th": "🌍 ศูนย์กลางการเงินระหว่างประเทศ" 
+                }, 
+                "value": "financial_hub" 
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "text": {
+            "ko": "자연재해 및 기후변화 대응은?",
+            "en": "What about natural disaster and climate change response?",
+            "de": "Was ist mit Naturkatastrophen und Klimawandel-Reaktion?",
+            "fr": "Qu'en est-il de la réponse aux catastrophes naturelles et au changement climatique?",
+            "es": "¿Qué hay de la respuesta a desastres naturales y cambio climático?",
+            "ja": "自然災害と気候変動への対応は？",
+            "th": "การรับมือกับภัยธรรมชาติและการเปลี่ยนแปลงสภาพภูมิอากาศเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🛡️ 자연재해 없는 안전지대", 
+                    "en": "🛡️ Safe zone without natural disasters", 
+                    "de": "🛡️ Sichere Zone ohne Naturkatastrophen", 
+                    "fr": "🛡️ Zone sûre sans catastrophes naturelles", 
+                    "es": "🛡️ Zona segura sin desastres naturales", 
+                    "ja": "🛡️ 自然災害のない安全地帯", 
+                    "th": "🛡️ พื้นที่ปลอดภัยไม่มีภัยธรรมชาติ" 
+                }, 
+                "value": "disaster_free" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌊 기후변화 대응 선진국", 
+                    "en": "🌊 Advanced in climate change response", 
+                    "de": "🌊 Fortschrittlich bei Klimawandel-Reaktion", 
+                    "fr": "🌊 Avancé dans la réponse au changement climatique", 
+                    "es": "🌊 Avanzado en respuesta al cambio climático", 
+                    "ja": "🌊 気候変動対応先進国", 
+                    "th": "🌊 ประเทศที่ก้าวหน้าในการรับมือการเปลี่ยนแปลงสภาพภูมิอากาศ" 
+                }, 
+                "value": "climate_prepared" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏔️ 자연과 공존하는 삶", 
+                    "en": "🏔️ Life coexisting with nature", 
+                    "de": "🏔️ Leben im Einklang mit der Natur", 
+                    "fr": "🏔️ Vie en coexistence avec la nature", 
+                    "es": "🏔️ Vida en coexistencia con la naturaleza", 
+                    "ja": "🏔️ 自然と共存する生活", 
+                    "th": "🏔️ ชีวิตที่อยู่ร่วมกับธรรมชาติ" 
+                }, 
+                "value": "nature_resilient" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏗️ 강력한 재난 대응 시스템", 
+                    "en": "🏗️ Strong disaster response system", 
+                    "de": "🏗️ Starkes Katastrophenreaktionssystem", 
+                    "fr": "🏗️ Système de réponse aux catastrophes solide", 
+                    "es": "🏗️ Sistema sólido de respuesta a desastres", 
+                    "ja": "🏗️ 強力な災害対応システム", 
+                    "th": "🏗️ ระบบรับมือภัยพิบัติที่แข็งแกร่ง" 
+                }, 
+                "value": "disaster_ready" 
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "text": {
+            "ko": "인터넷 및 통신 인프라는?",
+            "en": "What about internet and communication infrastructure?",
+            "de": "Was ist mit Internet und Kommunikationsinfrastruktur?",
+            "fr": "Qu'en est-il de l'infrastructure internet et de communication?",
+            "es": "¿Qué hay de la infraestructura de internet y comunicación?",
+            "ja": "インターネットと通信インフラは？",
+            "th": "โครงสร้างพื้นฐานอินเทอร์เน็ตและการสื่อสารเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🚀 초고속 5G/광통신", 
+                    "en": "🚀 Ultra-fast 5G/fiber optics", 
+                    "de": "🚀 Ultraschnelles 5G/Glasfaser", 
+                    "fr": "🚀 5G/fibre optique ultra-rapide", 
+                    "es": "🚀 5G/fibra óptica ultra rápida", 
+                    "ja": "🚀 超高速5G/光通信", 
+                    "th": "🚀 5G/ใยแก้วนำแสงความเร็วสูง" 
+                }, 
+                "value": "ultra_fast" 
+            },
+            { 
+                "text": { 
+                    "ko": "💻 안정적인 원격근무 환경", 
+                    "en": "💻 Stable remote work environment", 
+                    "de": "💻 Stabile Remote-Arbeitsumgebung", 
+                    "fr": "💻 Environnement de télétravail stable", 
+                    "es": "💻 Entorno estable de trabajo remoto", 
+                    "ja": "💻 安定したリモートワーク環境", 
+                    "th": "💻 สภาพแวดล้อมการทำงานระยะไกลที่มั่นคง" 
+                }, 
+                "value": "remote_ready" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌐 글로벌 IT 허브", 
+                    "en": "🌐 Global IT hub", 
+                    "de": "🌐 Globaler IT-Hub", 
+                    "fr": "🌐 Hub IT mondial", 
+                    "es": "🌐 Centro IT global", 
+                    "ja": "🌐 グローバルITハブ", 
+                    "th": "🌐 ศูนย์กลาง IT ระดับโลก" 
+                }, 
+                "value": "it_hub" 
+            },
+            { 
+                "text": { 
+                    "ko": "📡 기본적인 인터넷 충분", 
+                    "en": "📡 Basic internet is sufficient", 
+                    "de": "📡 Grundlegendes Internet reicht aus", 
+                    "fr": "📡 Internet de base suffit", 
+                    "es": "📡 Internet básico es suficiente", 
+                    "ja": "📡 基本的なインターネットで十分", 
+                    "th": "📡 อินเทอร์เน็ตพื้นฐานเพียงพอ" 
+                }, 
+                "value": "basic_internet" 
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "text": {
+            "ko": "부동산 시장과 주거 안정성은?",
+            "en": "What about real estate market and housing stability?",
+            "de": "Was ist mit Immobilienmarkt und Wohnstabilität?",
+            "fr": "Qu'en est-il du marché immobilier et de la stabilité du logement?",
+            "es": "¿Qué hay del mercado inmobiliario y la estabilidad de vivienda?",
+            "ja": "不動産市場と住居の安定性は？",
+            "th": "ตลาดอสังหาริมทรัพย์และความมั่นคงด้านที่อยู่อาศัยเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏡 주택 구매 기회 많음", 
+                    "en": "🏡 Many home purchase opportunities", 
+                    "de": "🏡 Viele Hauskaufmöglichkeiten", 
+                    "fr": "🏡 Nombreuses opportunités d'achat de maison", 
+                    "es": "🏡 Muchas oportunidades de compra de vivienda", 
+                    "ja": "🏡 住宅購入機会が多い", 
+                    "th": "🏡 โอกาสซื้อบ้านมากมาย" 
+                }, 
+                "value": "affordable_housing" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏢 렌트 문화 발달", 
+                    "en": "🏢 Developed rental culture", 
+                    "de": "🏢 Entwickelte Mietkultur", 
+                    "fr": "🏢 Culture de location développée", 
+                    "es": "🏢 Cultura de alquiler desarrollada", 
+                    "ja": "🏢 レンタル文化が発達", 
+                    "th": "🏢 วัฒนธรรมการเช่าที่พัฒนาแล้ว" 
+                }, 
+                "value": "rental_culture" 
+            },
+            { 
+                "text": { 
+                    "ko": "📈 부동산 투자 기회", 
+                    "en": "📈 Real estate investment opportunities", 
+                    "de": "📈 Immobilieninvestitionsmöglichkeiten", 
+                    "fr": "📈 Opportunités d'investissement immobilier", 
+                    "es": "📈 Oportunidades de inversión inmobiliaria", 
+                    "ja": "📈 不動産投資機会", 
+                    "th": "📈 โอกาสการลงทุนอสังหาริมทรัพย์" 
+                }, 
+                "value": "property_investment" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏘️ 공공주택 잘 구비", 
+                    "en": "🏘️ Well-equipped public housing", 
+                    "de": "🏘️ Gut ausgestatteter sozialer Wohnungsbau", 
+                    "fr": "🏘️ Logements sociaux bien équipés", 
+                    "es": "🏘️ Vivienda pública bien equipada", 
+                    "ja": "🏘️ 公共住宅がよく整備", 
+                    "th": "🏘️ ที่อยู่อาศัยสาธารณะที่จัดเตรียมไว้ดี" 
+                }, 
+                "value": "public_housing" 
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "text": {
+            "ko": "치안과 범죄율에 대한 우선순위는?",
+            "en": "What is your priority for safety and crime rate?",
+            "de": "Was ist Ihre Priorität für Sicherheit und Kriminalitätsrate?",
+            "fr": "Quelle est votre priorité pour la sécurité et le taux de criminalité?",
+            "es": "¿Cuál es tu prioridad para la seguridad y tasa de criminalidad?",
+            "ja": "治安と犯罪率に対する優先順位は？",
+            "th": "ความสำคัญของความปลอดภัยและอัตราอาชญากรรมคืออะไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "👮 세계 최고 수준 치안", 
+                    "en": "👮 World's best safety level", 
+                    "de": "👮 Weltbestes Sicherheitsniveau", 
+                    "fr": "👮 Meilleur niveau de sécurité au monde", 
+                    "es": "👮 Mejor nivel de seguridad del mundo", 
+                    "ja": "👮 世界最高レベルの治安", 
+                    "th": "👮 ระดับความปลอดภัยที่ดีที่สุดในโลก" 
+                }, 
+                "value": "safest" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏘️ 안전한 주거 지역", 
+                    "en": "🏘️ Safe residential areas", 
+                    "de": "🏘️ Sichere Wohngebiete", 
+                    "fr": "🏘️ Quartiers résidentiels sûrs", 
+                    "es": "🏘️ Áreas residenciales seguras", 
+                    "ja": "🏘️ 安全な住宅地", 
+                    "th": "🏘️ พื้นที่พักอาศัยที่ปลอดภัย" 
+                }, 
+                "value": "safe_neighborhoods" 
+            },
+            { 
+                "text": { 
+                    "ko": "🚔 효율적인 경찰 시스템", 
+                    "en": "🚔 Efficient police system", 
+                    "de": "🚔 Effizientes Polizeisystem", 
+                    "fr": "🚔 Système de police efficace", 
+                    "es": "🚔 Sistema policial eficiente", 
+                    "ja": "🚔 効率的な警察システム", 
+                    "th": "🚔 ระบบตำรวจที่มีประสิทธิภาพ" 
+                }, 
+                "value": "good_policing" 
+            },
+            { 
+                "text": { 
+                    "ko": "🤝 공동체 중심 안전", 
+                    "en": "🤝 Community-centered safety", 
+                    "de": "🤝 Gemeinschaftszentrierte Sicherheit", 
+                    "fr": "🤝 Sécurité centrée sur la communauté", 
+                    "es": "🤝 Seguridad centrada en la comunidad", 
+                    "ja": "🤝 コミュニティ中心の安全", 
+                    "th": "🤝 ความปลอดภัยที่ยึดชุมชนเป็นศูนย์กลาง" 
+                }, 
+                "value": "community_safety" 
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "text": {
+            "ko": "성 평등과 다양성 수준은?",
+            "en": "What about gender equality and diversity level?",
+            "de": "Was ist mit Geschlechtergleichstellung und Diversitätsniveau?",
+            "fr": "Qu'en est-il de l'égalité des genres et du niveau de diversité?",
+            "es": "¿Qué hay de la igualdad de género y nivel de diversidad?",
+            "ja": "性平等と多様性のレベルは？",
+            "th": "ความเท่าเทียมทางเพศและระดับความหลากหลายเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🏳️‍🌈 완전한 평등과 포용", 
+                    "en": "🏳️‍🌈 Complete equality and inclusion", 
+                    "de": "🏳️‍🌈 Vollständige Gleichheit und Inklusion", 
+                    "fr": "🏳️‍🌈 Égalité et inclusion complètes", 
+                    "es": "🏳️‍🌈 Igualdad e inclusión completas", 
+                    "ja": "🏳️‍🌈 完全な平等と包容", 
+                    "th": "🏳️‍🌈 ความเท่าเทียมและการยอมรับอย่างสมบูรณ์" 
+                }, 
+                "value": "full_equality" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 법적 평등 보장", 
+                    "en": "⚖️ Legal equality guaranteed", 
+                    "de": "⚖️ Rechtliche Gleichheit garantiert", 
+                    "fr": "⚖️ Égalité juridique garantie", 
+                    "es": "⚖️ Igualdad legal garantizada", 
+                    "ja": "⚖️ 法的平等の保証", 
+                    "th": "⚖️ รับประกันความเท่าเทียมทางกฎหมาย" 
+                }, 
+                "value": "legal_equality" 
+            },
+            { 
+                "text": { 
+                    "ko": "📊 개선 중인 사회", 
+                    "en": "📊 Improving society", 
+                    "de": "📊 Sich verbessernde Gesellschaft", 
+                    "fr": "📊 Société en amélioration", 
+                    "es": "📊 Sociedad en mejora", 
+                    "ja": "📊 改善中の社会", 
+                    "th": "📊 สังคมที่กำลังพัฒนา" 
+                }, 
+                "value": "improving_equality" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 전통적 가치 존중", 
+                    "en": "🏛️ Traditional values respected", 
+                    "de": "🏛️ Traditionelle Werte respektiert", 
+                    "fr": "🏛️ Valeurs traditionnelles respectées", 
+                    "es": "🏛️ Valores tradicionales respetados", 
+                    "ja": "🏛️ 伝統的価値の尊重", 
+                    "th": "🏛️ เคารพค่านิยมดั้งเดิม" 
+                }, 
+                "value": "traditional_values" 
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "text": {
+            "ko": "창업 및 혁신 생태계는?",
+            "en": "What about startup and innovation ecosystem?",
+            "de": "Was ist mit Startup- und Innovationsökosystem?",
+            "fr": "Qu'en est-il de l'écosystème startup et innovation?",
+            "es": "¿Qué hay del ecosistema de startups e innovación?",
+            "ja": "起業とイノベーションエコシステムは？",
+            "th": "ระบบนิเวศสตาร์ทอัพและนวัตกรรมเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🦄 유니콘 기업 탄생지", 
+                    "en": "🦄 Birthplace of unicorn companies", 
+                    "de": "🦄 Geburtsstätte von Unicorn-Unternehmen", 
+                    "fr": "🦄 Berceau des entreprises licornes", 
+                    "es": "🦄 Cuna de empresas unicornio", 
+                    "ja": "🦄 ユニコーン企業誕生の地", 
+                    "th": "🦄 แหล่งกำเนิดบริษัทยูนิคอร์น" 
+                }, 
+                "value": "unicorn_hub" 
+            },
+            { 
+                "text": { 
+                    "ko": "💡 스타트업 지원 활발", 
+                    "en": "💡 Active startup support", 
+                    "de": "💡 Aktive Startup-Unterstützung", 
+                    "fr": "💡 Soutien actif aux startups", 
+                    "es": "💡 Apoyo activo a startups", 
+                    "ja": "💡 スタートアップ支援が活発", 
+                    "th": "💡 การสนับสนุนสตาร์ทอัพที่คึกคัก" 
+                }, 
+                "value": "startup_support" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏭 제조업 강국", 
+                    "en": "🏭 Manufacturing powerhouse", 
+                    "de": "🏭 Produktionsmacht", 
+                    "fr": "🏭 Puissance manufacturière", 
+                    "es": "🏭 Potencia manufacturera", 
+                    "ja": "🏭 製造業大国", 
+                    "th": "🏭 มหาอำนาจด้านการผลิต" 
+                }, 
+                "value": "manufacturing" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌱 사회적 기업 중심", 
+                    "en": "🌱 Social enterprise focused", 
+                    "de": "🌱 Sozialunternehmen-fokussiert", 
+                    "fr": "🌱 Centré sur l'entreprise sociale", 
+                    "es": "🌱 Enfocado en empresas sociales", 
+                    "ja": "🌱 社会的企業中心", 
+                    "th": "🌱 เน้นกิจการเพื่อสังคม" 
+                }, 
+                "value": "social_enterprise" 
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "text": {
+            "ko": "예술과 창작 활동 환경은?",
+            "en": "What about arts and creative environment?",
+            "de": "Was ist mit Kunst- und Kreativumgebung?",
+            "fr": "Qu'en est-il de l'environnement artistique et créatif?",
+            "es": "¿Qué hay del entorno artístico y creativo?",
+            "ja": "芸術と創作活動の環境は？",
+            "th": "สภาพแวดล้อมด้านศิลปะและการสร้างสรรค์เป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🎨 예술가 지원 제도", 
+                    "en": "🎨 Artist support system", 
+                    "de": "🎨 Künstlerunterstützungssystem", 
+                    "fr": "🎨 Système de soutien aux artistes", 
+                    "es": "🎨 Sistema de apoyo a artistas", 
+                    "ja": "🎨 アーティスト支援制度", 
+                    "th": "🎨 ระบบสนับสนุนศิลปิน" 
+                }, 
+                "value": "artist_support" 
+            },
+            { 
+                "text": { 
+                    "ko": "🎭 활발한 문화 씬", 
+                    "en": "🎭 Vibrant cultural scene", 
+                    "de": "🎭 Lebendige Kulturszene", 
+                    "fr": "🎭 Scène culturelle dynamique", 
+                    "es": "🎭 Escena cultural vibrante", 
+                    "ja": "🎭 活発な文化シーン", 
+                    "th": "🎭 วงการวัฒนธรรมที่มีชีวิตชีวา" 
+                }, 
+                "value": "vibrant_culture" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏛️ 전통 예술 보존", 
+                    "en": "🏛️ Traditional arts preservation", 
+                    "de": "🏛️ Erhaltung traditioneller Künste", 
+                    "fr": "🏛️ Préservation des arts traditionnels", 
+                    "es": "🏛️ Preservación de artes tradicionales", 
+                    "ja": "🏛️ 伝統芸術の保存", 
+                    "th": "🏛️ การอนุรักษ์ศิลปะดั้งเดิม" 
+                }, 
+                "value": "traditional_arts" 
+            },
+            { 
+                "text": { 
+                    "ko": "💻 디지털 크리에이터 천국", 
+                    "en": "💻 Digital creator paradise", 
+                    "de": "💻 Digitales Kreator-Paradies", 
+                    "fr": "💻 Paradis des créateurs numériques", 
+                    "es": "💻 Paraíso de creadores digitales", 
+                    "ja": "💻 デジタルクリエイター天国", 
+                    "th": "💻 สวรรค์ของครีเอเตอร์ดิจิทัล" 
+                }, 
+                "value": "digital_creative" 
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "text": {
+            "ko": "이웃 국가와의 관계는?",
+            "en": "What about relations with neighboring countries?",
+            "de": "Was ist mit den Beziehungen zu Nachbarländern?",
+            "fr": "Qu'en est-il des relations avec les pays voisins?",
+            "es": "¿Qué hay de las relaciones con países vecinos?",
+            "ja": "近隣国との関係は？",
+            "th": "ความสัมพันธ์กับประเทศเพื่อนบ้านเป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🤝 우호적이고 개방적", 
+                    "en": "🤝 Friendly and open", 
+                    "de": "🤝 Freundlich und offen", 
+                    "fr": "🤝 Amical et ouvert", 
+                    "es": "🤝 Amistoso y abierto", 
+                    "ja": "🤝 友好的で開放的", 
+                    "th": "🤝 เป็นมิตรและเปิดกว้าง" 
+                }, 
+                "value": "friendly_neighbors" 
+            },
+            { 
+                "text": { 
+                    "ko": "🛂 자유로운 국경 이동", 
+                    "en": "🛂 Free border movement", 
+                    "de": "🛂 Freie Grenzbewegung", 
+                    "fr": "🛂 Libre circulation aux frontières", 
+                    "es": "🛂 Libre movimiento fronterizo", 
+                    "ja": "🛂 自由な国境移動", 
+                    "th": "🛂 การเคลื่อนย้ายข้ามพรมแดนอย่างเสรี" 
+                }, 
+                "value": "open_borders" 
+            },
+            { 
+                "text": { 
+                    "ko": "🏝️ 고립된 섬나라", 
+                    "en": "🏝️ Isolated island nation", 
+                    "de": "🏝️ Isolierter Inselstaat", 
+                    "fr": "🏝️ Nation insulaire isolée", 
+                    "es": "🏝️ Nación insular aislada", 
+                    "ja": "🏝️ 孤立した島国", 
+                    "th": "🏝️ ประเทศเกาะที่โดดเดี่ยว" 
+                }, 
+                "value": "island_nation" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌍 지역 경제 중심지", 
+                    "en": "🌍 Regional economic center", 
+                    "de": "🌍 Regionales Wirtschaftszentrum", 
+                    "fr": "🌍 Centre économique régional", 
+                    "es": "🌍 Centro económico regional", 
+                    "ja": "🌍 地域経済の中心地", 
+                    "th": "🌍 ศูนย์กลางเศรษฐกิจภูมิภาค" 
+                }, 
+                "value": "regional_hub" 
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "text": {
+            "ko": "미래 기술과 AI 수용도는?",
+            "en": "What about future technology and AI acceptance?",
+            "de": "Was ist mit Zukunftstechnologie und KI-Akzeptanz?",
+            "fr": "Qu'en est-il de la technologie future et de l'acceptation de l'IA?",
+            "es": "¿Qué hay de la tecnología futura y la aceptación de IA?",
+            "ja": "未来技術とAI受容度は？",
+            "th": "การยอมรับเทคโนโลยีอนาคตและ AI เป็นอย่างไร?"
+        },
+        "options": [
+            { 
+                "text": { 
+                    "ko": "🤖 AI/로봇 기술 선도국", 
+                    "en": "🤖 AI/robotics technology leader", 
+                    "de": "🤖 KI/Robotik-Technologieführer", 
+                    "fr": "🤖 Leader en technologie IA/robotique", 
+                    "es": "🤖 Líder en tecnología IA/robótica", 
+                    "ja": "🤖 AI/ロボット技術先導国", 
+                    "th": "🤖 ผู้นำด้านเทคโนโลยี AI/หุ่นยนต์" 
+                }, 
+                "value": "ai_leader" 
+            },
+            { 
+                "text": { 
+                    "ko": "🔬 연구개발 투자 활발", 
+                    "en": "🔬 Active R&D investment", 
+                    "de": "🔬 Aktive F&E-Investitionen", 
+                    "fr": "🔬 Investissement actif en R&D", 
+                    "es": "🔬 Inversión activa en I+D", 
+                    "ja": "🔬 研究開発投資が活発", 
+                    "th": "🔬 การลงทุนด้านการวิจัยและพัฒนาที่คึกคัก" 
+                }, 
+                "value": "rd_investment" 
+            },
+            { 
+                "text": { 
+                    "ko": "⚖️ 기술과 인간의 균형", 
+                    "en": "⚖️ Balance between technology and humanity", 
+                    "de": "⚖️ Gleichgewicht zwischen Technologie und Menschlichkeit", 
+                    "fr": "⚖️ Équilibre entre technologie et humanité", 
+                    "es": "⚖️ Equilibrio entre tecnología y humanidad", 
+                    "ja": "⚖️ 技術と人間のバランス", 
+                    "th": "⚖️ สมดุลระหว่างเทคโนโลยีและมนุษยชาติ" 
+                }, 
+                "value": "tech_balance" 
+            },
+            { 
+                "text": { 
+                    "ko": "🌿 자연친화적 기술", 
+                    "en": "🌿 Nature-friendly technology", 
+                    "de": "🌿 Naturfreundliche Technologie", 
+                    "fr": "🌿 Technologie respectueuse de la nature", 
+                    "es": "🌿 Tecnología amigable con la naturaleza", 
+                    "ja": "🌿 自然に優しい技術", 
+                    "th": "🌿 เทคโนโลยีที่เป็นมิตรกับธรรมชาติ" 
+                }, 
+                "value": "green_tech" 
+            }
+        ]
+    }
+]

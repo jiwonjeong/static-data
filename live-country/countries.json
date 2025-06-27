@@ -1,0 +1,3563 @@
+{
+    "canada": {
+        "name": {
+            "ko": "캐나다",
+            "en": "Canada",
+            "de": "Kanada",
+            "fr": "Canada",
+            "es": "Canadá",
+            "ja": "カナダ",
+            "th": "แคนาดา"
+        },
+        "flag": "🇨🇦",
+        "traits": ["nature", "safety", "diversity", "seasons", "balance"],
+        "details": {
+            "ko": {
+                "climate": "사계절이 뚜렷한 온대 기후",
+                "lifestyle": "워라밸 중시 문화",
+                "cost": "중상위 생활비",
+                "language": "영어/프랑스어",
+                "visa": "디지털 노마드 비자",
+                "특별혜택": "e-Residency 프로그램"
+            },
+            "en": {
+                "climate": "Cool Nordic climate",
+                "lifestyle": "Digital pioneer country",
+                "cost": "Affordable cost of living",
+                "language": "Estonian/English",
+                "visa": "Digital Nomad Visa",
+                "특별혜택": "e-Residency program"
+            },
+            "de": {
+                "climate": "Kühles nordisches Klima",
+                "lifestyle": "Digitales Pionierland",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Estnisch/Englisch",
+                "visa": "Digitales Nomadenvisum",
+                "특별혜택": "e-Residency-Programm"
+            },
+            "fr": {
+                "climate": "Climat nordique frais",
+                "lifestyle": "Pays pionnier du numérique",
+                "cost": "Coût de vie abordable",
+                "language": "Estonien/Anglais",
+                "visa": "Visa nomade numérique",
+                "특별혜택": "Programme e-Residency"
+            },
+            "es": {
+                "climate": "Clima nórdico fresco",
+                "lifestyle": "País pionero digital",
+                "cost": "Costo de vida asequible",
+                "language": "Estonio/Inglés",
+                "visa": "Visa de nómada digital",
+                "특별혜택": "Programa e-Residency"
+            },
+            "ja": {
+                "climate": "涼しい北欧の気候",
+                "lifestyle": "デジタル先進国",
+                "cost": "手頃な生活費",
+                "language": "エストニア語/英語",
+                "visa": "デジタルノマドビザ",
+                "특별혜택": "e-Residencyプログラム"
+            },
+            "th": {
+                "climate": "สภาพอากาศนอร์ดิกเย็น",
+                "lifestyle": "ประเทศผู้นำด้านดิจิทัล",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "เอสโตเนีย/อังกฤษ",
+                "visa": "วีซ่าดิจิทัลโนแมด",
+                "특별혜택": "โครงการ e-Residency"
+            }
+        }
+    },
+    "usa": {
+        "name": {
+            "ko": "미국",
+            "en": "United States",
+            "de": "Vereinigte Staaten",
+            "fr": "États-Unis",
+            "es": "Estados Unidos",
+            "ja": "アメリカ",
+            "th": "สหรัฐอเมริกา"
+        },
+        "flag": "🇺🇸",
+        "traits": ["tech", "diversity", "business", "career", "innovation"],
+        "relatedTraits": ["startup_hub", "top_universities"],
+        "details": {
+            "ko": {
+                "climate": "지역별 다양한 기후",
+                "lifestyle": "개인주의와 기회의 땅",
+                "cost": "지역별 차이 큼",
+                "language": "영어",
+                "visa": "H1B/EB 비자 프로그램",
+                "특별혜택": "세계 최대 경제 시장"
+            },
+            "en": {
+                "climate": "Diverse climate by region",
+                "lifestyle": "Land of individualism and opportunity",
+                "cost": "Varies greatly by region",
+                "language": "English",
+                "visa": "H1B/EB visa programs",
+                "특별혜택": "World's largest economy"
+            },
+            "de": {
+                "climate": "Vielfältiges Klima je nach Region",
+                "lifestyle": "Land des Individualismus und der Chancen",
+                "cost": "Stark regional unterschiedlich",
+                "language": "Englisch",
+                "visa": "H1B/EB-Visaprogramme",
+                "특별혜택": "Weltweit größte Wirtschaft"
+            },
+            "fr": {
+                "climate": "Climat varié selon les régions",
+                "lifestyle": "Terre d'individualisme et d'opportunités",
+                "cost": "Varie grandement selon la région",
+                "language": "Anglais",
+                "visa": "Programmes de visa H1B/EB",
+                "특별혜택": "Plus grande économie mondiale"
+            },
+            "es": {
+                "climate": "Clima diverso por región",
+                "lifestyle": "Tierra de individualismo y oportunidades",
+                "cost": "Varía mucho según la región",
+                "language": "Inglés",
+                "visa": "Programas de visa H1B/EB",
+                "특별혜택": "La economía más grande del mundo"
+            },
+            "ja": {
+                "climate": "地域により多様な気候",
+                "lifestyle": "個人主義と機会の国",
+                "cost": "地域により大きく異なる",
+                "language": "英語",
+                "visa": "H1B/EBビザプログラム",
+                "특별혜택": "世界最大の経済市場"
+            },
+            "th": {
+                "climate": "สภาพอากาศหลากหลายตามภูมิภาค",
+                "lifestyle": "ดินแดนแห่งปัจเจกนิยมและโอกาส",
+                "cost": "แตกต่างกันมากตามภูมิภาค",
+                "language": "อังกฤษ",
+                "visa": "โครงการวีซ่า H1B/EB",
+                "특별혜택": "เศรษฐกิจที่ใหญ่ที่สุดในโลก"
+            }
+        }
+    },
+    "uk": {
+        "name": {
+            "ko": "영국",
+            "en": "United Kingdom",
+            "de": "Vereinigtes Königreich",
+            "fr": "Royaume-Uni",
+            "es": "Reino Unido",
+            "ja": "イギリス",
+            "th": "สหราชอาณาจักร"
+        },
+        "flag": "🇬🇧",
+        "traits": ["culture", "education", "mild", "diversity", "traditional"],
+        "relatedTraits": ["top_universities", "cultural"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "전통과 현대의 조화",
+                "cost": "높은 생활비",
+                "language": "영어",
+                "visa": "Skilled Worker 비자",
+                "특별혜택": "유럽 진출 거점"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Blend of tradition and modernity",
+                "cost": "High cost of living",
+                "language": "English",
+                "visa": "Skilled Worker visa",
+                "특별혜택": "Gateway to Europe"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Mischung aus Tradition und Moderne",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Englisch",
+                "visa": "Skilled Worker Visum",
+                "특별혜택": "Tor nach Europa"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Mélange de tradition et de modernité",
+                "cost": "Coût de vie élevé",
+                "language": "Anglais",
+                "visa": "Visa Skilled Worker",
+                "특별혜택": "Porte d'entrée vers l'Europe"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Mezcla de tradición y modernidad",
+                "cost": "Alto costo de vida",
+                "language": "Inglés",
+                "visa": "Visa Skilled Worker",
+                "특별혜택": "Puerta de entrada a Europa"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "伝統と現代の調和",
+                "cost": "高い生活費",
+                "language": "英語",
+                "visa": "Skilled Workerビザ",
+                "특별혜택": "ヨーロッパへの玄関口"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "การผสมผสานระหว่างประเพณีและความทันสมัย",
+                "cost": "ค่าครองชีพสูง",
+                "language": "อังกฤษ",
+                "visa": "วีซ่า Skilled Worker",
+                "특별혜택": "ประตูสู่ยุโรป"
+            }
+        }
+    },
+    "france": {
+        "name": {
+            "ko": "프랑스",
+            "en": "France",
+            "de": "Frankreich",
+            "fr": "France",
+            "es": "Francia",
+            "ja": "フランス",
+            "th": "ฝรั่งเศส"
+        },
+        "flag": "🇫🇷",
+        "traits": ["culture", "traditional_cuisine", "balance", "seasons", "art"],
+        "relatedTraits": ["family", "leisure"],
+        "details": {
+            "ko": {
+                "climate": "온화한 대륙성 기후",
+                "lifestyle": "문화와 예술의 나라",
+                "cost": "중상위 생활비",
+                "language": "프랑스어",
+                "visa": "Talent Passport",
+                "특별혜택": "35시간 근무제"
+            },
+            "en": {
+                "climate": "Mild continental climate",
+                "lifestyle": "Country of culture and art",
+                "cost": "Upper-middle cost of living",
+                "language": "French",
+                "visa": "Talent Passport",
+                "특별혜택": "35-hour work week"
+            },
+            "de": {
+                "climate": "Mildes kontinentales Klima",
+                "lifestyle": "Land der Kultur und Kunst",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Französisch",
+                "visa": "Talent Passport",
+                "특별혜택": "35-Stunden-Woche"
+            },
+            "fr": {
+                "climate": "Climat continental tempéré",
+                "lifestyle": "Pays de culture et d'art",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Français",
+                "visa": "Passeport Talent",
+                "특별혜택": "Semaine de 35 heures"
+            },
+            "es": {
+                "climate": "Clima continental templado",
+                "lifestyle": "País de cultura y arte",
+                "cost": "Costo de vida medio-alto",
+                "language": "Francés",
+                "visa": "Pasaporte de Talento",
+                "특별혜택": "Semana laboral de 35 horas"
+            },
+            "ja": {
+                "climate": "穏やかな大陸性気候",
+                "lifestyle": "文化と芸術の国",
+                "cost": "中上位の生活費",
+                "language": "フランス語",
+                "visa": "タレントパスポート",
+                "특별혜택": "週35時間労働制"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีปอ่อนโยน",
+                "lifestyle": "ประเทศแห่งวัฒนธรรมและศิลปะ",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "ฝรั่งเศส",
+                "visa": "Talent Passport",
+                "특별혜택": "สัปดาห์ทำงาน 35 ชั่วโมง"
+            }
+        }
+    },
+    "ireland": {
+        "name": {
+            "ko": "아일랜드",
+            "en": "Ireland",
+            "de": "Irland",
+            "fr": "Irlande",
+            "es": "Irlanda",
+            "ja": "アイルランド",
+            "th": "ไอร์แลนด์"
+        },
+        "flag": "🇮🇪",
+        "traits": ["tech", "mild", "english_only", "nature", "friendly"],
+        "relatedTraits": ["startup_hub", "tax_friendly"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "친절하고 활기찬 문화",
+                "cost": "높은 생활비",
+                "language": "영어",
+                "visa": "Critical Skills 비자",
+                "특별혜택": "유럽 테크 허브"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Friendly and vibrant culture",
+                "cost": "High cost of living",
+                "language": "English",
+                "visa": "Critical Skills visa",
+                "특별혜택": "European tech hub"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Freundliche und lebendige Kultur",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Englisch",
+                "visa": "Critical Skills Visum",
+                "특별혜택": "Europäisches Tech-Hub"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Culture amicale et dynamique",
+                "cost": "Coût de vie élevé",
+                "language": "Anglais",
+                "visa": "Visa Critical Skills",
+                "특별혜택": "Hub technologique européen"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Cultura amigable y vibrante",
+                "cost": "Alto costo de vida",
+                "language": "Inglés",
+                "visa": "Visa de habilidades críticas",
+                "특별혜택": "Centro tecnológico europeo"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "親しみやすく活気ある文化",
+                "cost": "高い生活費",
+                "language": "英語",
+                "visa": "クリティカルスキルビザ",
+                "특별혜택": "ヨーロッパのテックハブ"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "วัฒนธรรมที่เป็นมิตรและมีชีวิตชีวา",
+                "cost": "ค่าครองชีพสูง",
+                "language": "อังกฤษ",
+                "visa": "วีซ่า Critical Skills",
+                "특별혜택": "ศูนย์กลางเทคโนโลยีของยุโรป"
+            }
+        }
+    },
+    "czech": {
+        "name": {
+            "ko": "체코",
+            "en": "Czech Republic",
+            "de": "Tschechien",
+            "fr": "République tchèque",
+            "es": "República Checa",
+            "ja": "チェコ",
+            "th": "สาธารณรัฐเช็ก"
+        },
+        "flag": "🇨🇿",
+        "traits": ["culture", "affordable", "seasons", "beer", "history"],
+        "relatedTraits": ["traditional", "safe"],
+        "details": {
+            "ko": {
+                "climate": "대륙성 기후",
+                "lifestyle": "역사와 맥주의 나라",
+                "cost": "저렴한 생활비",
+                "language": "체코어",
+                "visa": "EU 블루카드",
+                "특별혜택": "유럽 중심 위치"
+            },
+            "en": {
+                "climate": "Continental climate",
+                "lifestyle": "Country of history and beer",
+                "cost": "Affordable cost of living",
+                "language": "Czech",
+                "visa": "EU Blue Card",
+                "특별혜택": "Central European location"
+            },
+            "de": {
+                "climate": "Kontinentales Klima",
+                "lifestyle": "Land der Geschichte und des Bieres",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Tschechisch",
+                "visa": "EU Blue Card",
+                "특별혜택": "Zentrale Lage in Europa"
+            },
+            "fr": {
+                "climate": "Climat continental",
+                "lifestyle": "Pays d'histoire et de bière",
+                "cost": "Coût de vie abordable",
+                "language": "Tchèque",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Position centrale en Europe"
+            },
+            "es": {
+                "climate": "Clima continental",
+                "lifestyle": "País de historia y cerveza",
+                "cost": "Costo de vida asequible",
+                "language": "Checo",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Ubicación central en Europa"
+            },
+            "ja": {
+                "climate": "大陸性気候",
+                "lifestyle": "歴史とビールの国",
+                "cost": "手頃な生活費",
+                "language": "チェコ語",
+                "visa": "EUブルーカード",
+                "특별혜택": "ヨーロッパ中心の立地"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีป",
+                "lifestyle": "ประเทศแห่งประวัติศาสตร์และเบียร์",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "เช็ก",
+                "visa": "EU Blue Card",
+                "특별혜택": "ตำแหน่งศูนย์กลางยุโรป"
+            }
+        }
+    },
+    "malaysia": {
+        "name": {
+            "ko": "말레이시아",
+            "en": "Malaysia",
+            "de": "Malaysia",
+            "fr": "Malaisie",
+            "es": "Malasia",
+            "ja": "マレーシア",
+            "th": "มาเลเซีย"
+        },
+        "flag": "🇲🇾",
+        "traits": ["tropical", "diversity", "affordable", "english_friendly", "food"],
+        "relatedTraits": ["warm_retirement", "beach"],
+        "details": {
+            "ko": {
+                "climate": "열대 기후",
+                "lifestyle": "다문화 조화",
+                "cost": "매우 저렴한 생활비",
+                "language": "말레이어/영어",
+                "visa": "MM2H 프로그램",
+                "특별혜택": "의료관광 선진국"
+            },
+            "en": {
+                "climate": "Tropical climate",
+                "lifestyle": "Multicultural harmony",
+                "cost": "Very affordable cost of living",
+                "language": "Malay/English",
+                "visa": "MM2H program",
+                "특별혜택": "Medical tourism leader"
+            },
+            "de": {
+                "climate": "Tropisches Klima",
+                "lifestyle": "Multikulturelle Harmonie",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Malaiisch/Englisch",
+                "visa": "MM2H-Programm",
+                "특별혜택": "Führend im Medizintourismus"
+            },
+            "fr": {
+                "climate": "Climat tropical",
+                "lifestyle": "Harmonie multiculturelle",
+                "cost": "Coût de vie très abordable",
+                "language": "Malais/Anglais",
+                "visa": "Programme MM2H",
+                "특별혜택": "Leader du tourisme médical"
+            },
+            "es": {
+                "climate": "Clima tropical",
+                "lifestyle": "Armonía multicultural",
+                "cost": "Costo de vida muy asequible",
+                "language": "Malayo/Inglés",
+                "visa": "Programa MM2H",
+                "특별혜택": "Líder en turismo médico"
+            },
+            "ja": {
+                "climate": "熱帯気候",
+                "lifestyle": "多文化の調和",
+                "cost": "非常に手頃な生活費",
+                "language": "マレー語/英語",
+                "visa": "MM2Hプログラム",
+                "특별혜택": "医療観光先進国"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อน",
+                "lifestyle": "ความกลมกลืนหลากวัฒนธรรม",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "มาเลย์/อังกฤษ",
+                "visa": "โครงการ MM2H",
+                "특별혜택": "ผู้นำด้านการท่องเที่ยวเชิงการแพทย์"
+            }
+        }
+    },
+    "turkey": {
+        "name": {
+            "ko": "터키",
+            "en": "Turkey",
+            "de": "Türkei",
+            "fr": "Turquie",
+            "es": "Turquía",
+            "ja": "トルコ",
+            "th": "ตุรกี"
+        },
+        "flag": "🇹🇷",
+        "traits": ["culture", "history", "affordable", "seasons", "bridge"],
+        "relatedTraits": ["traditional_cuisine", "warm"],
+        "details": {
+            "ko": {
+                "climate": "지중해성/대륙성",
+                "lifestyle": "동서양의 교차점",
+                "cost": "저렴한 생활비",
+                "language": "터키어",
+                "visa": "투자자 거주 비자",
+                "특별혜택": "유럽-아시아 연결"
+            },
+            "en": {
+                "climate": "Mediterranean/Continental",
+                "lifestyle": "Crossroads of East and West",
+                "cost": "Affordable cost of living",
+                "language": "Turkish",
+                "visa": "Investor residence visa",
+                "특별혜택": "Europe-Asia connection"
+            },
+            "de": {
+                "climate": "Mediterran/Kontinental",
+                "lifestyle": "Kreuzung von Ost und West",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Türkisch",
+                "visa": "Investoren-Aufenthaltsvisum",
+                "특별혜택": "Europa-Asien-Verbindung"
+            },
+            "fr": {
+                "climate": "Méditerranéen/Continental",
+                "lifestyle": "Carrefour de l'Est et de l'Ouest",
+                "cost": "Coût de vie abordable",
+                "language": "Turc",
+                "visa": "Visa de résidence investisseur",
+                "특별혜택": "Connexion Europe-Asie"
+            },
+            "es": {
+                "climate": "Mediterráneo/Continental",
+                "lifestyle": "Encrucijada de Oriente y Occidente",
+                "cost": "Costo de vida asequible",
+                "language": "Turco",
+                "visa": "Visa de residencia para inversores",
+                "특별혜택": "Conexión Europa-Asia"
+            },
+            "ja": {
+                "climate": "地中海性/大陸性",
+                "lifestyle": "東西の交差点",
+                "cost": "手頃な生活費",
+                "language": "トルコ語",
+                "visa": "投資家居住ビザ",
+                "특별혜택": "ヨーロッパ-アジア連結"
+            },
+            "th": {
+                "climate": "เมดิเตอร์เรเนียน/ทวีป",
+                "lifestyle": "จุดบรรจบของตะวันออกและตะวันตก",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "ตุรกี",
+                "visa": "วีซ่าพำนักสำหรับนักลงทุน",
+                "특별혜택": "การเชื่อมต่อยุโรป-เอเชีย"
+            }
+        }
+    },
+    "poland": {
+        "name": {
+            "ko": "폴란드",
+            "en": "Poland",
+            "de": "Polen",
+            "fr": "Pologne",
+            "es": "Polonia",
+            "ja": "ポーランド",
+            "th": "โปแลนด์"
+        },
+        "flag": "🇵🇱",
+        "traits": ["affordable", "history", "seasons", "tech", "education"],
+        "relatedTraits": ["safe", "traditional"],
+        "details": {
+            "ko": {
+                "climate": "온화한 대륙성",
+                "lifestyle": "빠르게 발전하는 나라",
+                "cost": "저렴한 생활비",
+                "language": "폴란드어",
+                "visa": "EU 블루카드",
+                "특별혜택": "IT 산업 성장"
+            },
+            "en": {
+                "climate": "Mild continental",
+                "lifestyle": "Rapidly developing country",
+                "cost": "Affordable cost of living",
+                "language": "Polish",
+                "visa": "EU Blue Card",
+                "특별혜택": "Growing IT industry"
+            },
+            "de": {
+                "climate": "Gemäßigt kontinental",
+                "lifestyle": "Schnell entwickelndes Land",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Polnisch",
+                "visa": "EU Blue Card",
+                "특별혜택": "Wachsende IT-Branche"
+            },
+            "fr": {
+                "climate": "Continental tempéré",
+                "lifestyle": "Pays en développement rapide",
+                "cost": "Coût de vie abordable",
+                "language": "Polonais",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Industrie IT en croissance"
+            },
+            "es": {
+                "climate": "Continental templado",
+                "lifestyle": "País en rápido desarrollo",
+                "cost": "Costo de vida asequible",
+                "language": "Polaco",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Industria TI en crecimiento"
+            },
+            "ja": {
+                "climate": "穏やかな大陸性",
+                "lifestyle": "急速に発展する国",
+                "cost": "手頃な生活費",
+                "language": "ポーランド語",
+                "visa": "EUブルーカード",
+                "특별혜택": "IT産業の成長"
+            },
+            "th": {
+                "climate": "ทวีปอ่อนโยน",
+                "lifestyle": "ประเทศที่พัฒนาอย่างรวดเร็ว",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "โปแลนด์",
+                "visa": "EU Blue Card",
+                "특별혜택": "อุตสาหกรรม IT ที่เติบโต"
+            }
+        }
+    },
+    "vietnam": {
+        "name": {
+            "ko": "베트남",
+            "en": "Vietnam",
+            "de": "Vietnam",
+            "fr": "Vietnam",
+            "es": "Vietnam",
+            "ja": "ベトナム",
+            "th": "เวียดนาม"
+        },
+        "flag": "🇻🇳",
+        "traits": ["affordable", "tropical", "food", "dynamic", "growing"],
+        "relatedTraits": ["beach", "business"],
+        "details": {
+            "ko": {
+                "climate": "열대 몬순",
+                "lifestyle": "역동적인 성장",
+                "cost": "매우 저렴한 생활비",
+                "language": "베트남어",
+                "visa": "비즈니스 비자",
+                "특별혜택": "빠른 경제 성장"
+            },
+            "en": {
+                "climate": "Tropical monsoon",
+                "lifestyle": "Dynamic growth",
+                "cost": "Very affordable cost of living",
+                "language": "Vietnamese",
+                "visa": "Business visa",
+                "특별혜택": "Rapid economic growth"
+            },
+            "de": {
+                "climate": "Tropischer Monsun",
+                "lifestyle": "Dynamisches Wachstum",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Vietnamesisch",
+                "visa": "Geschäftsvisum",
+                "특별혜택": "Schnelles Wirtschaftswachstum"
+            },
+            "fr": {
+                "climate": "Mousson tropicale",
+                "lifestyle": "Croissance dynamique",
+                "cost": "Coût de vie très abordable",
+                "language": "Vietnamien",
+                "visa": "Visa d'affaires",
+                "특별혜택": "Croissance économique rapide"
+            },
+            "es": {
+                "climate": "Monzón tropical",
+                "lifestyle": "Crecimiento dinámico",
+                "cost": "Costo de vida muy asequible",
+                "language": "Vietnamita",
+                "visa": "Visa de negocios",
+                "특별혜택": "Rápido crecimiento económico"
+            },
+            "ja": {
+                "climate": "熱帯モンスーン",
+                "lifestyle": "ダイナミックな成長",
+                "cost": "非常に手頃な生活費",
+                "language": "ベトナム語",
+                "visa": "ビジネスビザ",
+                "특별혜택": "急速な経済成長"
+            },
+            "th": {
+                "climate": "มรสุมเขตร้อน",
+                "lifestyle": "การเติบโตที่มีพลวัต",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "เวียดนาม",
+                "visa": "วีซ่าธุรกิจ",
+                "특별혜택": "การเติบโตทางเศรษฐกิจที่รวดเร็ว"
+            }
+        }
+    },
+    "chile": {
+        "name": {
+            "ko": "칠레",
+            "en": "Chile",
+            "de": "Chile",
+            "fr": "Chili",
+            "es": "Chile",
+            "ja": "チリ",
+            "th": "ชิลี"
+        },
+        "flag": "🇨🇱",
+        "traits": ["nature", "stable", "wine", "mountain", "pacific"],
+        "relatedTraits": ["safe", "progressive"],
+        "details": {
+            "ko": {
+                "climate": "다양한 기후대",
+                "lifestyle": "안정적이고 진보적",
+                "cost": "중간 수준 생활비",
+                "language": "스페인어",
+                "visa": "Start-Up Chile",
+                "특별혜택": "남미 최고 안정성"
+            },
+            "en": {
+                "climate": "Diverse climate zones",
+                "lifestyle": "Stable and progressive",
+                "cost": "Moderate cost of living",
+                "language": "Spanish",
+                "visa": "Start-Up Chile",
+                "특별혜택": "Most stable in South America"
+            },
+            "de": {
+                "climate": "Vielfältige Klimazonen",
+                "lifestyle": "Stabil und fortschrittlich",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Start-Up Chile",
+                "특별혜택": "Stabilstes Land in Südamerika"
+            },
+            "fr": {
+                "climate": "Zones climatiques diverses",
+                "lifestyle": "Stable et progressiste",
+                "cost": "Coût de vie modéré",
+                "language": "Espagnol",
+                "visa": "Start-Up Chile",
+                "특별혜택": "Le plus stable d'Amérique du Sud"
+            },
+            "es": {
+                "climate": "Zonas climáticas diversas",
+                "lifestyle": "Estable y progresista",
+                "cost": "Costo de vida moderado",
+                "language": "Español",
+                "visa": "Start-Up Chile",
+                "특별혜택": "El más estable de Sudamérica"
+            },
+            "ja": {
+                "climate": "多様な気候帯",
+                "lifestyle": "安定的で進歩的",
+                "cost": "中程度の生活費",
+                "language": "スペイン語",
+                "visa": "Start-Up Chile",
+                "특별혜택": "南米で最も安定"
+            },
+            "th": {
+                "climate": "เขตภูมิอากาศหลากหลาย",
+                "lifestyle": "มั่นคงและก้าวหน้า",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "สเปน",
+                "visa": "Start-Up Chile",
+                "특별혜택": "มั่นคงที่สุดในอเมริกาใต้"
+            }
+        }
+    },
+    "malta": {
+        "name": {
+            "ko": "몰타",
+            "en": "Malta",
+            "de": "Malta",
+            "fr": "Malte",
+            "es": "Malta",
+            "ja": "マルタ",
+            "th": "มอลตา"
+        },
+        "flag": "🇲🇹",
+        "traits": ["warm", "english_only", "beach", "history", "eu_member"],
+        "relatedTraits": ["tax_friendly", "safe"],
+        "details": {
+            "ko": {
+                "climate": "지중해성 온화",
+                "lifestyle": "섬나라의 여유",
+                "cost": "중간 수준 생활비",
+                "language": "몰타어/영어",
+                "visa": "Golden Visa",
+                "특별혜택": "EU 시민권 경로"
+            },
+            "en": {
+                "climate": "Mediterranean mild",
+                "lifestyle": "Island life leisure",
+                "cost": "Moderate cost of living",
+                "language": "Maltese/English",
+                "visa": "Golden Visa",
+                "특별혜택": "EU citizenship pathway"
+            },
+            "de": {
+                "climate": "Mediterranes mildes Klima",
+                "lifestyle": "Entspanntes Inselleben",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Maltesisch/Englisch",
+                "visa": "Golden Visa",
+                "특별혜택": "Weg zur EU-Staatsbürgerschaft"
+            },
+            "fr": {
+                "climate": "Méditerranéen doux",
+                "lifestyle": "Vie insulaire détendue",
+                "cost": "Coût de vie modéré",
+                "language": "Maltais/Anglais",
+                "visa": "Golden Visa",
+                "특별혜택": "Voie vers la citoyenneté européenne"
+            },
+            "es": {
+                "climate": "Mediterráneo suave",
+                "lifestyle": "Vida isleña relajada",
+                "cost": "Costo de vida moderado",
+                "language": "Maltés/Inglés",
+                "visa": "Golden Visa",
+                "특별혜택": "Camino a la ciudadanía de la UE"
+            },
+            "ja": {
+                "climate": "地中海性の温暖",
+                "lifestyle": "島国の余裕",
+                "cost": "中程度の生活費",
+                "language": "マルタ語/英語",
+                "visa": "ゴールデンビザ",
+                "특별혜택": "EU市民権への道"
+            },
+            "th": {
+                "climate": "เมดิเตอร์เรเนียนอ่อนโยน",
+                "lifestyle": "ชีวิตบนเกาะที่ผ่อนคลาย",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "มอลตา/อังกฤษ",
+                "visa": "Golden Visa",
+                "특별혜택": "เส้นทางสู่สัญชาติ EU"
+            }
+        }
+    },
+    "monaco": {
+        "name": {
+            "ko": "모나코",
+            "en": "Monaco",
+            "de": "Monaco",
+            "fr": "Monaco",
+            "es": "Mónaco",
+            "ja": "モナコ",
+            "th": "โมนาโก"
+        },
+        "flag": "🇲🇨",
+        "traits": ["luxury", "tax_free", "beach", "mild", "safest"],
+        "relatedTraits": ["yacht_life", "casino", "financial_hub"],
+        "details": {
+            "ko": {
+                "climate": "지중해성 완벽한 날씨",
+                "lifestyle": "초럭셔리 라이프스타일",
+                "cost": "세계 최고 수준 생활비",
+                "language": "프랑스어/영어",
+                "visa": "거주 증명 필요",
+                "특별혜택": "소득세 0%, 상속세 없음"
+            },
+            "en": {
+                "climate": "Perfect Mediterranean climate",
+                "lifestyle": "Ultra-luxury lifestyle",
+                "cost": "World's highest cost of living",
+                "language": "French/English",
+                "visa": "Residence proof required",
+                "특별혜택": "0% income tax, no inheritance tax"
+            },
+            "de": {
+                "climate": "Perfektes mediterranes Klima",
+                "lifestyle": "Ultra-Luxus-Lebensstil",
+                "cost": "Weltweit höchste Lebenshaltungskosten",
+                "language": "Französisch/Englisch",
+                "visa": "Wohnsitznachweis erforderlich",
+                "특별혜택": "0% Einkommensteuer, keine Erbschaftsteuer"
+            },
+            "fr": {
+                "climate": "Climat méditerranéen parfait",
+                "lifestyle": "Style de vie ultra-luxe",
+                "cost": "Coût de vie le plus élevé au monde",
+                "language": "Français/Anglais",
+                "visa": "Preuve de résidence requise",
+                "특별혜택": "0% d'impôt sur le revenu, pas de droits de succession"
+            },
+            "es": {
+                "climate": "Clima mediterráneo perfecto",
+                "lifestyle": "Estilo de vida ultra lujoso",
+                "cost": "Costo de vida más alto del mundo",
+                "language": "Francés/Inglés",
+                "visa": "Prueba de residencia requerida",
+                "특별혜택": "0% de impuesto sobre la renta, sin impuesto de sucesiones"
+            },
+            "ja": {
+                "climate": "完璧な地中海性気候",
+                "lifestyle": "超高級ライフスタイル",
+                "cost": "世界最高レベルの生活費",
+                "language": "フランス語/英語",
+                "visa": "居住証明が必要",
+                "특별혜택": "所得税0%、相続税なし"
+            },
+            "th": {
+                "climate": "สภาพอากาศเมดิเตอร์เรเนียนที่สมบูรณ์แบบ",
+                "lifestyle": "ไลฟ์สไตล์หรูหราระดับอัลตร้า",
+                "cost": "ค่าครองชีพสูงที่สุดในโลก",
+                "language": "ฝรั่งเศส/อังกฤษ",
+                "visa": "ต้องมีหลักฐานการพำนัก",
+                "특별혜택": "ภาษีเงินได้ 0%, ไม่มีภาษีมรดก"
+            }
+        }
+    },
+    "iceland": {
+        "name": {
+            "ko": "아이슬란드",
+            "en": "Iceland",
+            "de": "Island",
+            "fr": "Islande",
+            "es": "Islandia",
+            "ja": "アイスランド",
+            "th": "ไอซ์แลนด์"
+        },
+        "flag": "🇮🇸",
+        "traits": ["nature", "safety", "cool", "renewable", "peaceful"],
+        "relatedTraits": ["northern_lights", "geothermal", "full_equality"],
+        "details": {
+            "ko": {
+                "climate": "서늘한 해양성 기후",
+                "lifestyle": "자연과 함께하는 평화로운 삶",
+                "cost": "높은 생활비",
+                "language": "아이슬란드어/영어",
+                "visa": "워킹홀리데이 가능",
+                "특별혜택": "100% 재생에너지, 세계 최고 안전"
+            },
+            "en": {
+                "climate": "Cool maritime climate",
+                "lifestyle": "Peaceful life with nature",
+                "cost": "High cost of living",
+                "language": "Icelandic/English",
+                "visa": "Working holiday available",
+                "특별혜택": "100% renewable energy, world's safest"
+            },
+            "de": {
+                "climate": "Kühles Seeklima",
+                "lifestyle": "Friedliches Leben mit der Natur",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Isländisch/Englisch",
+                "visa": "Working Holiday verfügbar",
+                "특별혜택": "100% erneuerbare Energie, weltweit am sichersten"
+            },
+            "fr": {
+                "climate": "Climat maritime frais",
+                "lifestyle": "Vie paisible avec la nature",
+                "cost": "Coût de vie élevé",
+                "language": "Islandais/Anglais",
+                "visa": "Vacances-travail disponibles",
+                "특별혜택": "100% d'énergie renouvelable, le plus sûr au monde"
+            },
+            "es": {
+                "climate": "Clima marítimo fresco",
+                "lifestyle": "Vida pacífica con la naturaleza",
+                "cost": "Alto costo de vida",
+                "language": "Islandés/Inglés",
+                "visa": "Working holiday disponible",
+                "특별혜택": "100% energía renovable, el más seguro del mundo"
+            },
+            "ja": {
+                "climate": "涼しい海洋性気候",
+                "lifestyle": "自然と共にある平和な生活",
+                "cost": "高い生活費",
+                "language": "アイスランド語/英語",
+                "visa": "ワーキングホリデー可能",
+                "특별혜택": "100%再生可能エネルギー、世界で最も安全"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลเย็น",
+                "lifestyle": "ชีวิตที่สงบกับธรรมชาติ",
+                "cost": "ค่าครองชีพสูง",
+                "language": "ไอซ์แลนด์/อังกฤษ",
+                "visa": "วีซ่าเวิร์คกิ้งฮอลิเดย์",
+                "특별혜택": "พลังงานหมุนเวียน 100%, ปลอดภัยที่สุดในโลก"
+            }
+        }
+    },
+    "taiwan": {
+        "name": {
+            "ko": "대만",
+            "en": "Taiwan",
+            "de": "Taiwan",
+            "fr": "Taïwan",
+            "es": "Taiwán",
+            "ja": "台湾",
+            "th": "ไต้หวัน"
+        },
+        "flag": "🇹🇼",
+        "traits": ["tech", "food", "tropical", "safety", "healthcare"],
+        "relatedTraits": ["night_markets", "digital_banking", "friendly"],
+        "details": {
+            "ko": {
+                "climate": "아열대 기후",
+                "lifestyle": "편리한 도시 생활",
+                "cost": "중간 수준 생활비",
+                "language": "중국어/대만어",
+                "visa": "Gold Card 프로그램",
+                "특별혜택": "우수한 건강보험 시스템"
+            },
+            "en": {
+                "climate": "Subtropical climate",
+                "lifestyle": "Convenient urban life",
+                "cost": "Moderate cost of living",
+                "language": "Chinese/Taiwanese",
+                "visa": "Gold Card program",
+                "특별혜택": "Excellent healthcare system"
+            },
+            "de": {
+                "climate": "Subtropisches Klima",
+                "lifestyle": "Bequemes Stadtleben",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Chinesisch/Taiwanesisch",
+                "visa": "Gold Card Programm",
+                "특별혜택": "Ausgezeichnetes Gesundheitssystem"
+            },
+            "fr": {
+                "climate": "Climat subtropical",
+                "lifestyle": "Vie urbaine pratique",
+                "cost": "Coût de vie modéré",
+                "language": "Chinois/Taïwanais",
+                "visa": "Programme Gold Card",
+                "특별혜택": "Excellent système de santé"
+            },
+            "es": {
+                "climate": "Clima subtropical",
+                "lifestyle": "Vida urbana conveniente",
+                "cost": "Costo de vida moderado",
+                "language": "Chino/Taiwanés",
+                "visa": "Programa Gold Card",
+                "특별혜택": "Excelente sistema de salud"
+            },
+            "ja": {
+                "climate": "亜熱帯気候",
+                "lifestyle": "便利な都市生活",
+                "cost": "中程度の生活費",
+                "language": "中国語/台湾語",
+                "visa": "ゴールドカードプログラム",
+                "특별혜택": "優れた健康保険システム"
+            },
+            "th": {
+                "climate": "สภาพอากาศกึ่งเขตร้อน",
+                "lifestyle": "ชีวิตในเมืองที่สะดวกสบาย",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "จีน/ไต้หวัน",
+                "visa": "โครงการ Gold Card",
+                "특별혜택": "ระบบประกันสุขภาพที่ยอดเยี่ยม"
+            }
+        }
+    },
+    "luxembourg": {
+        "name": {
+            "ko": "룩셈부르크",
+            "en": "Luxembourg",
+            "de": "Luxemburg",
+            "fr": "Luxembourg",
+            "es": "Luxemburgo",
+            "ja": "ルクセンブルク",
+            "th": "ลักเซมเบิร์ก"
+        },
+        "flag": "🇱🇺",
+        "traits": ["economy", "multilingual", "financial_hub", "safe", "eu_member"],
+        "relatedTraits": ["high_salary", "international", "public_transport"],
+        "details": {
+            "ko": {
+                "climate": "온화한 대륙성 기후",
+                "lifestyle": "국제적이고 부유한 환경",
+                "cost": "매우 높은 생활비",
+                "language": "프랑스어/독일어/룩셈부르크어",
+                "visa": "EU 블루카드",
+                "특별혜택": "유럽 최고 급여 수준"
+            },
+            "en": {
+                "climate": "Mild continental climate",
+                "lifestyle": "International and affluent environment",
+                "cost": "Very high cost of living",
+                "language": "French/German/Luxembourgish",
+                "visa": "EU Blue Card",
+                "특별혜택": "Europe's highest salary levels"
+            },
+            "de": {
+                "climate": "Mildes kontinentales Klima",
+                "lifestyle": "Internationale und wohlhabende Umgebung",
+                "cost": "Sehr hohe Lebenshaltungskosten",
+                "language": "Französisch/Deutsch/Luxemburgisch",
+                "visa": "EU Blue Card",
+                "특별혜택": "Europas höchste Gehaltsniveaus"
+            },
+            "fr": {
+                "climate": "Climat continental tempéré",
+                "lifestyle": "Environnement international et aisé",
+                "cost": "Coût de vie très élevé",
+                "language": "Français/Allemand/Luxembourgeois",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Niveaux de salaire les plus élevés d'Europe"
+            },
+            "es": {
+                "climate": "Clima continental templado",
+                "lifestyle": "Ambiente internacional y próspero",
+                "cost": "Costo de vida muy alto",
+                "language": "Francés/Alemán/Luxemburgués",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Los niveles salariales más altos de Europa"
+            },
+            "ja": {
+                "climate": "穏やかな大陸性気候",
+                "lifestyle": "国際的で豊かな環境",
+                "cost": "非常に高い生活費",
+                "language": "フランス語/ドイツ語/ルクセンブルク語",
+                "visa": "EUブルーカード",
+                "특별혜택": "ヨーロッパ最高の給与水準"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีปอ่อนโยน",
+                "lifestyle": "สภาพแวดล้อมนานาชาติและมั่งคั่ง",
+                "cost": "ค่าครองชีพสูงมาก",
+                "language": "ฝรั่งเศส/เยอรมัน/ลักเซมเบิร์ก",
+                "visa": "EU Blue Card",
+                "특별혜택": "ระดับเงินเดือนสูงที่สุดในยุโรป"
+            }
+        }
+    },
+    "israel": {
+        "name": {
+            "ko": "이스라엘",
+            "en": "Israel",
+            "de": "Israel",
+            "fr": "Israël",
+            "es": "Israel",
+            "ja": "イスラエル",
+            "th": "อิสราเอล"
+        },
+        "flag": "🇮🇱",
+        "traits": ["tech", "startup_hub", "beach", "history", "innovation"],
+        "relatedTraits": ["unicorn_hub", "rd_investment", "ai_leader"],
+        "details": {
+            "ko": {
+                "climate": "지중해성/사막 기후",
+                "lifestyle": "혁신적이고 역동적",
+                "cost": "높은 생활비",
+                "language": "히브리어/영어",
+                "visa": "Start-up Visa",
+                "특별혜택": "스타트업 네이션"
+            },
+            "en": {
+                "climate": "Mediterranean/Desert climate",
+                "lifestyle": "Innovative and dynamic",
+                "cost": "High cost of living",
+                "language": "Hebrew/English",
+                "visa": "Start-up Visa",
+                "특별혜택": "Start-up Nation"
+            },
+            "de": {
+                "climate": "Mediterranes/Wüstenklima",
+                "lifestyle": "Innovativ und dynamisch",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Hebräisch/Englisch",
+                "visa": "Start-up Visum",
+                "특별혜택": "Start-up Nation"
+            },
+            "fr": {
+                "climate": "Climat méditerranéen/désertique",
+                "lifestyle": "Innovant et dynamique",
+                "cost": "Coût de vie élevé",
+                "language": "Hébreu/Anglais",
+                "visa": "Visa Start-up",
+                "특별혜택": "Nation Start-up"
+            },
+            "es": {
+                "climate": "Clima mediterráneo/desértico",
+                "lifestyle": "Innovador y dinámico",
+                "cost": "Alto costo de vida",
+                "language": "Hebreo/Inglés",
+                "visa": "Visa Start-up",
+                "특별혜택": "Nación Start-up"
+            },
+            "ja": {
+                "climate": "地中海性/砂漠気候",
+                "lifestyle": "革新的でダイナミック",
+                "cost": "高い生活費",
+                "language": "ヘブライ語/英語",
+                "visa": "スタートアップビザ",
+                "특별혜택": "スタートアップネーション"
+            },
+            "th": {
+                "climate": "สภาพอากาศเมดิเตอร์เรเนียน/ทะเลทราย",
+                "lifestyle": "นวัตกรรมและมีพลวัต",
+                "cost": "ค่าครองชีพสูง",
+                "language": "ฮีบรู/อังกฤษ",
+                "visa": "วีซ่าสตาร์ทอัพ",
+                "특별혜택": "ประเทศสตาร์ทอัพ"
+            }
+        }
+    },
+    "costa_rica": {
+        "name": {
+            "ko": "코스타리카",
+            "en": "Costa Rica",
+            "de": "Costa Rica",
+            "fr": "Costa Rica",
+            "es": "Costa Rica",
+            "ja": "コスタリカ",
+            "th": "คอสตาริกา"
+        },
+        "flag": "🇨🇷",
+        "traits": ["nature", "peaceful", "tropical", "eco_leader", "wellness"],
+        "relatedTraits": ["beach_retirement", "sustainable_growth"],
+        "details": {
+            "ko": {
+                "climate": "열대 기후",
+                "lifestyle": "푸라 비다(순수한 삶)",
+                "cost": "중간 수준 생활비",
+                "language": "스페인어",
+                "visa": "Rentista 비자",
+                "특별혜택": "군대 없는 평화국가"
+            },
+            "en": {
+                "climate": "Tropical climate",
+                "lifestyle": "Pura Vida (pure life)",
+                "cost": "Moderate cost of living",
+                "language": "Spanish",
+                "visa": "Rentista visa",
+                "특별혜택": "Peaceful country without military"
+            },
+            "de": {
+                "climate": "Tropisches Klima",
+                "lifestyle": "Pura Vida (reines Leben)",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Rentista-Visum",
+                "특별혜택": "Friedliches Land ohne Militär"
+            },
+            "fr": {
+                "climate": "Climat tropical",
+                "lifestyle": "Pura Vida (vie pure)",
+                "cost": "Coût de vie modéré",
+                "language": "Espagnol",
+                "visa": "Visa Rentista",
+                "특별혜택": "Pays pacifique sans armée"
+            },
+            "es": {
+                "climate": "Clima tropical",
+                "lifestyle": "Pura Vida",
+                "cost": "Costo de vida moderado",
+                "language": "Español",
+                "visa": "Visa Rentista",
+                "특별혜택": "País pacífico sin ejército"
+            },
+            "ja": {
+                "climate": "熱帯気候",
+                "lifestyle": "プラビダ（純粋な生活）",
+                "cost": "中程度の生活費",
+                "language": "スペイン語",
+                "visa": "レンティスタビザ",
+                "특별혜택": "軍隊のない平和な国"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อน",
+                "lifestyle": "ปูรา วิดา (ชีวิตที่บริสุทธิ์)",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "สเปน",
+                "visa": "วีซ่า Rentista",
+                "특별혜택": "ประเทศสันติภาพไม่มีกองทัพ"
+            }
+        }
+    },
+    "belgium": {
+        "name": {
+            "ko": "벨기에",
+            "en": "Belgium",
+            "de": "Belgien",
+            "fr": "Belgique",
+            "es": "Bélgica",
+            "ja": "ベルギー",
+            "th": "เบลเยียม"
+        },
+        "flag": "🇧🇪",
+        "traits": ["culture", "beer", "chocolate", "eu_member", "multilingual"],
+        "relatedTraits": ["work_life_balance", "healthcare"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "유럽의 중심, 문화적 다양성",
+                "cost": "중상위 생활비",
+                "language": "네덜란드어/프랑스어/독일어",
+                "visa": "EU 블루카드",
+                "특별혜택": "EU 본부 소재지"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Heart of Europe, cultural diversity",
+                "cost": "Upper-middle cost of living",
+                "language": "Dutch/French/German",
+                "visa": "EU Blue Card",
+                "특별혜택": "EU headquarters location"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Herz Europas, kulturelle Vielfalt",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Niederländisch/Französisch/Deutsch",
+                "visa": "EU Blue Card",
+                "특별혜택": "EU-Hauptquartier"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Cœur de l'Europe, diversité culturelle",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Néerlandais/Français/Allemand",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Siège de l'UE"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Corazón de Europa, diversidad cultural",
+                "cost": "Costo de vida medio-alto",
+                "language": "Neerlandés/Francés/Alemán",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Sede de la UE"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "ヨーロッパの中心、文化的多様性",
+                "cost": "中上位の生活費",
+                "language": "オランダ語/フランス語/ドイツ語",
+                "visa": "EUブルーカード",
+                "특별혜택": "EU本部所在地"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "หัวใจของยุโรป, ความหลากหลายทางวัฒนธรรม",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "ดัตช์/ฝรั่งเศส/เยอรมัน",
+                "visa": "EU Blue Card",
+                "특별혜택": "ที่ตั้งสำนักงานใหญ่ EU"
+            }
+        }
+    },
+    "georgia": {
+        "name": {
+            "ko": "조지아",
+            "en": "Georgia",
+            "de": "Georgien",
+            "fr": "Géorgie",
+            "es": "Georgia",
+            "ja": "ジョージア",
+            "th": "จอร์เจีย"
+        },
+        "flag": "🇬🇪",
+        "traits": ["affordable", "wine", "mountain", "nomad_visa", "history"],
+        "relatedTraits": ["easy_visa", "digital_nomad"],
+        "details": {
+            "ko": {
+                "climate": "다양한 기후대",
+                "lifestyle": "와인과 환대의 나라",
+                "cost": "매우 저렴한 생활비",
+                "language": "조지아어/러시아어",
+                "visa": "1년 무비자 체류",
+                "특별혜택": "원격근무자 천국"
+            },
+            "en": {
+                "climate": "Diverse climate zones",
+                "lifestyle": "Country of wine and hospitality",
+                "cost": "Very affordable cost of living",
+                "language": "Georgian/Russian",
+                "visa": "1-year visa-free stay",
+                "특별혜택": "Remote worker paradise"
+            },
+            "de": {
+                "climate": "Vielfältige Klimazonen",
+                "lifestyle": "Land des Weins und der Gastfreundschaft",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Georgisch/Russisch",
+                "visa": "1 Jahr visumfreier Aufenthalt",
+                "특별혜택": "Paradies für Remote-Arbeiter"
+            },
+            "fr": {
+                "climate": "Zones climatiques diverses",
+                "lifestyle": "Pays du vin et de l'hospitalité",
+                "cost": "Coût de vie très abordable",
+                "language": "Géorgien/Russe",
+                "visa": "Séjour sans visa d'un an",
+                "특별혜택": "Paradis des travailleurs à distance"
+            },
+            "es": {
+                "climate": "Zonas climáticas diversas",
+                "lifestyle": "País del vino y la hospitalidad",
+                "cost": "Costo de vida muy asequible",
+                "language": "Georgiano/Ruso",
+                "visa": "Estadía sin visa de 1 año",
+                "특별혜택": "Paraíso para trabajadores remotos"
+            },
+            "ja": {
+                "climate": "多様な気候帯",
+                "lifestyle": "ワインともてなしの国",
+                "cost": "非常に手頃な生活費",
+                "language": "ジョージア語/ロシア語",
+                "visa": "1年間のビザなし滞在",
+                "특별혜택": "リモートワーカーの楽園"
+            },
+            "th": {
+                "climate": "เขตภูมิอากาศหลากหลาย",
+                "lifestyle": "ประเทศแห่งไวน์และการต้อนรับ",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "จอร์เจีย/รัสเซีย",
+                "visa": "พำนักได้ 1 ปีโดยไม่ต้องขอวีซ่า",
+                "특별혜택": "สวรรค์ของผู้ทำงานระยะไกล"
+            }
+        }
+    },
+    "hungary": {
+        "name": {
+            "ko": "헝가리",
+            "en": "Hungary",
+            "de": "Ungarn",
+            "fr": "Hongrie",
+            "es": "Hungría",
+            "ja": "ハンガリー",
+            "th": "ฮังการี"
+        },
+        "flag": "🇭🇺",
+        "traits": ["affordable", "culture", "thermal_spa", "education", "history"],
+        "relatedTraits": ["eu_member", "central_location"],
+        "details": {
+            "ko": {
+                "climate": "대륙성 기후",
+                "lifestyle": "온천과 문화의 도시",
+                "cost": "저렴한 생활비",
+                "language": "헝가리어",
+                "visa": "EU 블루카드",
+                "특별혜택": "유럽 중심부 위치"
+            },
+            "en": {
+                "climate": "Continental climate",
+                "lifestyle": "City of thermal baths and culture",
+                "cost": "Affordable cost of living",
+                "language": "Hungarian",
+                "visa": "EU Blue Card",
+                "특별혜택": "Central European location"
+            },
+            "de": {
+                "climate": "Kontinentales Klima",
+                "lifestyle": "Stadt der Thermalbäder und Kultur",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Ungarisch",
+                "visa": "EU Blue Card",
+                "특별혜택": "Zentrale Lage in Europa"
+            },
+            "fr": {
+                "climate": "Climat continental",
+                "lifestyle": "Ville des bains thermaux et de la culture",
+                "cost": "Coût de vie abordable",
+                "language": "Hongrois",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Position centrale en Europe"
+            },
+            "es": {
+                "climate": "Clima continental",
+                "lifestyle": "Ciudad de baños termales y cultura",
+                "cost": "Costo de vida asequible",
+                "language": "Húngaro",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Ubicación central en Europa"
+            },
+            "ja": {
+                "climate": "大陸性気候",
+                "lifestyle": "温泉と文化の都市",
+                "cost": "手頃な生活費",
+                "language": "ハンガリー語",
+                "visa": "EUブルーカード",
+                "특별혜택": "ヨーロッパ中心部の立地"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีป",
+                "lifestyle": "เมืองแห่งน้ำพุร้อนและวัฒนธรรม",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "ฮังการี",
+                "visa": "EU Blue Card",
+                "특별혜택": "ตำแหน่งศูนย์กลางยุโรป"
+            }
+        }
+    },
+    "mauritius": {
+        "name": {
+            "ko": "모리셔스",
+            "en": "Mauritius",
+            "de": "Mauritius",
+            "fr": "Maurice",
+            "es": "Mauricio",
+            "ja": "モーリシャス",
+            "th": "มอริเชียส"
+        },
+        "flag": "🇲🇺",
+        "traits": ["beach", "tropical", "tax_friendly", "safe", "multilingual"],
+        "relatedTraits": ["luxury_tourism", "financial_services"],
+        "details": {
+            "ko": {
+                "climate": "열대 해양성 기후",
+                "lifestyle": "인도양의 파라다이스",
+                "cost": "중간 수준 생활비",
+                "language": "영어/프랑스어",
+                "visa": "Premium Visa",
+                "특별혜택": "아프리카 금융 허브"
+            },
+            "en": {
+                "climate": "Tropical maritime climate",
+                "lifestyle": "Indian Ocean paradise",
+                "cost": "Moderate cost of living",
+                "language": "English/French",
+                "visa": "Premium Visa",
+                "특별혜택": "African financial hub"
+            },
+            "de": {
+                "climate": "Tropisches Seeklima",
+                "lifestyle": "Paradies im Indischen Ozean",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Englisch/Französisch",
+                "visa": "Premium Visa",
+                "특별혜택": "Afrikanisches Finanzzentrum"
+            },
+            "fr": {
+                "climate": "Climat tropical maritime",
+                "lifestyle": "Paradis de l'océan Indien",
+                "cost": "Coût de vie modéré",
+                "language": "Anglais/Français",
+                "visa": "Visa Premium",
+                "특별혜택": "Hub financier africain"
+            },
+            "es": {
+                "climate": "Clima marítimo tropical",
+                "lifestyle": "Paraíso del Océano Índico",
+                "cost": "Costo de vida moderado",
+                "language": "Inglés/Francés",
+                "visa": "Visa Premium",
+                "특별혜택": "Centro financiero africano"
+            },
+            "ja": {
+                "climate": "熱帯海洋性気候",
+                "lifestyle": "インド洋の楽園",
+                "cost": "中程度の生活費",
+                "language": "英語/フランス語",
+                "visa": "プレミアムビザ",
+                "특별혜택": "アフリカの金融ハブ"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อนแบบทะเล",
+                "lifestyle": "สวรรค์แห่งมหาสมุทรอินเดีย",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "อังกฤษ/ฝรั่งเศส",
+                "visa": "Premium Visa",
+                "특별혜택": "ศูนย์กลางการเงินแอฟริกา"
+            }
+        }
+    },
+    "argentina": {
+        "name": {
+            "ko": "아르헨티나",
+            "en": "Argentina",
+            "de": "Argentinien",
+            "fr": "Argentine",
+            "es": "Argentina",
+            "ja": "アルゼンチン",
+            "th": "อาร์เจนตินา"
+        },
+        "flag": "🇦🇷",
+        "traits": ["culture", "wine", "affordable", "diverse_climate", "beef"],
+        "relatedTraits": ["tango", "football", "nature"],
+        "details": {
+            "ko": {
+                "climate": "다양한 기후대",
+                "lifestyle": "열정적이고 문화적",
+                "cost": "저렴한 생활비",
+                "language": "스페인어",
+                "visa": "Rentista 비자",
+                "특별혜택": "남미 문화 중심지"
+            },
+            "en": {
+                "climate": "Diverse climate zones",
+                "lifestyle": "Passionate and cultural",
+                "cost": "Affordable cost of living",
+                "language": "Spanish",
+                "visa": "Rentista visa",
+                "특별혜택": "South American cultural center"
+            },
+            "de": {
+                "climate": "Vielfältige Klimazonen",
+                "lifestyle": "Leidenschaftlich und kulturell",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Rentista-Visum",
+                "특별혜택": "Südamerikanisches Kulturzentrum"
+            },
+            "fr": {
+                "climate": "Zones climatiques diverses",
+                "lifestyle": "Passionné et culturel",
+                "cost": "Coût de vie abordable",
+                "language": "Espagnol",
+                "visa": "Visa Rentista",
+                "특별혜택": "Centre culturel sud-américain"
+            },
+            "es": {
+                "climate": "Zonas climáticas diversas",
+                "lifestyle": "Apasionado y cultural",
+                "cost": "Costo de vida asequible",
+                "language": "Español",
+                "visa": "Visa Rentista",
+                "특별혜택": "Centro cultural sudamericano"
+            },
+            "ja": {
+                "climate": "多様な気候帯",
+                "lifestyle": "情熱的で文化的",
+                "cost": "手頃な生活費",
+                "language": "スペイン語",
+                "visa": "レンティスタビザ",
+                "특별혜택": "南米文化の中心地"
+            },
+            "th": {
+                "climate": "เขตภูมิอากาศหลากหลาย",
+                "lifestyle": "หลงใหลและมีวัฒนธรรม",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "สเปน",
+                "visa": "วีซ่า Rentista",
+                "특별혜택": "ศูนย์กลางวัฒนธรรมอเมริกาใต้"
+            }
+        }
+    },
+    "philippines": {
+        "name": {
+            "ko": "필리핀",
+            "en": "Philippines",
+            "de": "Philippinen",
+            "fr": "Philippines",
+            "es": "Filipinas",
+            "ja": "フィリピン",
+            "th": "ฟิลิปปินส์"
+        },
+        "flag": "🇵🇭",
+        "traits": ["tropical", "beach", "english_friendly", "affordable", "friendly"],
+        "relatedTraits": ["island_life", "warm_retirement"],
+        "details": {
+            "ko": {
+                "climate": "열대 기후",
+                "lifestyle": "7,000개 섬의 나라",
+                "cost": "매우 저렴한 생활비",
+                "language": "영어/타갈로그어",
+                "visa": "SRRV 은퇴비자",
+                "특별혜택": "영어 공용어"
+            },
+            "en": {
+                "climate": "Tropical climate",
+                "lifestyle": "Country of 7,000 islands",
+                "cost": "Very affordable cost of living",
+                "language": "English/Tagalog",
+                "visa": "SRRV retirement visa",
+                "특별혜택": "English as official language"
+            },
+            "de": {
+                "climate": "Tropisches Klima",
+                "lifestyle": "Land der 7.000 Inseln",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Englisch/Tagalog",
+                "visa": "SRRV-Ruhestandsvisum",
+                "특별혜택": "Englisch als Amtssprache"
+            },
+            "fr": {
+                "climate": "Climat tropical",
+                "lifestyle": "Pays aux 7 000 îles",
+                "cost": "Coût de vie très abordable",
+                "language": "Anglais/Tagalog",
+                "visa": "Visa de retraite SRRV",
+                "특별혜택": "Anglais comme langue officielle"
+            },
+            "es": {
+                "climate": "Clima tropical",
+                "lifestyle": "País de 7,000 islas",
+                "cost": "Costo de vida muy asequible",
+                "language": "Inglés/Tagalo",
+                "visa": "Visa de jubilación SRRV",
+                "특별혜택": "Inglés como idioma oficial"
+            },
+            "ja": {
+                "climate": "熱帯気候",
+                "lifestyle": "7,000の島々の国",
+                "cost": "非常に手頃な生活費",
+                "language": "英語/タガログ語",
+                "visa": "SRRV退職ビザ",
+                "특별혜택": "英語が公用語"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อน",
+                "lifestyle": "ประเทศแห่ง 7,000 เกาะ",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "อังกฤษ/ตากาล็อก",
+                "visa": "วีซ่าเกษียณ SRRV",
+                "특별혜택": "ภาษาอังกฤษเป็นภาษาราชการ"
+            }
+        }
+    },
+    "panama": {
+        "name": {
+            "ko": "파나마",
+            "en": "Panama",
+            "de": "Panama",
+            "fr": "Panama",
+            "es": "Panamá",
+            "ja": "パナマ",
+            "th": "ปานามา"
+        },
+        "flag": "🇵🇦",
+        "traits": ["tropical", "tax_friendly", "pensioner_benefits", "dollar_economy", "hub"],
+        "relatedTraits": ["panama_canal", "banking"],
+        "details": {
+            "ko": {
+                "climate": "열대 기후",
+                "lifestyle": "중남미 연결점",
+                "cost": "중간 수준 생활비",
+                "language": "스페인어",
+                "visa": "Friendly Nations Visa",
+                "특별혜택": "은퇴자 특별 혜택"
+            },
+            "en": {
+                "climate": "Tropical climate",
+                "lifestyle": "Central and South America connection",
+                "cost": "Moderate cost of living",
+                "language": "Spanish",
+                "visa": "Friendly Nations Visa",
+                "특별혜택": "Special retiree benefits"
+            },
+            "de": {
+                "climate": "Tropisches Klima",
+                "lifestyle": "Verbindung zwischen Mittel- und Südamerika",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Friendly Nations Visa",
+                "특별혜택": "Besondere Rentenleistungen"
+            },
+            "fr": {
+                "climate": "Climat tropical",
+                "lifestyle": "Connexion Amérique centrale et du Sud",
+                "cost": "Coût de vie modéré",
+                "language": "Espagnol",
+                "visa": "Visa Friendly Nations",
+                "특별혜택": "Avantages spéciaux pour les retraités"
+            },
+            "es": {
+                "climate": "Clima tropical",
+                "lifestyle": "Conexión Centro y Sudamérica",
+                "cost": "Costo de vida moderado",
+                "language": "Español",
+                "visa": "Visa de Naciones Amigas",
+                "특별혜택": "Beneficios especiales para jubilados"
+            },
+            "ja": {
+                "climate": "熱帯気候",
+                "lifestyle": "中南米の接続点",
+                "cost": "中程度の生活費",
+                "language": "スペイン語",
+                "visa": "フレンドリーネーションズビザ",
+                "특별혜택": "退職者特別優遇"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อน",
+                "lifestyle": "จุดเชื่อมต่ออเมริกากลางและใต้",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "สเปน",
+                "visa": "Friendly Nations Visa",
+                "특별혜택": "สิทธิประโยชน์พิเศษสำหรับผู้เกษียณ"
+            }
+        }
+    },
+    "serbia": {
+        "name": {
+            "ko": "세르비아",
+            "en": "Serbia",
+            "de": "Serbien",
+            "fr": "Serbie",
+            "es": "Serbia",
+            "ja": "セルビア",
+            "th": "เซอร์เบีย"
+        },
+        "flag": "🇷🇸",
+        "traits": ["affordable", "culture", "nightlife", "tech_growing", "history"],
+        "relatedTraits": ["digital_nomad", "startup_emerging"],
+        "details": {
+            "ko": {
+                "climate": "대륙성 기후",
+                "lifestyle": "발칸의 숨은 보석",
+                "cost": "매우 저렴한 생활비",
+                "language": "세르비아어",
+                "visa": "디지털 노마드 비자",
+                "특별혜택": "IT 산업 급성장"
+            },
+            "en": {
+                "climate": "Continental climate",
+                "lifestyle": "Hidden gem of the Balkans",
+                "cost": "Very affordable cost of living",
+                "language": "Serbian",
+                "visa": "Digital Nomad visa",
+                "특별혜택": "Rapid IT industry growth"
+            },
+            "de": {
+                "climate": "Kontinentales Klima",
+                "lifestyle": "Verstecktes Juwel des Balkans",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Serbisch",
+                "visa": "Digitales Nomadenvisum",
+                "특별혜택": "Schnelles IT-Branchenwachstum"
+            },
+            "fr": {
+                "climate": "Climat continental",
+                "lifestyle": "Joyau caché des Balkans",
+                "cost": "Coût de vie très abordable",
+                "language": "Serbe",
+                "visa": "Visa nomade numérique",
+                "특별혜택": "Croissance rapide de l'industrie IT"
+            },
+            "es": {
+                "climate": "Clima continental",
+                "lifestyle": "Joya oculta de los Balcanes",
+                "cost": "Costo de vida muy asequible",
+                "language": "Serbio",
+                "visa": "Visa de nómada digital",
+                "특별혜택": "Rápido crecimiento de la industria TI"
+            },
+            "ja": {
+                "climate": "大陸性気候",
+                "lifestyle": "バルカンの隠れた宝石",
+                "cost": "非常に手頃な生活費",
+                "language": "セルビア語",
+                "visa": "デジタルノマドビザ",
+                "특별혜택": "IT産業の急成長"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีป",
+                "lifestyle": "อัญมณีที่ซ่อนอยู่ของบอลข่าน",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "เซอร์เบีย",
+                "visa": "วีซ่าดิจิทัลโนแมด",
+                "특별혜택": "อุตสาหกรรม IT เติบโตอย่างรวดเร็ว"
+            }
+        }
+    },
+    "barbados": {
+        "name": {
+            "ko": "바베이도스",
+            "en": "Barbados",
+            "de": "Barbados",
+            "fr": "Barbade",
+            "es": "Barbados",
+            "ja": "バルバドス",
+            "th": "บาร์เบโดส"
+        },
+        "flag": "🇧🇧",
+        "traits": ["beach", "tropical", "english_only", "safe", "nomad_visa"],
+        "relatedTraits": ["caribbean_life", "water_sports"],
+        "details": {
+            "ko": {
+                "climate": "열대 해양성",
+                "lifestyle": "카리브해의 영국",
+                "cost": "중상위 생활비",
+                "language": "영어",
+                "visa": "Welcome Stamp",
+                "특별혜택": "12개월 원격근무 비자"
+            },
+            "en": {
+                "climate": "Tropical maritime",
+                "lifestyle": "Britain of the Caribbean",
+                "cost": "Upper-middle cost of living",
+                "language": "English",
+                "visa": "Welcome Stamp",
+                "특별혜택": "12-month remote work visa"
+            },
+            "de": {
+                "climate": "Tropisch maritim",
+                "lifestyle": "Großbritannien der Karibik",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Englisch",
+                "visa": "Welcome Stamp",
+                "특별혜택": "12-monatiges Remote-Arbeitsvisum"
+            },
+            "fr": {
+                "climate": "Maritime tropical",
+                "lifestyle": "Grande-Bretagne des Caraïbes",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Anglais",
+                "visa": "Welcome Stamp",
+                "특별혜택": "Visa de travail à distance de 12 mois"
+            },
+            "es": {
+                "climate": "Marítimo tropical",
+                "lifestyle": "Gran Bretaña del Caribe",
+                "cost": "Costo de vida medio-alto",
+                "language": "Inglés",
+                "visa": "Welcome Stamp",
+                "특별혜택": "Visa de trabajo remoto de 12 meses"
+            },
+            "ja": {
+                "climate": "熱帯海洋性",
+                "lifestyle": "カリブ海のイギリス",
+                "cost": "中上位の生活費",
+                "language": "英語",
+                "visa": "ウェルカムスタンプ",
+                "특별혜택": "12ヶ月のリモートワークビザ"
+            },
+            "th": {
+                "climate": "เขตร้อนแบบทะเล",
+                "lifestyle": "อังกฤษแห่งแคริบเบียน",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "อังกฤษ",
+                "visa": "Welcome Stamp",
+                "특별혜택": "วีซ่าทำงานระยะไกล 12 เดือน"
+            }
+        }
+    },
+    "croatia": {
+        "name": {
+            "ko": "크로아티아",
+            "en": "Croatia",
+            "de": "Kroatien",
+            "fr": "Croatie",
+            "es": "Croacia",
+            "ja": "クロアチア",
+            "th": "โครเอเชีย"
+        },
+        "flag": "🇭🇷",
+        "traits": ["beach", "history", "affordable", "eu_member", "mediterranean"],
+        "relatedTraits": ["game_of_thrones", "sailing"],
+        "details": {
+            "ko": {
+                "climate": "지중해성/대륙성",
+                "lifestyle": "아드리아해의 진주",
+                "cost": "중간 수준 생활비",
+                "language": "크로아티아어",
+                "visa": "EU 시민권/디지털 노마드",
+                "특별혜택": "유럽의 숨은 보석"
+            },
+            "en": {
+                "climate": "Mediterranean/Continental",
+                "lifestyle": "Pearl of the Adriatic",
+                "cost": "Moderate cost of living",
+                "language": "Croatian",
+                "visa": "EU citizenship/Digital Nomad",
+                "특별혜택": "Hidden gem of Europe"
+            },
+            "de": {
+                "climate": "Mediterran/Kontinental",
+                "lifestyle": "Perle der Adria",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Kroatisch",
+                "visa": "EU-Staatsbürgerschaft/Digitaler Nomade",
+                "특별혜택": "Verstecktes Juwel Europas"
+            },
+            "fr": {
+                "climate": "Méditerranéen/Continental",
+                "lifestyle": "Perle de l'Adriatique",
+                "cost": "Coût de vie modéré",
+                "language": "Croate",
+                "visa": "Citoyenneté UE/Nomade numérique",
+                "특별혜택": "Joyau caché de l'Europe"
+            },
+            "es": {
+                "climate": "Mediterráneo/Continental",
+                "lifestyle": "Perla del Adriático",
+                "cost": "Costo de vida moderado",
+                "language": "Croata",
+                "visa": "Ciudadanía UE/Nómada digital",
+                "특별혜택": "Joya oculta de Europa"
+            },
+            "ja": {
+                "climate": "地中海性/大陸性",
+                "lifestyle": "アドリア海の真珠",
+                "cost": "中程度の生活費",
+                "language": "クロアチア語",
+                "visa": "EU市民権/デジタルノマド",
+                "특별혜택": "ヨーロッパの隠れた宝石"
+            },
+            "th": {
+                "climate": "เมดิเตอร์เรเนียน/ทวีป",
+                "lifestyle": "ไข่มุกแห่งทะเลอาเดรียติก",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "โครเอเชีย",
+                "visa": "สัญชาติ EU/ดิจิทัลโนแมด",
+                "특별혜택": "อัญมณีที่ซ่อนอยู่ของยุโรป"
+            }
+        }
+    },
+    "romania": {
+        "name": {
+            "ko": "루마니아",
+            "en": "Romania",
+            "de": "Rumänien",
+            "fr": "Roumanie",
+            "es": "Rumania",
+            "ja": "ルーマニア",
+            "th": "โรมาเนีย"
+        },
+        "flag": "🇷🇴",
+        "traits": ["affordable", "tech", "history", "nature", "eu_member"],
+        "relatedTraits": ["dracula", "fast_internet"],
+        "details": {
+            "ko": {
+                "climate": "온대 대륙성",
+                "lifestyle": "동유럽의 IT 강국",
+                "cost": "매우 저렴한 생활비",
+                "language": "루마니아어",
+                "visa": "EU 블루카드",
+                "특별혜택": "유럽 최고속 인터넷"
+            },
+            "en": {
+                "climate": "Temperate continental",
+                "lifestyle": "IT powerhouse of Eastern Europe",
+                "cost": "Very affordable cost of living",
+                "language": "Romanian",
+                "visa": "EU Blue Card",
+                "특별혜택": "Europe's fastest internet"
+            },
+            "de": {
+                "climate": "Gemäßigt kontinental",
+                "lifestyle": "IT-Kraftwerk Osteuropas",
+                "cost": "Sehr günstige Lebenshaltungskosten",
+                "language": "Rumänisch",
+                "visa": "EU Blue Card",
+                "특별혜택": "Europas schnellstes Internet"
+            },
+            "fr": {
+                "climate": "Continental tempéré",
+                "lifestyle": "Puissance IT de l'Europe de l'Est",
+                "cost": "Coût de vie très abordable",
+                "language": "Roumain",
+                "visa": "Carte bleue européenne",
+                "특별혜택": "Internet le plus rapide d'Europe"
+            },
+            "es": {
+                "climate": "Continental templado",
+                "lifestyle": "Potencia TI de Europa del Este",
+                "cost": "Costo de vida muy asequible",
+                "language": "Rumano",
+                "visa": "Tarjeta Azul de la UE",
+                "특별혜택": "Internet más rápido de Europa"
+            },
+            "ja": {
+                "climate": "温帯大陸性",
+                "lifestyle": "東欧のIT大国",
+                "cost": "非常に手頃な生活費",
+                "language": "ルーマニア語",
+                "visa": "EUブルーカード",
+                "특별혜택": "ヨーロッパ最速のインターネット"
+            },
+            "th": {
+                "climate": "ทวีปอบอุ่น",
+                "lifestyle": "มหาอำนาจ IT ของยุโรปตะวันออก",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "โรมาเนีย",
+                "visa": "EU Blue Card",
+                "특별혜택": "อินเทอร์เน็ตที่เร็วที่สุดในยุโรป"
+            }
+        }
+    },
+    "kenya": {
+        "name": {
+            "ko": "케냐",
+            "en": "Kenya",
+            "de": "Kenia",
+            "fr": "Kenya",
+            "es": "Kenia",
+            "ja": "ケニア",
+            "th": "เคนยา"
+        },
+        "flag": "🇰🇪",
+        "traits": ["nature", "safari", "tech_growing", "english_friendly", "climate_varied"],
+        "relatedTraits": ["wildlife", "marathon"],
+        "details": {
+            "ko": {
+                "climate": "열대/온대 다양",
+                "lifestyle": "아프리카의 실리콘 사바나",
+                "cost": "저렴한 생활비",
+                "language": "영어/스와힐리어",
+                "visa": "Digital Nomad Visa",
+                "특별혜택": "사파리와 IT의 만남"
+            },
+            "en": {
+                "climate": "Tropical/Temperate varied",
+                "lifestyle": "Silicon Savannah of Africa",
+                "cost": "Affordable cost of living",
+                "language": "English/Swahili",
+                "visa": "Digital Nomad Visa",
+                "특별혜택": "Safari meets IT"
+            },
+            "de": {
+                "climate": "Tropisch/Gemäßigt vielfältig",
+                "lifestyle": "Silicon Savannah Afrikas",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Englisch/Swahili",
+                "visa": "Digital Nomad Visa",
+                "특별혜택": "Safari trifft IT"
+            },
+            "fr": {
+                "climate": "Tropical/Tempéré varié",
+                "lifestyle": "Silicon Savannah d'Afrique",
+                "cost": "Coût de vie abordable",
+                "language": "Anglais/Swahili",
+                "visa": "Visa nomade numérique",
+                "특별혜택": "Safari rencontre IT"
+            },
+            "es": {
+                "climate": "Tropical/Templado variado",
+                "lifestyle": "Silicon Savannah de África",
+                "cost": "Costo de vida asequible",
+                "language": "Inglés/Suajili",
+                "visa": "Visa de nómada digital",
+                "특별혜택": "Safari se encuentra con TI"
+            },
+            "ja": {
+                "climate": "熱帯/温帯の多様",
+                "lifestyle": "アフリカのシリコンサバンナ",
+                "cost": "手頃な生活費",
+                "language": "英語/スワヒリ語",
+                "visa": "デジタルノマドビザ",
+                "특별혜택": "サファリとITの出会い"
+            },
+            "th": {
+                "climate": "เขตร้อน/อบอุ่นหลากหลาย",
+                "lifestyle": "ซิลิคอนซาวันนาแห่งแอฟริกา",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "อังกฤษ/สวาฮิลี",
+                "visa": "วีซ่าดิจิทัลโนแมด",
+                "특별혜택": "ซาฟารีพบกับ IT"
+            },
+            "en": {
+                "climate": "Temperate climate with four distinct seasons",
+                "lifestyle": "Work-life balance focused culture",
+                "cost": "Upper-middle cost of living",
+                "language": "English/French",
+                "visa": "Express Entry system"
+            },
+            "de": {
+                "climate": "Gemäßigtes Klima mit vier ausgeprägten Jahreszeiten",
+                "lifestyle": "Work-Life-Balance-orientierte Kultur",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Englisch/Französisch",
+                "visa": "Express Entry System"
+            },
+            "fr": {
+                "climate": "Climat tempéré avec quatre saisons distinctes",
+                "lifestyle": "Culture axée sur l'équilibre travail-vie personnelle",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Anglais/Français",
+                "visa": "Système Entrée express"
+            },
+            "es": {
+                "climate": "Clima templado con cuatro estaciones distintas",
+                "lifestyle": "Cultura enfocada en el equilibrio trabajo-vida",
+                "cost": "Costo de vida medio-alto",
+                "language": "Inglés/Francés",
+                "visa": "Sistema de Entrada Exprés"
+            },
+            "ja": {
+                "climate": "四季がはっきりした温帯気候",
+                "lifestyle": "ワークライフバランス重視の文化",
+                "cost": "中上位の生活費",
+                "language": "英語/フランス語",
+                "visa": "エクスプレスエントリーシステム"
+            },
+            "th": {
+                "climate": "สภาพอากาศอบอุ่นมีสี่ฤดูที่ชัดเจน",
+                "lifestyle": "วัฒนธรรมที่ให้ความสำคัญกับความสมดุลระหว่างงานและชีวิต",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "อังกฤษ/ฝรั่งเศส",
+                "visa": "ระบบ Express Entry"
+            }
+        }
+    },
+    "netherlands": {
+        "name": {
+            "ko": "네덜란드",
+            "en": "Netherlands",
+            "de": "Niederlande",
+            "fr": "Pays-Bas",
+            "es": "Países Bajos",
+            "ja": "オランダ",
+            "th": "เนเธอร์แลนด์"
+        },
+        "flag": "🇳🇱",
+        "traits": ["balance", "bike_friendly", "tech", "mild", "diversity"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "자전거 문화, 워라밸",
+                "cost": "높은 생활비",
+                "language": "네덜란드어/영어",
+                "visa": "고급인력 비자 제도"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Cycling culture, work-life balance",
+                "cost": "High cost of living",
+                "language": "Dutch/English",
+                "visa": "Highly skilled migrant visa"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Fahrradkultur, Work-Life-Balance",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Niederländisch/Englisch",
+                "visa": "Hochqualifizierte-Migrantenvisum"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Culture du vélo, équilibre travail-vie",
+                "cost": "Coût de vie élevé",
+                "language": "Néerlandais/Anglais",
+                "visa": "Visa pour migrants hautement qualifiés"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Cultura ciclista, equilibrio trabajo-vida",
+                "cost": "Alto costo de vida",
+                "language": "Neerlandés/Inglés",
+                "visa": "Visa para trabajadores altamente calificados"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "自転車文化、ワークライフバランス",
+                "cost": "高い生活費",
+                "language": "オランダ語/英語",
+                "visa": "高度技能移民ビザ制度"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "วัฒนธรรมการปั่นจักรยาน, ความสมดุลระหว่างงานและชีวิต",
+                "cost": "ค่าครองชีพสูง",
+                "language": "ดัตช์/อังกฤษ",
+                "visa": "วีซ่าสำหรับแรงงานทักษะสูง"
+            }
+        }
+    },
+    "australia": {
+        "name": {
+            "ko": "호주",
+            "en": "Australia",
+            "de": "Australien",
+            "fr": "Australie",
+            "es": "Australia",
+            "ja": "オーストラリア",
+            "th": "ออสเตรเลีย"
+        },
+        "flag": "🇦🇺",
+        "traits": ["warm", "beach", "leisure", "economy", "diversity"],
+        "details": {
+            "ko": {
+                "climate": "따뜻하고 건조한 기후",
+                "lifestyle": "아웃도어 라이프스타일",
+                "cost": "높은 생활비",
+                "language": "영어",
+                "visa": "기술이민 제도"
+            },
+            "en": {
+                "climate": "Warm and dry climate",
+                "lifestyle": "Outdoor lifestyle",
+                "cost": "High cost of living",
+                "language": "English",
+                "visa": "Skilled migration program"
+            },
+            "de": {
+                "climate": "Warmes und trockenes Klima",
+                "lifestyle": "Outdoor-Lifestyle",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Englisch",
+                "visa": "Fachkräfte-Einwanderungsprogramm"
+            },
+            "fr": {
+                "climate": "Climat chaud et sec",
+                "lifestyle": "Mode de vie en plein air",
+                "cost": "Coût de vie élevé",
+                "language": "Anglais",
+                "visa": "Programme de migration qualifiée"
+            },
+            "es": {
+                "climate": "Clima cálido y seco",
+                "lifestyle": "Estilo de vida al aire libre",
+                "cost": "Alto costo de vida",
+                "language": "Inglés",
+                "visa": "Programa de migración calificada"
+            },
+            "ja": {
+                "climate": "暖かく乾燥した気候",
+                "lifestyle": "アウトドアライフスタイル",
+                "cost": "高い生活費",
+                "language": "英語",
+                "visa": "技術移民制度"
+            },
+            "th": {
+                "climate": "สภาพอากาศอบอุ่นและแห้ง",
+                "lifestyle": "ไลฟ์สไตล์กลางแจ้ง",
+                "cost": "ค่าครองชีพสูง",
+                "language": "อังกฤษ",
+                "visa": "โครงการการย้ายถิ่นฐานแบบมีทักษะ"
+            }
+        }
+    },
+    "switzerland": {
+        "name": {
+            "ko": "스위스",
+            "en": "Switzerland",
+            "de": "Schweiz",
+            "fr": "Suisse",
+            "es": "Suiza",
+            "ja": "スイス",
+            "th": "สวิตเซอร์แลนด์"
+        },
+        "flag": "🇨🇭",
+        "traits": ["mountain", "safety", "economy", "cool", "education"],
+        "details": {
+            "ko": {
+                "climate": "서늘한 알프스 기후",
+                "lifestyle": "높은 삶의 질",
+                "cost": "매우 높은 생활비",
+                "language": "독일어/프랑스어/이탈리아어",
+                "visa": "취업 비자 필요"
+            },
+            "en": {
+                "climate": "Cool Alpine climate",
+                "lifestyle": "High quality of life",
+                "cost": "Very high cost of living",
+                "language": "German/French/Italian",
+                "visa": "Work permit required"
+            },
+            "de": {
+                "climate": "Kühles Alpenklima",
+                "lifestyle": "Hohe Lebensqualität",
+                "cost": "Sehr hohe Lebenshaltungskosten",
+                "language": "Deutsch/Französisch/Italienisch",
+                "visa": "Arbeitserlaubnis erforderlich"
+            },
+            "fr": {
+                "climate": "Climat alpin frais",
+                "lifestyle": "Haute qualité de vie",
+                "cost": "Coût de vie très élevé",
+                "language": "Allemand/Français/Italien",
+                "visa": "Permis de travail requis"
+            },
+            "es": {
+                "climate": "Clima alpino fresco",
+                "lifestyle": "Alta calidad de vida",
+                "cost": "Costo de vida muy alto",
+                "language": "Alemán/Francés/Italiano",
+                "visa": "Permiso de trabajo requerido"
+            },
+            "ja": {
+                "climate": "涼しいアルプス気候",
+                "lifestyle": "高い生活の質",
+                "cost": "非常に高い生活費",
+                "language": "ドイツ語/フランス語/イタリア語",
+                "visa": "就労ビザ必要"
+            },
+            "th": {
+                "climate": "สภาพอากาศเย็นแบบอัลไพน์",
+                "lifestyle": "คุณภาพชีวิตสูง",
+                "cost": "ค่าครองชีพสูงมาก",
+                "language": "เยอรมัน/ฝรั่งเศส/อิตาลี",
+                "visa": "ต้องมีใบอนุญาตทำงาน"
+            }
+        }
+    },
+    "singapore": {
+        "name": {
+            "ko": "싱가포르",
+            "en": "Singapore",
+            "de": "Singapur",
+            "fr": "Singapour",
+            "es": "Singapur",
+            "ja": "シンガポール",
+            "th": "สิงคโปร์"
+        },
+        "flag": "🇸🇬",
+        "traits": ["tech", "economy", "tropical", "city", "business"],
+        "details": {
+            "ko": {
+                "climate": "열대 기후",
+                "lifestyle": "도시 생활, 다문화",
+                "cost": "매우 높은 생활비",
+                "language": "영어/중국어",
+                "visa": "Employment Pass"
+            },
+            "en": {
+                "climate": "Tropical climate",
+                "lifestyle": "Urban living, multicultural",
+                "cost": "Very high cost of living",
+                "language": "English/Chinese",
+                "visa": "Employment Pass"
+            },
+            "de": {
+                "climate": "Tropisches Klima",
+                "lifestyle": "Stadtleben, multikulturell",
+                "cost": "Sehr hohe Lebenshaltungskosten",
+                "language": "Englisch/Chinesisch",
+                "visa": "Employment Pass"
+            },
+            "fr": {
+                "climate": "Climat tropical",
+                "lifestyle": "Vie urbaine, multiculturelle",
+                "cost": "Coût de vie très élevé",
+                "language": "Anglais/Chinois",
+                "visa": "Employment Pass"
+            },
+            "es": {
+                "climate": "Clima tropical",
+                "lifestyle": "Vida urbana, multicultural",
+                "cost": "Costo de vida muy alto",
+                "language": "Inglés/Chino",
+                "visa": "Employment Pass"
+            },
+            "ja": {
+                "climate": "熱帯気候",
+                "lifestyle": "都市生活、多文化",
+                "cost": "非常に高い生活費",
+                "language": "英語/中国語",
+                "visa": "エンプロイメントパス"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อน",
+                "lifestyle": "ชีวิตในเมือง, หลากหลายวัฒนธรรม",
+                "cost": "ค่าครองชีพสูงมาก",
+                "language": "อังกฤษ/จีน",
+                "visa": "Employment Pass"
+            }
+        }
+    },
+    "portugal": {
+        "name": {
+            "ko": "포르투갈",
+            "en": "Portugal",
+            "de": "Portugal",
+            "fr": "Portugal",
+            "es": "Portugal",
+            "ja": "ポルトガル",
+            "th": "โปรตุเกส"
+        },
+        "flag": "🇵🇹",
+        "traits": ["warm", "beach", "culture", "mild", "warm_retirement"],
+        "details": {
+            "ko": {
+                "climate": "지중해성 온화한 기후",
+                "lifestyle": "여유로운 라이프스타일",
+                "cost": "유럽 내 저렴한 생활비",
+                "language": "포르투갈어",
+                "visa": "골든 비자 프로그램"
+            },
+            "en": {
+                "climate": "Mediterranean mild climate",
+                "lifestyle": "Relaxed lifestyle",
+                "cost": "Affordable within Europe",
+                "language": "Portuguese",
+                "visa": "Golden Visa program"
+            },
+            "de": {
+                "climate": "Mediterranes mildes Klima",
+                "lifestyle": "Entspannter Lebensstil",
+                "cost": "Günstig innerhalb Europas",
+                "language": "Portugiesisch",
+                "visa": "Golden Visa Programm"
+            },
+            "fr": {
+                "climate": "Climat méditerranéen doux",
+                "lifestyle": "Mode de vie détendu",
+                "cost": "Abordable en Europe",
+                "language": "Portugais",
+                "visa": "Programme Golden Visa"
+            },
+            "es": {
+                "climate": "Clima mediterráneo suave",
+                "lifestyle": "Estilo de vida relajado",
+                "cost": "Asequible dentro de Europa",
+                "language": "Portugués",
+                "visa": "Programa Golden Visa"
+            },
+            "ja": {
+                "climate": "地中海性の温暖な気候",
+                "lifestyle": "ゆったりとしたライフスタイル",
+                "cost": "ヨーロッパ内で手頃な生活費",
+                "language": "ポルトガル語",
+                "visa": "ゴールデンビザプログラム"
+            },
+            "th": {
+                "climate": "สภาพอากาศเมดิเตอร์เรเนียนอ่อนโยน",
+                "lifestyle": "ไลฟ์สไตล์ที่ผ่อนคลาย",
+                "cost": "ค่าครองชีพต่ำในยุโรป",
+                "language": "โปรตุเกส",
+                "visa": "โครงการ Golden Visa"
+            }
+        }
+    },
+    "newzealand": {
+        "name": {
+            "ko": "뉴질랜드",
+            "en": "New Zealand",
+            "de": "Neuseeland",
+            "fr": "Nouvelle-Zélande",
+            "es": "Nueva Zelanda",
+            "ja": "ニュージーランド",
+            "th": "นิวซีแลนด์"
+        },
+        "flag": "🇳🇿",
+        "traits": ["nature", "mountain", "safety", "balance", "rural"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "자연 속 삶",
+                "cost": "중상위 생활비",
+                "language": "영어",
+                "visa": "기술이민 포인트제"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Life in nature",
+                "cost": "Upper-middle cost of living",
+                "language": "English",
+                "visa": "Skilled migrant points system"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Leben in der Natur",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Englisch",
+                "visa": "Punktesystem für Fachkräfte"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Vie dans la nature",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Anglais",
+                "visa": "Système de points pour migrants qualifiés"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Vida en la naturaleza",
+                "cost": "Costo de vida medio-alto",
+                "language": "Inglés",
+                "visa": "Sistema de puntos para migrantes calificados"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "自然の中での生活",
+                "cost": "中上位の生活費",
+                "language": "英語",
+                "visa": "技術移民ポイント制"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "ชีวิตในธรรมชาติ",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "อังกฤษ",
+                "visa": "ระบบคะแนนสำหรับผู้อพยพที่มีทักษะ"
+            }
+        }
+    },
+    "germany": {
+        "name": {
+            "ko": "독일",
+            "en": "Germany",
+            "de": "Deutschland",
+            "fr": "Allemagne",
+            "es": "Alemania",
+            "ja": "ドイツ",
+            "th": "เยอรมนี"
+        },
+        "flag": "🇩🇪",
+        "traits": ["tech", "education", "seasons", "public_transport", "career"],
+        "details": {
+            "ko": {
+                "climate": "온화한 대륙성 기후",
+                "lifestyle": "체계적이고 효율적",
+                "cost": "중간 수준 생활비",
+                "language": "독일어",
+                "visa": "EU 블루카드"
+            },
+            "en": {
+                "climate": "Mild continental climate",
+                "lifestyle": "Systematic and efficient",
+                "cost": "Moderate cost of living",
+                "language": "German",
+                "visa": "EU Blue Card"
+            },
+            "de": {
+                "climate": "Gemäßigtes kontinentales Klima",
+                "lifestyle": "Systematisch und effizient",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Deutsch",
+                "visa": "EU Blue Card"
+            },
+            "fr": {
+                "climate": "Climat continental tempéré",
+                "lifestyle": "Systématique et efficace",
+                "cost": "Coût de vie modéré",
+                "language": "Allemand",
+                "visa": "Carte bleue européenne"
+            },
+            "es": {
+                "climate": "Clima continental templado",
+                "lifestyle": "Sistemático y eficiente",
+                "cost": "Costo de vida moderado",
+                "language": "Alemán",
+                "visa": "Tarjeta Azul de la UE"
+            },
+            "ja": {
+                "climate": "穏やかな大陸性気候",
+                "lifestyle": "体系的で効率的",
+                "cost": "中程度の生活費",
+                "language": "ドイツ語",
+                "visa": "EUブルーカード"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีปอ่อนโยน",
+                "lifestyle": "เป็นระบบและมีประสิทธิภาพ",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "เยอรมัน",
+                "visa": "EU Blue Card"
+            }
+        }
+    },
+    "japan": {
+        "name": {
+            "ko": "일본",
+            "en": "Japan",
+            "de": "Japan",
+            "fr": "Japon",
+            "es": "Japón",
+            "ja": "日本",
+            "th": "ญี่ปุ่น"
+        },
+        "flag": "🇯🇵",
+        "traits": ["safety", "culture", "seasons", "public_transport", "traditional_cuisine"],
+        "details": {
+            "ko": {
+                "climate": "뚜렷한 사계절",
+                "lifestyle": "안전하고 질서정연",
+                "cost": "높은 생활비",
+                "language": "일본어",
+                "visa": "고도인재 비자"
+            },
+            "en": {
+                "climate": "Four distinct seasons",
+                "lifestyle": "Safe and orderly",
+                "cost": "High cost of living",
+                "language": "Japanese",
+                "visa": "Highly skilled professional visa"
+            },
+            "de": {
+                "climate": "Vier ausgeprägte Jahreszeiten",
+                "lifestyle": "Sicher und ordentlich",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Japanisch",
+                "visa": "Visum für hochqualifizierte Fachkräfte"
+            },
+            "fr": {
+                "climate": "Quatre saisons distinctes",
+                "lifestyle": "Sûr et ordonné",
+                "cost": "Coût de vie élevé",
+                "language": "Japonais",
+                "visa": "Visa pour professionnels hautement qualifiés"
+            },
+            "es": {
+                "climate": "Cuatro estaciones distintas",
+                "lifestyle": "Seguro y ordenado",
+                "cost": "Alto costo de vida",
+                "language": "Japonés",
+                "visa": "Visa para profesionales altamente calificados"
+            },
+            "ja": {
+                "climate": "はっきりとした四季",
+                "lifestyle": "安全で秩序正しい",
+                "cost": "高い生活費",
+                "language": "日本語",
+                "visa": "高度人材ビザ"
+            },
+            "th": {
+                "climate": "สี่ฤดูที่ชัดเจน",
+                "lifestyle": "ปลอดภัยและเป็นระเบียบ",
+                "cost": "ค่าครองชีพสูง",
+                "language": "ญี่ปุ่น",
+                "visa": "วีซ่าสำหรับผู้เชี่ยวชาญระดับสูง"
+            }
+        }
+    },
+    "spain": {
+        "name": {
+            "ko": "스페인",
+            "en": "Spain",
+            "de": "Spanien",
+            "fr": "Espagne",
+            "es": "España",
+            "ja": "スペイン",
+            "th": "สเปน"
+        },
+        "flag": "🇪🇸",
+        "traits": ["warm", "culture", "leisure", "beach", "family"],
+        "details": {
+            "ko": {
+                "climate": "지중해성 따뜻한 기후",
+                "lifestyle": "여유로운 시에스타 문화",
+                "cost": "중간 수준 생활비",
+                "language": "스페인어",
+                "visa": "비영리 거주 비자"
+            },
+            "en": {
+                "climate": "Mediterranean warm climate",
+                "lifestyle": "Relaxed siesta culture",
+                "cost": "Moderate cost of living",
+                "language": "Spanish",
+                "visa": "Non-lucrative residence visa"
+            },
+            "de": {
+                "climate": "Mediterranes warmes Klima",
+                "lifestyle": "Entspannte Siesta-Kultur",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Nicht-erwerbstätigen-Aufenthaltsvisum"
+            },
+            "fr": {
+                "climate": "Climat méditerranéen chaud",
+                "lifestyle": "Culture de la sieste détendue",
+                "cost": "Coût de vie modéré",
+                "language": "Espagnol",
+                "visa": "Visa de résidence non lucratif"
+            },
+            "es": {
+                "climate": "Clima mediterráneo cálido",
+                "lifestyle": "Cultura relajada de la siesta",
+                "cost": "Costo de vida moderado",
+                "language": "Español",
+                "visa": "Visa de residencia no lucrativa"
+            },
+            "ja": {
+                "climate": "地中海性の暖かい気候",
+                "lifestyle": "ゆったりとしたシエスタ文化",
+                "cost": "中程度の生活費",
+                "language": "スペイン語",
+                "visa": "非営利居住ビザ"
+            },
+            "th": {
+                "climate": "สภาพอากาศเมดิเตอร์เรเนียนอบอุ่น",
+                "lifestyle": "วัฒนธรรมซีเอสต้าที่ผ่อนคลาย",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "สเปน",
+                "visa": "วีซ่าพำนักแบบไม่หากำไร"
+            }
+        }
+    },
+    "norway": {
+        "name": {
+            "ko": "노르웨이",
+            "en": "Norway",
+            "de": "Norwegen",
+            "fr": "Norvège",
+            "es": "Noruega",
+            "ja": "ノルウェー",
+            "th": "นอร์เวย์"
+        },
+        "flag": "🇳🇴",
+        "traits": ["nature", "safety", "balance", "cool", "universal_healthcare"],
+        "details": {
+            "ko": {
+                "climate": "서늘한 북유럽 기후",
+                "lifestyle": "자연과 조화로운 삶",
+                "cost": "매우 높은 생활비",
+                "language": "노르웨이어/영어",
+                "visa": "숙련 노동자 비자"
+            },
+            "en": {
+                "climate": "Cool Nordic climate",
+                "lifestyle": "Life in harmony with nature",
+                "cost": "Very high cost of living",
+                "language": "Norwegian/English",
+                "visa": "Skilled worker visa"
+            },
+            "de": {
+                "climate": "Kühles nordisches Klima",
+                "lifestyle": "Leben im Einklang mit der Natur",
+                "cost": "Sehr hohe Lebenshaltungskosten",
+                "language": "Norwegisch/Englisch",
+                "visa": "Facharbeitervisum"
+            },
+            "fr": {
+                "climate": "Climat nordique frais",
+                "lifestyle": "Vie en harmonie avec la nature",
+                "cost": "Coût de vie très élevé",
+                "language": "Norvégien/Anglais",
+                "visa": "Visa pour travailleurs qualifiés"
+            },
+            "es": {
+                "climate": "Clima nórdico fresco",
+                "lifestyle": "Vida en armonía con la naturaleza",
+                "cost": "Costo de vida muy alto",
+                "language": "Noruego/Inglés",
+                "visa": "Visa para trabajadores calificados"
+            },
+            "ja": {
+                "climate": "涼しい北欧の気候",
+                "lifestyle": "自然と調和した生活",
+                "cost": "非常に高い生活費",
+                "language": "ノルウェー語/英語",
+                "visa": "熟練労働者ビザ"
+            },
+            "th": {
+                "climate": "สภาพอากาศนอร์ดิกเย็น",
+                "lifestyle": "ชีวิตที่กลมกลืนกับธรรมชาติ",
+                "cost": "ค่าครองชีพสูงมาก",
+                "language": "นอร์เวย์/อังกฤษ",
+                "visa": "วีซ่าสำหรับแรงงานมีทักษะ"
+            }
+        }
+    },
+    "denmark": {
+        "name": {
+            "ko": "덴마크",
+            "en": "Denmark",
+            "de": "Dänemark",
+            "fr": "Danemark",
+            "es": "Dinamarca",
+            "ja": "デンマーク",
+            "th": "เดนมาร์ก"
+        },
+        "flag": "🇩🇰",
+        "traits": ["balance", "bike_friendly", "safety", "mild", "family"],
+        "details": {
+            "ko": {
+                "climate": "온화한 해양성 기후",
+                "lifestyle": "휘게 라이프스타일",
+                "cost": "높은 생활비",
+                "language": "덴마크어/영어",
+                "visa": "포지티브 리스트 제도"
+            },
+            "en": {
+                "climate": "Mild maritime climate",
+                "lifestyle": "Hygge lifestyle",
+                "cost": "High cost of living",
+                "language": "Danish/English",
+                "visa": "Positive List scheme"
+            },
+            "de": {
+                "climate": "Mildes Seeklima",
+                "lifestyle": "Hygge-Lebensstil",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Dänisch/Englisch",
+                "visa": "Positivlisten-System"
+            },
+            "fr": {
+                "climate": "Climat maritime tempéré",
+                "lifestyle": "Mode de vie hygge",
+                "cost": "Coût de vie élevé",
+                "language": "Danois/Anglais",
+                "visa": "Système de liste positive"
+            },
+            "es": {
+                "climate": "Clima marítimo templado",
+                "lifestyle": "Estilo de vida hygge",
+                "cost": "Alto costo de vida",
+                "language": "Danés/Inglés",
+                "visa": "Esquema de Lista Positiva"
+            },
+            "ja": {
+                "climate": "穏やかな海洋性気候",
+                "lifestyle": "ヒュッゲライフスタイル",
+                "cost": "高い生活費",
+                "language": "デンマーク語/英語",
+                "visa": "ポジティブリスト制度"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทะเลอ่อนโยน",
+                "lifestyle": "ไลฟ์สไตล์ฮิวก์เก้",
+                "cost": "ค่าครองชีพสูง",
+                "language": "เดนมาร์ก/อังกฤษ",
+                "visa": "ระบบ Positive List"
+            }
+        }
+    },
+    "finland": {
+        "name": {
+            "ko": "핀란드",
+            "en": "Finland",
+            "de": "Finnland",
+            "fr": "Finlande",
+            "es": "Finlandia",
+            "ja": "フィンランド",
+            "th": "ฟินแลนด์"
+        },
+        "flag": "🇫🇮",
+        "traits": ["education", "nature", "cool", "safety", "tech"],
+        "details": {
+            "ko": {
+                "climate": "추운 북유럽 기후",
+                "lifestyle": "높은 교육 수준",
+                "cost": "높은 생활비",
+                "language": "핀란드어/영어",
+                "visa": "거주 허가 제도"
+            },
+            "en": {
+                "climate": "Cold Nordic climate",
+                "lifestyle": "High education level",
+                "cost": "High cost of living",
+                "language": "Finnish/English",
+                "visa": "Residence permit system"
+            },
+            "de": {
+                "climate": "Kaltes nordisches Klima",
+                "lifestyle": "Hohes Bildungsniveau",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Finnisch/Englisch",
+                "visa": "Aufenthaltserlaubnissystem"
+            },
+            "fr": {
+                "climate": "Climat nordique froid",
+                "lifestyle": "Niveau d'éducation élevé",
+                "cost": "Coût de vie élevé",
+                "language": "Finnois/Anglais",
+                "visa": "Système de permis de séjour"
+            },
+            "es": {
+                "climate": "Clima nórdico frío",
+                "lifestyle": "Alto nivel educativo",
+                "cost": "Alto costo de vida",
+                "language": "Finlandés/Inglés",
+                "visa": "Sistema de permiso de residencia"
+            },
+            "ja": {
+                "climate": "寒い北欧の気候",
+                "lifestyle": "高い教育水準",
+                "cost": "高い生活費",
+                "language": "フィンランド語/英語",
+                "visa": "居住許可制度"
+            },
+            "th": {
+                "climate": "สภาพอากาศนอร์ดิกหนาว",
+                "lifestyle": "ระดับการศึกษาสูง",
+                "cost": "ค่าครองชีพสูง",
+                "language": "ฟินแลนด์/อังกฤษ",
+                "visa": "ระบบใบอนุญาตพำนัก"
+            }
+        }
+    },
+    "austria": {
+        "name": {
+            "ko": "오스트리아",
+            "en": "Austria",
+            "de": "Österreich",
+            "fr": "Autriche",
+            "es": "Austria",
+            "ja": "オーストリア",
+            "th": "ออสเตรีย"
+        },
+        "flag": "🇦🇹",
+        "traits": ["mountain", "culture", "safety", "seasons", "classical_music"],
+        "details": {
+            "ko": {
+                "climate": "대륙성 기후",
+                "lifestyle": "문화적이고 안정적",
+                "cost": "중상위 생활비",
+                "language": "독일어",
+                "visa": "적백카드 제도"
+            },
+            "en": {
+                "climate": "Continental climate",
+                "lifestyle": "Cultural and stable",
+                "cost": "Upper-middle cost of living",
+                "language": "German",
+                "visa": "Red-White-Red Card"
+            },
+            "de": {
+                "climate": "Kontinentales Klima",
+                "lifestyle": "Kulturell und stabil",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Deutsch",
+                "visa": "Rot-Weiß-Rot-Karte"
+            },
+            "fr": {
+                "climate": "Climat continental",
+                "lifestyle": "Culturel et stable",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Allemand",
+                "visa": "Carte Rouge-Blanc-Rouge"
+            },
+            "es": {
+                "climate": "Clima continental",
+                "lifestyle": "Cultural y estable",
+                "cost": "Costo de vida medio-alto",
+                "language": "Alemán",
+                "visa": "Tarjeta Rojo-Blanco-Rojo"
+            },
+            "ja": {
+                "climate": "大陸性気候",
+                "lifestyle": "文化的で安定的",
+                "cost": "中上位の生活費",
+                "language": "ドイツ語",
+                "visa": "赤白赤カード制度"
+            },
+            "th": {
+                "climate": "สภาพอากาศแบบทวีป",
+                "lifestyle": "มีวัฒนธรรมและมั่นคง",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "เยอรมัน",
+                "visa": "บัตรแดง-ขาว-แดง"
+            }
+        }
+    },
+    "italy": {
+        "name": {
+            "ko": "이탈리아",
+            "en": "Italy",
+            "de": "Italien",
+            "fr": "Italie",
+            "es": "Italia",
+            "ja": "イタリア",
+            "th": "อิตาลี"
+        },
+        "flag": "🇮🇹",
+        "traits": ["culture", "warm", "traditional_cuisine", "family", "history"],
+        "details": {
+            "ko": {
+                "climate": "지중해성 기후",
+                "lifestyle": "가족 중심 문화",
+                "cost": "중간 수준 생활비",
+                "language": "이탈리아어",
+                "visa": "투자자 비자"
+            },
+            "en": {
+                "climate": "Mediterranean climate",
+                "lifestyle": "Family-centered culture",
+                "cost": "Moderate cost of living",
+                "language": "Italian",
+                "visa": "Investor visa"
+            },
+            "de": {
+                "climate": "Mediterranes Klima",
+                "lifestyle": "Familienzentrierte Kultur",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Italienisch",
+                "visa": "Investorenvisum"
+            },
+            "fr": {
+                "climate": "Climat méditerranéen",
+                "lifestyle": "Culture centrée sur la famille",
+                "cost": "Coût de vie modéré",
+                "language": "Italien",
+                "visa": "Visa investisseur"
+            },
+            "es": {
+                "climate": "Clima mediterráneo",
+                "lifestyle": "Cultura centrada en la familia",
+                "cost": "Costo de vida moderado",
+                "language": "Italiano",
+                "visa": "Visa de inversor"
+            },
+            "ja": {
+                "climate": "地中海性気候",
+                "lifestyle": "家族中心の文化",
+                "cost": "中程度の生活費",
+                "language": "イタリア語",
+                "visa": "投資家ビザ"
+            },
+            "th": {
+                "climate": "สภาพอากาศเมดิเตอร์เรเนียน",
+                "lifestyle": "วัฒนธรรมที่ให้ความสำคัญกับครอบครัว",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "อิตาลี",
+                "visa": "วีซ่านักลงทุน"
+            }
+        }
+    },
+    "sweden": {
+        "name": {
+            "ko": "스웨덴",
+            "en": "Sweden",
+            "de": "Schweden",
+            "fr": "Suède",
+            "es": "Suecia",
+            "ja": "スウェーデン",
+            "th": "สวีเดน"
+        },
+        "flag": "🇸🇪",
+        "traits": ["tech", "balance", "nature", "cool", "innovation"],
+        "details": {
+            "ko": {
+                "climate": "서늘한 북유럽 기후",
+                "lifestyle": "혁신적이고 평등한 사회",
+                "cost": "높은 생활비",
+                "language": "스웨덴어/영어",
+                "visa": "취업 거주 허가"
+            },
+            "en": {
+                "climate": "Cool Nordic climate",
+                "lifestyle": "Innovative and equal society",
+                "cost": "High cost of living",
+                "language": "Swedish/English",
+                "visa": "Work residence permit"
+            },
+            "de": {
+                "climate": "Kühles nordisches Klima",
+                "lifestyle": "Innovative und gleichberechtigte Gesellschaft",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Schwedisch/Englisch",
+                "visa": "Arbeitsaufenthaltserlaubnis"
+            },
+            "fr": {
+                "climate": "Climat nordique frais",
+                "lifestyle": "Société innovante et égalitaire",
+                "cost": "Coût de vie élevé",
+                "language": "Suédois/Anglais",
+                "visa": "Permis de séjour de travail"
+            },
+            "es": {
+                "climate": "Clima nórdico fresco",
+                "lifestyle": "Sociedad innovadora e igualitaria",
+                "cost": "Alto costo de vida",
+                "language": "Sueco/Inglés",
+                "visa": "Permiso de residencia laboral"
+            },
+            "ja": {
+                "climate": "涼しい北欧の気候",
+                "lifestyle": "革新的で平等な社会",
+                "cost": "高い生活費",
+                "language": "スウェーデン語/英語",
+                "visa": "就労居住許可"
+            },
+            "th": {
+                "climate": "สภาพอากาศนอร์ดิกเย็น",
+                "lifestyle": "สังคมที่มีนวัตกรรมและเท่าเทียม",
+                "cost": "ค่าครองชีพสูง",
+                "language": "สวีเดน/อังกฤษ",
+                "visa": "ใบอนุญาตพำนักเพื่อทำงาน"
+            }
+        }
+    },
+    "mexico": {
+        "name": {
+            "ko": "멕시코",
+            "en": "Mexico",
+            "de": "Mexiko",
+            "fr": "Mexique",
+            "es": "México",
+            "ja": "メキシコ",
+            "th": "เม็กซิโก"
+        },
+        "flag": "🇲🇽",
+        "traits": ["warm", "culture", "family", "beach", "affordable"],
+        "details": {
+            "ko": {
+                "climate": "열대 및 온대 기후",
+                "lifestyle": "활기차고 가족적",
+                "cost": "낮은 생활비",
+                "language": "스페인어",
+                "visa": "임시 거주 비자"
+            },
+            "en": {
+                "climate": "Tropical and temperate climate",
+                "lifestyle": "Vibrant and family-oriented",
+                "cost": "Low cost of living",
+                "language": "Spanish",
+                "visa": "Temporary residence visa"
+            },
+            "de": {
+                "climate": "Tropisches und gemäßigtes Klima",
+                "lifestyle": "Lebhaft und familienorientiert",
+                "cost": "Niedrige Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Temporäres Aufenthaltsvisum"
+            },
+            "fr": {
+                "climate": "Climat tropical et tempéré",
+                "lifestyle": "Dynamique et axé sur la famille",
+                "cost": "Faible coût de vie",
+                "language": "Espagnol",
+                "visa": "Visa de résidence temporaire"
+            },
+            "es": {
+                "climate": "Clima tropical y templado",
+                "lifestyle": "Vibrante y familiar",
+                "cost": "Bajo costo de vida",
+                "language": "Español",
+                "visa": "Visa de residencia temporal"
+            },
+            "ja": {
+                "climate": "熱帯および温帯気候",
+                "lifestyle": "活気があり家族的",
+                "cost": "低い生活費",
+                "language": "スペイン語",
+                "visa": "一時居住ビザ"
+            },
+            "th": {
+                "climate": "สภาพอากาศเขตร้อนและอบอุ่น",
+                "lifestyle": "มีชีวิตชีวาและเน้นครอบครัว",
+                "cost": "ค่าครองชีพต่ำ",
+                "language": "สเปน",
+                "visa": "วีซ่าพำนักชั่วคราว"
+            }
+        }
+    },
+    "thailand": {
+        "name": {
+            "ko": "태국",
+            "en": "Thailand",
+            "de": "Thailand",
+            "fr": "Thaïlande",
+            "es": "Tailandia",
+            "ja": "タイ",
+            "th": "ประเทศไทย"
+        },
+        "flag": "🇹🇭",
+        "traits": ["tropical", "beach", "affordable", "culture", "warm_retirement"],
+        "details": {
+            "ko": {
+                "climate": "열대 몬순 기후",
+                "lifestyle": "느긋하고 친절한 문화",
+                "cost": "매우 낮은 생활비",
+                "language": "태국어",
+                "visa": "은퇴 비자/디지털 노마드 비자"
+            },
+            "en": {
+                "climate": "Tropical monsoon climate",
+                "lifestyle": "Relaxed and friendly culture",
+                "cost": "Very low cost of living",
+                "language": "Thai",
+                "visa": "Retirement visa/Digital nomad visa"
+            },
+            "de": {
+                "climate": "Tropisches Monsunklima",
+                "lifestyle": "Entspannte und freundliche Kultur",
+                "cost": "Sehr niedrige Lebenshaltungskosten",
+                "language": "Thai",
+                "visa": "Ruhestandsvisum/Digitales Nomadenvisum"
+            },
+            "fr": {
+                "climate": "Climat tropical de mousson",
+                "lifestyle": "Culture détendue et amicale",
+                "cost": "Coût de vie très bas",
+                "language": "Thaï",
+                "visa": "Visa retraite/Visa nomade numérique"
+            },
+            "es": {
+                "climate": "Clima monzónico tropical",
+                "lifestyle": "Cultura relajada y amigable",
+                "cost": "Costo de vida muy bajo",
+                "language": "Tailandés",
+                "visa": "Visa de jubilación/Visa nómada digital"
+            },
+            "ja": {
+                "climate": "熱帯モンスーン気候",
+                "lifestyle": "のんびりとした親切な文化",
+                "cost": "非常に低い生活費",
+                "language": "タイ語",
+                "visa": "退職ビザ/デジタルノマドビザ"
+            },
+            "th": {
+                "climate": "ภูมิอากาศมรสุมเขตร้อน",
+                "lifestyle": "วัฒนธรรมที่ผ่อนคลายและเป็นมิตร",
+                "cost": "ค่าครองชีพต่ำมาก",
+                "language": "ไทย",
+                "visa": "วีซ่าเกษียณ/วีซ่าดิจิทัลโนแมด"
+            }
+        }
+    },
+    "uruguay": {
+        "name": {
+            "ko": "우루과이",
+            "en": "Uruguay",
+            "de": "Uruguay",
+            "fr": "Uruguay",
+            "es": "Uruguay",
+            "ja": "ウルグアイ",
+            "th": "อุรุกวัย"
+        },
+        "flag": "🇺🇾",
+        "traits": ["mild", "beach", "safety", "balance", "relaxed"],
+        "details": {
+            "ko": {
+                "climate": "온화한 아열대 기후",
+                "lifestyle": "평화롭고 진보적",
+                "cost": "중간 수준 생활비",
+                "language": "스페인어",
+                "visa": "투자자 거주 프로그램"
+            },
+            "en": {
+                "climate": "Mild subtropical climate",
+                "lifestyle": "Peaceful and progressive",
+                "cost": "Moderate cost of living",
+                "language": "Spanish",
+                "visa": "Investor residence program"
+            },
+            "de": {
+                "climate": "Mildes subtropisches Klima",
+                "lifestyle": "Friedlich und fortschrittlich",
+                "cost": "Mittlere Lebenshaltungskosten",
+                "language": "Spanisch",
+                "visa": "Investoren-Aufenthaltsprogramm"
+            },
+            "fr": {
+                "climate": "Climat subtropical doux",
+                "lifestyle": "Paisible et progressiste",
+                "cost": "Coût de vie modéré",
+                "language": "Espagnol",
+                "visa": "Programme de résidence investisseur"
+            },
+            "es": {
+                "climate": "Clima subtropical templado",
+                "lifestyle": "Pacífico y progresista",
+                "cost": "Costo de vida moderado",
+                "language": "Español",
+                "visa": "Programa de residencia para inversores"
+            },
+            "ja": {
+                "climate": "温暖な亜熱帯気候",
+                "lifestyle": "平和的で進歩的",
+                "cost": "中程度の生活費",
+                "language": "スペイン語",
+                "visa": "投資家居住プログラム"
+            },
+            "th": {
+                "climate": "สภาพอากาศกึ่งเขตร้อนอ่อนโยน",
+                "lifestyle": "สงบและก้าวหน้า",
+                "cost": "ค่าครองชีพระดับกลาง",
+                "language": "สเปน",
+                "visa": "โครงการพำนักสำหรับนักลงทุน"
+            }
+        }
+    },
+    "southkorea": {
+        "name": {
+            "ko": "대한민국",
+            "en": "South Korea",
+            "de": "Südkorea",
+            "fr": "Corée du Sud",
+            "es": "Corea del Sur",
+            "ja": "韓国",
+            "th": "เกาหลีใต้"
+        },
+        "flag": "🇰🇷",
+        "traits": ["tech", "city", "seasons", "public_transport", "safety"],
+        "details": {
+            "ko": {
+                "climate": "뚜렷한 사계절",
+                "lifestyle": "역동적이고 빠른 생활",
+                "cost": "중상위 생활비",
+                "language": "한국어",
+                "visa": "거주비자 F계열"
+            },
+            "en": {
+                "climate": "Four distinct seasons",
+                "lifestyle": "Dynamic and fast-paced life",
+                "cost": "Upper-middle cost of living",
+                "language": "Korean",
+                "visa": "F-series residence visa"
+            },
+            "de": {
+                "climate": "Vier ausgeprägte Jahreszeiten",
+                "lifestyle": "Dynamisches und schnelllebiges Leben",
+                "cost": "Mittel bis hohe Lebenshaltungskosten",
+                "language": "Koreanisch",
+                "visa": "F-Serie Aufenthaltsvisum"
+            },
+            "fr": {
+                "climate": "Quatre saisons distinctes",
+                "lifestyle": "Vie dynamique et rapide",
+                "cost": "Coût de vie moyen-élevé",
+                "language": "Coréen",
+                "visa": "Visa de résidence série F"
+            },
+            "es": {
+                "climate": "Cuatro estaciones distintas",
+                "lifestyle": "Vida dinámica y acelerada",
+                "cost": "Costo de vida medio-alto",
+                "language": "Coreano",
+                "visa": "Visa de residencia serie F"
+            },
+            "ja": {
+                "climate": "はっきりとした四季",
+                "lifestyle": "ダイナミックで速いペースの生活",
+                "cost": "中上位の生活費",
+                "language": "韓国語",
+                "visa": "居住ビザFシリーズ"
+            },
+            "th": {
+                "climate": "สี่ฤดูที่ชัดเจน",
+                "lifestyle": "ชีวิตที่มีพลังและรวดเร็ว",
+                "cost": "ค่าครองชีพระดับกลางถึงสูง",
+                "language": "เกาหลี",
+                "visa": "วีซ่าพำนักซีรีส์ F"
+            }
+        }
+    },
+    "dubai": {
+        "name": {
+            "ko": "두바이(UAE)",
+            "en": "Dubai (UAE)",
+            "de": "Dubai (VAE)",
+            "fr": "Dubaï (EAU)",
+            "es": "Dubái (EAU)",
+            "ja": "ドバイ（UAE）",
+            "th": "ดูไบ (สหรัฐอาหรับเอมิเรตส์)"
+        },
+        "flag": "🇦🇪",
+        "traits": ["luxury", "tax_free", "hot", "business", "modern"],
+        "relatedTraits": ["startup_hub", "international"],
+        "details": {
+            "ko": {
+                "climate": "사막성 더운 기후",
+                "lifestyle": "국제적이고 럭셔리한",
+                "cost": "높은 생활비",
+                "language": "아랍어/영어",
+                "visa": "골든 비자/프리랜서 비자",
+                "특별혜택": "소득세 0%"
+            },
+            "en": {
+                "climate": "Desert hot climate",
+                "lifestyle": "International and luxurious",
+                "cost": "High cost of living",
+                "language": "Arabic/English",
+                "visa": "Golden Visa/Freelancer Visa",
+                "특별혜택": "0% income tax"
+            },
+            "de": {
+                "climate": "Heißes Wüstenklima",
+                "lifestyle": "International und luxuriös",
+                "cost": "Hohe Lebenshaltungskosten",
+                "language": "Arabisch/Englisch",
+                "visa": "Golden Visa/Freelancer-Visum",
+                "특별혜택": "0% Einkommensteuer"
+            },
+            "fr": {
+                "climate": "Climat désertique chaud",
+                "lifestyle": "International et luxueux",
+                "cost": "Coût de vie élevé",
+                "language": "Arabe/Anglais",
+                "visa": "Golden Visa/Visa Freelance",
+                "특별혜택": "0% d'impôt sur le revenu"
+            },
+            "es": {
+                "climate": "Clima desértico caluroso",
+                "lifestyle": "Internacional y lujoso",
+                "cost": "Alto costo de vida",
+                "language": "Árabe/Inglés",
+                "visa": "Golden Visa/Visa Freelance",
+                "특별혜택": "0% de impuesto sobre la renta"
+            },
+            "ja": {
+                "climate": "砂漠の暑い気候",
+                "lifestyle": "国際的で豪華",
+                "cost": "高い生活費",
+                "language": "アラビア語/英語",
+                "visa": "ゴールデンビザ/フリーランサービザ",
+                "특별혜택": "所得税0%"
+            },
+            "th": {
+                "climate": "สภาพอากาศทะเลทรายร้อน",
+                "lifestyle": "นานาชาติและหรูหรา",
+                "cost": "ค่าครองชีพสูง",
+                "language": "อาหรับ/อังกฤษ",
+                "visa": "Golden Visa/วีซ่าฟรีแลนซ์",
+                "특별혜택": "ภาษีเงินได้ 0%"
+            }
+        }
+    },        
+    "estonia": {
+        "name": {
+            "ko": "에스토니아",
+            "en": "Estonia",
+            "de": "Estland",
+            "fr": "Estonie",
+            "es": "Estonia",
+            "ja": "エストニア",
+            "th": "เอสโตเนีย"
+        },
+        "flag": "🇪🇪",
+        "traits": ["tech", "digital", "cool", "affordable", "startup_hub"],
+        "relatedTraits": ["nomad_friendly", "progressive"],
+        "details": {
+            "ko": {
+                "climate": "서늘한 북유럽 기후",
+                "lifestyle": "디지털 선진국",
+                "cost": "저렴한 생활비",
+                "language": "에스토니아어/영어",
+                "visa": "디지털 노마드 비자",
+                "특별혜택": "e-Residency 프로그램"
+            },
+            "en": {
+                "climate": "Cool Nordic climate",
+                "lifestyle": "Digital pioneer country",
+                "cost": "Affordable cost of living",
+                "language": "Estonian/English",
+                "visa": "Digital Nomad Visa",
+                "특별혜택": "e-Residency program"
+            },
+            "de": {
+                "climate": "Kühles nordisches Klima",
+                "lifestyle": "Digitales Pionierland",
+                "cost": "Günstige Lebenshaltungskosten",
+                "language": "Estnisch/Englisch",
+                "visa": "Digitales Nomadenvisum",
+                "특별혜택": "e-Residency-Programm"
+            },
+            "fr": {
+                "climate": "Climat nordique frais",
+                "lifestyle": "Pays pionnier du numérique",
+                "cost": "Coût de vie abordable",
+                "language": "Estonien/Anglais",
+                "visa": "Visa nomade numérique",
+                "특별혜택": "Programme e-Residency"
+            },
+            "es": {
+                "climate": "Clima nórdico fresco",
+                "lifestyle": "País pionero digital",
+                "cost": "Costo de vida asequible",
+                "language": "Estonio/Inglés",
+                "visa": "Visa de nómada digital",
+                "특별혜택": "Programa e-Residency"
+            },
+            "ja": {
+                "climate": "涼しい北欧の気候",
+                "lifestyle": "デジタル先進国",
+                "cost": "手頃な生活費",
+                "language": "エストニア語/英語",
+                "visa": "デジタルノマドビザ",
+                "특별혜택": "e-Residencyプログラム"
+            },
+            "th": {
+                "climate": "สภาพอากาศนอร์ดิกเย็น",
+                "lifestyle": "ประเทศผู้นำด้านดิจิทัล",
+                "cost": "ค่าครองชีพไม่แพง",
+                "language": "เอสโตเนีย/อังกฤษ",
+                "visa": "วีซ่าดิจิทัลโนแมด",
+                "특별혜택": "โครงการ e-Residency"
+            }
+        }
+    }    
+}
